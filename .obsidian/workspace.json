@@ -14,25 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "Анатомия/Лекции/MOC Анатомия.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "MOC Анатомия"
-            }
-          },
-          {
-            "id": "71c0e640e5c7dc54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Анатомия/Лекции/Лимфа.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лимфа"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "Группы крови"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/Лимфа.md",
+                "file": "Анатомия/Лекции/MOC Анатомия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лимфа"
+              "title": "Outline of MOC Анатомия"
             }
           },
           {
@@ -139,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Анатомия/Лекции/Лимфа.md",
+                "file": "Анатомия/Лекции/MOC Анатомия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Лимфа"
+              "title": "Outgoing links from MOC Анатомия"
             }
           },
           {
@@ -153,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Анатомия/Лекции/Лимфа.md",
+                "file": "Анатомия/Лекции/MOC Анатомия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Лимфа"
+              "title": "Backlinks for MOC Анатомия"
             }
           },
           {
@@ -207,19 +192,21 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "71c0e640e5c7dc54",
+  "active": "e53eff853726f5dc",
   "lastOpenFiles": [
+    "Общая Биология/Классификация тегов.md",
+    "Анатомия/Лекции/MOC Анатомия.md",
+    "Анатомия/Лекции/Группы крови.md",
+    "Untitled.base",
+    "Анатомия/Лекции/Лимфа.md",
     "Картинки/Pasted image 20260207190049.png",
     "Анатомия/Лекции/Фагоцитоз.md",
-    "Анатомия/Лекции/Лимфа.md",
-    "Плазма.md",
+    "Анатомия/Лекции/Плазма.md",
     "Анатомия/Лекции/Фибриноген.md",
     "Анатомия/Лекции/Кровь.md",
-    "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Внутренняя среда организма.md",
     "Картинки/Pasted image 20260207185750.png",
     "Картинки/Pasted image 20260207185459.png",
-    "Анатомия/Лекции/Группы крови.md",
     "Анатомия/Лекции/Лимфоциты.md",
     "Анатомия/Лекции/Иммунитет в целом.md",
     "Анатомия/Лекции/Гуморальный иммунитет.md",
@@ -246,8 +233,6 @@
     "Картинки/Pasted image 20260202190734.png",
     "Картинки/Pasted image 20260202180218.png",
     "Картинки/Pasted image 20260202175217.png",
-    "Картинки/Pasted image 20260202174410.png",
-    "Untitled.base",
     "Планы.canvas",
     "Картинки",
     "Polnii-spravochnik-po-russkomu-yaziku.pdf",
