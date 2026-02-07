@@ -3,5 +3,6 @@
   "accentColor": "#b61b1b",
   "cssTheme": "Fancy-a-Story",
   "textFontFamily": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "showRibbon": true
 }

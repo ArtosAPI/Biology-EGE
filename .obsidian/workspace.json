@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Анатомия/Лекции/MOC Анатомия.md",
-                "mode": "source",
+                "file": "Анатомия/Лекции/Гуморальный иммунитет.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC Анатомия"
+              "title": "Гуморальный иммунитет"
+            }
+          },
+          {
+            "id": "1a38bf4c250e2ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Анатомия/Лекции/Группы крови.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Группы крови"
             }
           }
         ]
@@ -95,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/MOC Анатомия.md",
+                "file": "Анатомия/Лекции/Гуморальный иммунитет.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MOC Анатомия"
+              "title": "Outline of Гуморальный иммунитет"
             }
           },
           {
@@ -110,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Анатомия/Лекции/MOC Анатомия.md",
+                "file": "Анатомия/Лекции/Гуморальный иммунитет.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MOC Анатомия"
+              "title": "Outgoing links from Гуморальный иммунитет"
             }
           },
           {
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Анатомия/Лекции/MOC Анатомия.md",
+                "file": "Анатомия/Лекции/Гуморальный иммунитет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MOC Анатомия"
+              "title": "Backlinks for Гуморальный иммунитет"
             }
           },
           {
@@ -152,8 +166,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,33 +174,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
+      "bases:Create new base": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
+      "obsidian42-brat:BRAT": true,
       "obsidian-git:Open Git source control": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "mxmind:Mxmind": false
+      "smart-connections:Smart Connections: Open connections view": true,
+      "smart-connections:Smart Lookup: Open lookup view": true,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "file-tree-alternative:File Tree Alternative Plugin": true,
+      "pexels-banner:🚩 Pixel Banner Menu": true,
+      "mxmind:Mxmind": true,
+      "obisidian-note-linker:Note Linker": false
     }
   },
   "active": "e53eff853726f5dc",
   "lastOpenFiles": [
+    "Анатомия/Лекции/Группы крови.md",
+    "Анатомия/Лекции/Система комплемента.md",
+    "Анатомия/Лекции/Гуморальный иммунитет.md",
+    "Анатомия/Лекции/Иммунитет в целом.md",
+    "Анатомия/Лекции/Клеточный иммунитет.md",
+    "Анатомия/Лекции/Лимфоциты.md",
+    "Анатомия/Лекции/Врожденный иммунитет.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/MOC Анатомия.canvas",
-    "Анатомия/Лекции/Иммунитет в целом.md",
     "Анатомия/Лекции/Миоциты.md",
-    "Анатомия/Лекции/Клеточный иммунитет.md",
     "Анатомия/Лекции/Приобретенный иммунитет.md",
     "Анатомия/Лекции/Исскуственный иммунитет.md",
-    "Анатомия/Лекции/Лимфоциты.md",
     "README.md",
     "Анатомия/Лекции/Естественный иммунитет.md",
     "Анатомия/Лекции/Нейтрофилы.md",
@@ -195,14 +213,10 @@
     "Анатомия/Лекции/Макрофаги.md",
     "Анатомия/Лекции/Внутренняя среда организма.md",
     "russian.txt",
-    "Анатомия/Лекции/Врожденный иммунитет.md",
-    "Анатомия/Лекции/Система комплемента.md",
     "Анатомия/Лекции/Антиген.md",
     "Анатомия/Лекции/Лейкоциты.md",
     "Анатомия/Лекции/Антитело.md",
     "Анатомия/Лекции/АПК.md",
-    "Анатомия/Лекции/Гуморальный иммунитет.md",
-    "Анатомия/Лекции/Группы крови.md",
     "Анатомия/Лекции/Моноциты.md",
     "Картинки/Pasted image 20260129134447.png",
     "Картинки/Pasted image 20260202191047.png",
