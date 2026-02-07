@@ -97,7 +97,7 @@
     "repelStrength": 10,
     "linkStrength": 1,
     "linkDistance": 250,
-    "scale": 0.5359795996225957,
+    "scale": 0.5359795996225963,
     "close": true
   },
   "openInNewTab": false,
@@ -141,6 +141,41 @@
       "pinNodes": {},
       "hiddenLegendRows": [],
       "collapsedLegendRows": []
+    },
+    {
+      "id": "8f1c9009-f3ad-4129-81cb-f8ee77b87752",
+      "name": "First_Sol",
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": [],
+      "engineOptions": {
+        "colorGroups": [],
+        "search": "",
+        "hideUnresolved": false,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": false,
+        "lineSizeMultiplier": 1,
+        "nodeSizeMultiplier": 1,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "centerStrength": 0.518713248970312,
+        "linkDistance": 250,
+        "linkStrength": 1,
+        "repelStrength": 10
+      }
     }
   ],
   "startingStateID": "default-vault",
@@ -348,11 +383,11 @@
     "shapes": true,
     "layers": true,
     "elements-stats": true,
-    "names": true,
+    "names": false,
     "zoom": true,
     "local-graph": true,
     "display": true,
-    "filter": false,
+    "filter": true,
     "inputs": true,
     "performances": true,
     "beta": true
