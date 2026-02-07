@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: wx952-ewri4
+created: 2025-08-14T16:10:31+03:00
