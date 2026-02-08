@@ -165,6 +165,20 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "c4f0ae5b816f30d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -183,12 +197,6 @@
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": true,
       "obsidian-git:Open Git source control": false,
-      "smart-connections:Smart Connections: Open connections view": true,
-      "smart-connections:Smart Lookup: Open lookup view": true,
-      "smart-connections:Smart Connections: Open random connection": true,
-      "file-tree-alternative:File Tree Alternative Plugin": true,
-      "pexels-banner:🚩 Pixel Banner Menu": true,
-      "mxmind:Mxmind": true,
       "obisidian-note-linker:Note Linker": false
     }
   },
