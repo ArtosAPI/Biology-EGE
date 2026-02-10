@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Анатомия/Лекции/MOC Анатомия.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -35,8 +35,7 @@
               "title": "Группы крови"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/Группы крови.md",
+                "file": "Анатомия/Лекции/MOC Анатомия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Группы крови"
+              "title": "Outline of MOC Анатомия"
             }
           },
           {
@@ -201,13 +200,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "1a38bf4c250e2ca7",
+  "active": "e53eff853726f5dc",
   "lastOpenFiles": [
+    "Анатомия/Лекции/Группы крови.md",
     "Картинки/Pasted image 20260210172212.png",
     "Картинки/Pasted image 20260210172140.png",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Гемостаз.md",
-    "Анатомия/Лекции/Группы крови.md",
     "Анатомия/Лекции/Свертывание крови.md",
     "Анатомия/Лекции/Лимфа.md",
     "Анатомия/Лекции/Лейкоциты.md",
@@ -241,7 +240,6 @@
     "Картинки/Pasted image 20260129134527.png",
     "Картинки/Pasted image 20260202191031.png",
     "Картинки/Pasted image 20260202190734.png",
-    "Картинки/Pasted image 20260202180218.png",
     "Планы.canvas",
     "Картинки",
     "Polnii-spravochnik-po-russkomu-yaziku.pdf",
