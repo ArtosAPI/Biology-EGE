@@ -35,7 +35,8 @@
               "title": "Группы крови"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/MOC Анатомия.md",
+                "file": "Анатомия/Лекции/Группы крови.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MOC Анатомия"
+              "title": "Outline of Группы крови"
             }
           },
           {
@@ -200,11 +201,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "e53eff853726f5dc",
+  "active": "1a38bf4c250e2ca7",
   "lastOpenFiles": [
-    "Общая Биология/Классификация тегов.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Группы крови.md",
+    "Общая Биология/Классификация тегов.md",
     "Untitled.base",
     "Анатомия/Лекции/Лимфа.md",
     "Картинки/Pasted image 20260207190049.png",
