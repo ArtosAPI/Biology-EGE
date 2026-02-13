@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "Вены.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -85,9 +85,9 @@
               "state": {
                 "file": "Сердечно-сосудистая система.canvas",
                 "viewState": {
-                  "x": 384.17473596635944,
-                  "y": 103.83194567241964,
-                  "zoom": -0.3333333333333334
+                  "x": 343.1699920346292,
+                  "y": -56.9460092732287,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -95,13 +95,13 @@
             }
           },
           {
-            "id": "b53bf698eb285169",
+            "id": "4a8f1c18e73b25db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Сердце.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вены.md",
+                "file": "Сердечно-сосудистая система.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Вены"
+              "title": "Outline of Сердечно-сосудистая система"
             }
           },
           {
@@ -302,29 +302,29 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "34776c33bc4bbd4f",
+  "active": "215237d632bbe358",
   "lastOpenFiles": [
+    "Сердце.md",
+    "Сердечно-сосудистая система.canvas",
+    "Анатомия/Лекции/Мышечная ткань.md",
+    "Артерии.md",
+    "Сосуды.md",
+    "Артерии 1.md",
+    "Анатомия/Лекции/Эпителиальная ткань.md",
+    "Вены.md",
     "Картинки/Pasted image 20260213183940.png",
     "Картинки/Pasted image 20260213183908.png",
-    "Вены.md",
     "Картинки/Pasted image 20260213183929.png",
-    "Сосуды.md",
     "Картинки/Pasted image 20260213183843.png",
-    "Артерии.md",
-    "Анатомия/Лекции/Эпителиальная ткань.md",
-    "Сердечно-сосудистая система.canvas",
     "Анатомия/Картинки/МышечнаяРабота.jpg",
     "Картинки/Pasted image 20260213183329.png",
     "Капилляры.md",
-    "Сердце.md",
-    "Анатомия/Лекции/Мышечная ткань.md",
     "Картинки/Pasted image 20260213182750.png",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Иммунитет в целом.md",
     "Картинки/Pasted image 20260213182122.png",
     "Картинки/Pasted image 20260213181829.png",
     "Картинки/Pasted image 20260213181704.png",
-    "Картинки/Pasted image 20260213181652.png",
     "Анатомия/Лекции/Виды органов.md",
     "Анатомия/Лекции/Группы крови.md",
     "Анатомия/Лекции/Лимфа.md",
@@ -341,7 +341,6 @@
     "Анатомия/Лекции/Фибриноген.md",
     "Анатомия/Лекции/Кровь.md",
     "Анатомия/Лекции/Гуморальный иммунитет.md",
-    "Анатомия/Лекции/Система комплемента.md",
     "Анатомия/Лекции/MOC Анатомия.canvas",
     "russian.txt",
     "Планы.canvas",
