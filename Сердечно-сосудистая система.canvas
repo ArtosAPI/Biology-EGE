@@ -1,8 +1,8 @@
 {
 	"nodes":[
+		{"id":"f70ffe0c0461aa91","x":380,"y":-160,"width":186,"height":67,"type":"file","file":"Сосуды.md"},
 		{"id":"b40e4583e6623061","type":"text","text":"Сердечно-сосудистая система","x":20,"y":-300,"width":250,"height":60},
 		{"id":"f379d43a3310f3ea","type":"file","file":"Сердце.md","x":-340,"y":-160,"width":400,"height":180},
-		{"id":"c7dbac4d38585441","type":"text","text":"Сосуды","x":380,"y":-160,"width":186,"height":67},
 		{"id":"7567a47a52716946","type":"text","text":"Кровеносные сосуды","x":123,"y":1,"width":250,"height":60},
 		{"id":"9059142e955f4e3f","type":"text","text":"Артерии","x":-81,"y":138,"width":250,"height":60},
 		{"id":"a3df5d048f859013","type":"text","text":"Капилляры","x":123,"y":240,"width":250,"height":60},
@@ -11,11 +11,11 @@
 	],
 	"edges":[
 		{"id":"1e43af12a633dab8","fromNode":"b40e4583e6623061","fromSide":"bottom","toNode":"f379d43a3310f3ea","toSide":"top"},
-		{"id":"64ff34933af28560","fromNode":"b40e4583e6623061","fromSide":"bottom","toNode":"c7dbac4d38585441","toSide":"top"},
-		{"id":"e65ac15fa3a401bc","fromNode":"c7dbac4d38585441","fromSide":"bottom","toNode":"7567a47a52716946","toSide":"top"},
+		{"id":"64ff34933af28560","fromNode":"b40e4583e6623061","fromSide":"bottom","toNode":"f70ffe0c0461aa91","toSide":"top"},
+		{"id":"e65ac15fa3a401bc","fromNode":"f70ffe0c0461aa91","fromSide":"bottom","toNode":"7567a47a52716946","toSide":"top"},
 		{"id":"937629da3ea268b5","fromNode":"7567a47a52716946","fromSide":"bottom","toNode":"9059142e955f4e3f","toSide":"top"},
 		{"id":"69ee384b5b5d0fef","fromNode":"7567a47a52716946","fromSide":"bottom","toNode":"a3df5d048f859013","toSide":"top"},
 		{"id":"3d8ad9e4f9d47201","fromNode":"7567a47a52716946","fromSide":"bottom","toNode":"62c3fdd6e47d9c79","toSide":"top"},
-		{"id":"fc40015cb07bd96e","fromNode":"c7dbac4d38585441","fromSide":"bottom","toNode":"7ecc321c67b3ce76","toSide":"top"}
+		{"id":"fc40015cb07bd96e","fromNode":"f70ffe0c0461aa91","fromSide":"bottom","toNode":"7ecc321c67b3ce76","toSide":"top"}
 	]
 }
