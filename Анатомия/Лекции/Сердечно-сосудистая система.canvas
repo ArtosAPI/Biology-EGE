@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"id":"b40e4583e6623061","type":"text","text":"Сердечно-сосудистая система","x":20,"y":-300,"width":250,"height":60},
-		{"id":"f379d43a3310f3ea","type":"file","file":"Сердце.md","x":-340,"y":-160,"width":400,"height":180},
-		{"id":"f70ffe0c0461aa91","x":340,"y":-160,"width":260,"height":120,"type":"file","file":"Сосуды.md"},
+		{"id":"f379d43a3310f3ea","type":"file","file":"Анатомия/Лекции/Сердце.md","x":-340,"y":-160,"width":400,"height":180},
+		{"id":"f70ffe0c0461aa91","x":340,"y":-160,"width":260,"height":120,"type":"file","file":"Анатомия/Лекции/Сосуды.md"},
 		{"id":"7567a47a52716946","type":"text","text":"Кровеносные сосуды","x":350,"y":80,"width":250,"height":60},
-		{"id":"09b1493896304e23","x":545,"y":219,"width":345,"height":160,"type":"file","file":"Вены.md"},
-		{"id":"24a3e48b43cbdd78","x":303,"y":499,"width":345,"height":160,"type":"file","file":"Капилляры.md"},
-		{"id":"e2ce789419405308","x":5,"y":219,"width":345,"height":160,"type":"file","file":"Артерии.md"}
+		{"id":"09b1493896304e23","x":545,"y":219,"width":345,"height":160,"type":"file","file":"Анатомия/Лекции/Вены.md"},
+		{"id":"24a3e48b43cbdd78","x":303,"y":499,"width":345,"height":160,"type":"file","file":"Анатомия/Лекции/Капилляры.md"},
+		{"id":"e2ce789419405308","x":5,"y":219,"width":345,"height":160,"type":"file","file":"Анатомия/Лекции/Артерии.md"}
 	],
 	"edges":[
 		{"id":"1e43af12a633dab8","fromNode":"b40e4583e6623061","fromSide":"bottom","toNode":"f379d43a3310f3ea","toSide":"top"},
