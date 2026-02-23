@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Центральная нервная система.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Нервная система.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Центральная нервная система.md",
+                "file": "Нервная система.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Центральная нервная система"
+              "title": "Outline of Нервная система"
             }
           },
           {
@@ -215,13 +215,15 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "966693bbb6b075cc",
+  "active": "4e6d20708b507be9",
   "lastOpenFiles": [
+    "Центральная нервная система.md",
+    "Картинки/Pasted image 20260223155449.png",
+    "Картинки/Pasted image 20260223155414.png",
     "Картинки/Pasted image 20260223154813.png",
     "Картинки/Pasted image 20260223154348.png",
     "Картинки/Pasted image 20260223154340.png",
     "Нервная система.md",
-    "Центральная нервная система.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Парасимпатическая нервная система.md",
     "Симпатическая нервная система.md",
@@ -234,11 +236,8 @@
     "Анатомия/Лекции/Кровь.md",
     "Анатомия/Лекции/Сердечно-сосудистая система.canvas",
     "Картинки/Pasted image 20260216203940.png",
-    "Картинки/Pasted image 20260216203929.png",
-    "Картинки/Pasted image 20260216203921.png",
     "Анатомия/Лекции/Сосуды.md",
     "Анатомия/Лекции/Капилляры.md",
-    "Картинки/Pasted image 20260216203311.png",
     "Анатомия/Лекции/Артерии.md",
     "Анатомия/Лекции/Вены.md",
     "Анатомия/Лекции/Эпителиальная ткань.md",
