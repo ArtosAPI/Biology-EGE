@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Нервная система.md",
+                "file": "Анатомия/Лекции/Гемодинамика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Нервная система"
+              "title": "Outline of Гемодинамика"
             }
           },
           {
@@ -229,12 +229,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4e6d20708b507be9",
+  "active": "8a3fc1b16bb4c731",
   "lastOpenFiles": [
+    "Нервная система.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Сердце.md",
     "Анатомия/Лекции/Гемодинамика.md",
-    "Нервная система.md",
     "Анатомия/Лекции/Кровь.md",
     "Анатомия/Лекции/Сердечно-сосудистая система.canvas",
     "Картинки/Pasted image 20260216203940.png",
