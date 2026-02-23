@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Нервная система.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Нервная система.md",
+                "file": "Центральная нервная система.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Нервная система"
+              "title": "Outline of Центральная нервная система"
             }
           },
           {
@@ -215,15 +215,16 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4e6d20708b507be9",
+  "active": "966693bbb6b075cc",
   "lastOpenFiles": [
+    "Картинки/Pasted image 20260223160028.png",
+    "Нервная система.md",
     "Центральная нервная система.md",
     "Картинки/Pasted image 20260223155449.png",
     "Картинки/Pasted image 20260223155414.png",
     "Картинки/Pasted image 20260223154813.png",
     "Картинки/Pasted image 20260223154348.png",
     "Картинки/Pasted image 20260223154340.png",
-    "Нервная система.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Парасимпатическая нервная система.md",
     "Симпатическая нервная система.md",
