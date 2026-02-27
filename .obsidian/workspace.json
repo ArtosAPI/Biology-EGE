@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "Спинной мозг.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Спинной мозг.md",
+                "file": "Головной мозг.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Спинной мозг"
+              "title": "Outline of Головной мозг"
             }
           },
           {
@@ -243,8 +243,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "a55f75e89c3a3c0c",
+  "active": "08ef77ff61452881",
   "lastOpenFiles": [
+    "Рефлекторные дуги.md",
+    "Спинной мозг.md",
     "Картинки/Pasted image 20260227173141.png",
     "Центральная нервная система.md",
     "Головной мозг.md",
@@ -252,14 +254,12 @@
     "Картинки/Pasted image 20260227171943.png",
     "Картинки/Pasted image 20260227171930.png",
     "Картинки/Pasted image 20260227171719.png",
-    "Спинной мозг.md",
     "Нервная система.md",
     "Картинки/Pasted image 20260227170128.png",
     "Картинки/Pasted image 20260227170105.png",
     "Картинки/Pasted image 20260227165816.png",
     "Картинки/Pasted image 20260227165652.png",
     "Картинки/Pasted image 20260227165553.png",
-    "Картинки/Pasted image 20260227165228.png",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Парасимпатическая нервная система.md",
     "Симпатическая нервная система.md",
