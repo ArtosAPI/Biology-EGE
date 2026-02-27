@@ -70,15 +70,29 @@
               "type": "markdown",
               "state": {
                 "file": "Головной мозг.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Головной мозг"
             }
+          },
+          {
+            "id": "cbb3dbae885b0b92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рефлекторные дуги.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Рефлекторные дуги"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Головной мозг.md",
+                "file": "Рефлекторные дуги.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Головной мозг"
+              "title": "Outline of Рефлекторные дуги"
             }
           },
           {
@@ -243,10 +257,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "08ef77ff61452881",
+  "active": "cbb3dbae885b0b92",
   "lastOpenFiles": [
-    "Спинной мозг.md",
     "Головной мозг.md",
+    "Симпатическая нервная система.md",
+    "Парасимпатическая нервная система.md",
+    "Спинной мозг.md",
     "Рефлекторные дуги.md",
     "Картинки/Pasted image 20260227173141.png",
     "Центральная нервная система.md",
@@ -261,8 +277,6 @@
     "Картинки/Pasted image 20260227165652.png",
     "Картинки/Pasted image 20260227165553.png",
     "Анатомия/Лекции/MOC Анатомия.md",
-    "Парасимпатическая нервная система.md",
-    "Симпатическая нервная система.md",
     "Анатомия/Лекции/Сердце.md",
     "Анатомия/Лекции/Гемодинамика.md",
     "Анатомия/Лекции/Кровь.md",
