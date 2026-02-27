@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/Нервная ткань.md",
+                "file": "Рефлекторные дуги.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Нервная ткань"
+              "title": "Outline of Рефлекторные дуги"
             }
           },
           {
@@ -242,10 +243,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "5fceb5bc7307a060",
+  "active": "cbb3dbae885b0b92",
   "lastOpenFiles": [
-    "Спинной мозг.md",
+    "Картинки/Pasted image 20260227183620.png",
     "Анатомия/Лекции/Нервная ткань.md",
+    "Спинной мозг.md",
     "Рефлекторные дуги.md",
     "Нервная система.md",
     "Анатомия/Лекции/Синапсы.md",
@@ -280,7 +282,6 @@
     "Анатомия/Лекции/Иммунитет в целом.md",
     "Анатомия/Лекции/Виды органов.md",
     "Анатомия/Лекции/Группы крови.md",
-    "Анатомия/Лекции/Лимфа.md",
     "Untitled.base",
     "Анатомия/Лекции/MOC Анатомия.canvas",
     "russian.txt",
