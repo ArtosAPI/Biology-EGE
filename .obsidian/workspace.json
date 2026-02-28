@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "Спинной мозг.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рефлекторные дуги.md",
+                "file": "Спинной мозг.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Рефлекторные дуги"
+              "title": "Структура Спинной мозг"
             }
           },
           {
@@ -243,12 +243,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "cbb3dbae885b0b92",
+  "active": "62fa3d14944ee9f2",
   "lastOpenFiles": [
-    "Картинки/Pasted image 20260227183620.png",
     "Анатомия/Лекции/Нервная ткань.md",
-    "Спинной мозг.md",
     "Рефлекторные дуги.md",
+    "Картинки/Pasted image 20260227183620.png",
+    "Спинной мозг.md",
     "Нервная система.md",
     "Анатомия/Лекции/Синапсы.md",
     "Анатомия/Лекции/Нейроглии.md",
@@ -266,7 +266,6 @@
     "Картинки/Pasted image 20260227171719.png",
     "Картинки/Pasted image 20260227170128.png",
     "Картинки/Pasted image 20260227170105.png",
-    "Картинки/Pasted image 20260227165816.png",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Сердце.md",
     "Анатомия/Лекции/Гемодинамика.md",
