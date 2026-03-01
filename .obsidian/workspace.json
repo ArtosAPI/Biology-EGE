@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Спинной мозг.md",
+                "file": "Рефлекторные дуги.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Спинной мозг"
+              "title": "Структура Рефлекторные дуги"
             }
           },
           {
@@ -243,10 +243,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "62fa3d14944ee9f2",
+  "active": "cbb3dbae885b0b92",
   "lastOpenFiles": [
-    "Рефлекторные дуги.md",
     "Спинной мозг.md",
+    "Рефлекторные дуги.md",
     "Анатомия/Лекции/Нервная ткань.md",
     "Картинки/Pasted image 20260227183620.png",
     "Нервная система.md",
