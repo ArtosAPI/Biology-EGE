@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: нерв",
+                "query": "ганг",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -245,10 +245,11 @@
   },
   "active": "cbb3dbae885b0b92",
   "lastOpenFiles": [
-    "Спинной мозг.md",
-    "Нервная система.md",
-    "Рефлекторные дуги.md",
     "Анатомия/Лекции/Нервная ткань.md",
+    "Рефлекторные дуги.md",
+    "Нервная система.md",
+    "Картинки/Pasted image 20260301195646.png",
+    "Спинной мозг.md",
     "Картинки/Pasted image 20260227183620.png",
     "Анатомия/Лекции/Синапсы.md",
     "Анатомия/Лекции/Нейроглии.md",
@@ -265,7 +266,6 @@
     "Картинки/Pasted image 20260227171930.png",
     "Картинки/Pasted image 20260227171719.png",
     "Картинки/Pasted image 20260227170128.png",
-    "Картинки/Pasted image 20260227170105.png",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Сердце.md",
     "Анатомия/Лекции/Гемодинамика.md",
