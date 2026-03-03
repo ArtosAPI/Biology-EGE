@@ -197,7 +197,7 @@
     "max": 3
   },
   "nodesColorColormap": "RdYlBu",
-  "nodesColorFunction": "default",
+  "nodesColorFunction": "totalUniquelinksCount",
   "graphStatsDirection": "normal",
   "linksSizeFunction": "default",
   "linksColorColormap": "YlOrRd",
