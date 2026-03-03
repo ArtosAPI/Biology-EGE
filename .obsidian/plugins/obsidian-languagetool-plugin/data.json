@@ -1,9 +1,9 @@
 {
-  "serverUrl": "https://api.languagetool.org",
-  "urlMode": "standard",
+  "serverUrl": "",
+  "urlMode": "custom",
   "glassBg": false,
   "shouldAutoCheck": false,
-  "autoCheckDelay": 3000,
+  "autoCheckDelay": 50,
   "pickyMode": true,
   "staticLanguage": "de-LU"
 }
