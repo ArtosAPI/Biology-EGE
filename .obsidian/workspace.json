@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "0f103bf3e2dfa580",
+            "id": "de30284b2377b826",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Анатомия/Лекции/Ротовая полость.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -228,12 +228,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "0f103bf3e2dfa580",
+  "active": "de30284b2377b826",
   "lastOpenFiles": [
+    "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Ротовая полость.md",
     "Высшая нервная деятельность.md",
     "Анатомия/Лекции/Нервная ткань.md",
-    "Анатомия/Лекции/MOC Анатомия.md",
     "Головной мозг.md",
     "Спинной мозг.md",
     "Парасимпатическая нервная система.md",
