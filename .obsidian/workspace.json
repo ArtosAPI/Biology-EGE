@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Головной мозг.md",
+                "file": "Высшая нервная деятельность.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Головной мозг"
+              "title": "Outline of Высшая нервная деятельность"
             }
           },
           {
@@ -242,15 +242,15 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "76c85d940bde4f83",
+  "active": "de30284b2377b826",
   "lastOpenFiles": [
+    "Головной мозг.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Высшая нервная деятельность.md",
     "Центральная нервная система.md",
     "Анатомия/Лекции/Ротовая полость.md",
     "Анатомия/Лекции/Нервная ткань.md",
     "Картинки/Pasted image 20260303145257.png",
-    "Головной мозг.md",
     "Спинной мозг.md",
     "Парасимпатическая нервная система.md",
     "Нервная система.md",
