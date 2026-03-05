@@ -64,34 +64,6 @@
             }
           },
           {
-            "id": "33a3dde30ed28444",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рефлекторные дуги.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Рефлекторные дуги"
-            }
-          },
-          {
-            "id": "de30284b2377b826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Высшая нервная деятельность.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Высшая нервная деятельность"
-            }
-          },
-          {
             "id": "76c85d940bde4f83",
             "type": "leaf",
             "state": {
@@ -106,31 +78,21 @@
             }
           },
           {
-            "id": "783d3cf658bcecf6",
+            "id": "a3fd898ddbe8bb1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Анатомия/Лекции/Нервная ткань.md",
+                "file": "Головной мозг.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Нервная ткань"
-            }
-          },
-          {
-            "id": "cfe56bbe3ef84c77",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Головной мозг"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Высшая нервная деятельность.md",
+                "file": "Головной мозг.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Высшая нервная деятельность"
+              "title": "Outline of Головной мозг"
             }
           },
           {
@@ -294,18 +256,18 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "76c85d940bde4f83",
+  "active": "a3fd898ddbe8bb1f",
   "lastOpenFiles": [
-    "Головной мозг.md",
-    "Парасимпатическая нервная система.md",
+    "Высшая нервная деятельность.md",
+    "Спинной мозг.md",
     "Вегетативная нервная система.md",
+    "Парасимпатическая нервная система.md",
+    "Рефлекторные дуги.md",
+    "Головной мозг.md",
     "Симпатическая нервная система.md",
     "Картинки/Pasted image 20260305185559.png",
     "Анатомия/Лекции/MOC Анатомия.md",
-    "Высшая нервная деятельность.md",
     "Анатомия/Лекции/Нервная ткань.md",
-    "Спинной мозг.md",
-    "Рефлекторные дуги.md",
     "Картинки/Pasted image 20260304234906.png",
     "Картинки/Pasted image 20260304232858.png",
     "Картинки/Pasted image 20260304232752.png",
