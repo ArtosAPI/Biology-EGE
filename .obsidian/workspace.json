@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Головной мозг.md",
+                "file": "Функциональные нервные центры.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Головной мозг"
+              "title": "Outline of Функциональные нервные центры"
             }
           },
           {
@@ -270,10 +270,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "a3fd898ddbe8bb1f",
+  "active": "091691711aa75ac5",
   "lastOpenFiles": [
-    "Функциональные нервные центры.md",
     "Головной мозг.md",
+    "Функциональные нервные центры.md",
     "Высшая нервная деятельность.md",
     "Спинной мозг.md",
     "Вегетативная нервная система.md",
