@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: нер",
+                "query": "восхо",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/Нервная ткань.md",
+                "file": "Спинной мозг.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Нервная ткань"
+              "title": "Outline of Спинной мозг"
             }
           },
           {
@@ -256,13 +256,14 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "783d3cf658bcecf6",
+  "active": "d1b4f4c689128c76",
   "lastOpenFiles": [
+    "Головной мозг.md",
     "Спинной мозг.md",
+    "Анатомия/Лекции/Нервная ткань.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Рефлекторные дуги.md",
     "Высшая нервная деятельность.md",
-    "Головной мозг.md",
     "Картинки/Pasted image 20260304234906.png",
     "Картинки/Pasted image 20260304232858.png",
     "Картинки/Pasted image 20260304232752.png",
@@ -274,7 +275,6 @@
     "Симпатическая нервная система.md",
     "Картинки/Pasted image 20260304224129.png",
     "Анатомия/Лекции/Ротовая полость.md",
-    "Анатомия/Лекции/Нервная ткань.md",
     "Центральная нервная система.md",
     "Картинки/Pasted image 20260303145257.png",
     "Парасимпатическая нервная система.md",
