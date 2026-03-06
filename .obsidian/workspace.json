@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Анатомия/Лекции/MOC Анатомия.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -73,8 +73,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/Рефлекторные дуги.md",
+                "file": "Анатомия/Лекции/MOC Анатомия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Рефлекторные дуги"
+              "title": "Outline of MOC Анатомия"
             }
           },
           {
@@ -239,14 +238,14 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "63cbcd64855aa5ff",
+  "active": "e53eff853726f5dc",
   "lastOpenFiles": [
+    "Анатомия/Лекции/Рефлекторные дуги.md",
     "Анатомия/Лекции/Головной мозг.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Высшая нервная деятельность.md",
     "Анатомия/Лекции/Нервная система.md",
     "Анатомия/Лекции/Парасимпатическая нервная система.md",
-    "Анатомия/Лекции/Рефлекторные дуги.md",
     "Анатомия/Лекции/Симпатическая нервная система.md",
     "Анатомия/Лекции/Соматическая нервная система.md",
     "Анатомия/Лекции/Спинной мозг.md",
