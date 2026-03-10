@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Функциональные нервные центры"
             }
+          },
+          {
+            "id": "b1c335bae008840e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Временные ответы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Временные ответы"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глаза.md",
+                "file": "Временные ответы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Глаза"
+              "title": "Outline of Временные ответы"
             }
           },
           {
@@ -229,14 +243,15 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f4a2ccf7d733b9f0",
+  "active": "b1c335bae008840e",
   "lastOpenFiles": [
+    "Глаза.md",
+    "Временные ответы.md",
+    "Анатомия/Лекции/MOC Анатомия.md",
     "Картинки/Pasted image 20260310150751.png",
     "Анатомия/Лекции/Головной мозг.md",
-    "Глаза.md",
     "Анатомия/Лекции/Мышцы.md",
     "Анатомия/Лекции/Функциональные нервные центры.md",
-    "Анатомия/Лекции/MOC Анатомия.md",
     "Картинки/Pasted image 20260310150152.png",
     "Картинки/Pasted image 20260310145928.png",
     "Картинки/Pasted image 20260310145507.png",
@@ -246,7 +261,6 @@
     "Картинки/Pasted image 20260310142920.png",
     "Картинки/Pasted image 20260306122740.png",
     "Картинки/Pasted image 20260306122538.png",
-    "Картинки/Pasted image 20260306122320.png",
     "Анатомия/Лекции/Рефлекторные дуги.md",
     "Анатомия/Лекции/Высшая нервная деятельность.md",
     "Анатомия/Лекции/Нервная система.md",
