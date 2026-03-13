@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Слух и звук.md",
+                "file": "Восприятие звука слухом.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Слух и звук"
+              "title": "Восприятие звука слухом"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Слух и звук.md",
+                "file": "Уши.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Слух и звук"
+              "title": "Outline of Уши"
             }
           },
           {
@@ -285,18 +285,18 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "955f114daac9fa7f",
+  "active": "6d74766647cff7d2",
   "lastOpenFiles": [
-    "Анатомия/Лекции/MOC Анатомия.md",
-    "Слух и звук.md",
     "Равновесие.md",
+    "Восприятие звука слухом.md",
     "Уши.md",
+    "Глаза.md",
+    "Анатомия/Лекции/MOC Анатомия.md",
     "Картинки/Pasted image 20260313184256.png",
     "Картинки/Pasted image 20260313183804.png",
     "Картинки/Pasted image 20260313183107.png",
     "Картинки/Pasted image 20260313182507.png",
     "Картинки/Pasted image 20260313181534.png",
-    "Глаза.md",
     "Картинки/Pasted image 20260313181311.png",
     "Анатомия/Лекции/Головной мозг.md",
     "Анатомия/Лекции/Функциональные нервные центры.md",
