@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Равновесие.md",
-                "mode": "source",
+                "file": "Равновесие (вестибулярный аппарат).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Равновесие"
+              "title": "Равновесие (вестибулярный аппарат)"
             }
           },
           {
@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Уши.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Равновесие.md",
+                "file": "Равновесие (вестибулярный аппарат).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Равновесие"
+              "title": "Outline of Равновесие (вестибулярный аппарат)"
             }
           },
           {
@@ -273,10 +273,12 @@
   },
   "active": "4f68753c963ab54e",
   "lastOpenFiles": [
+    "Уши.md",
+    "Равновесие (вестибулярный аппарат).md",
+    "Картинки/Pasted image 20260313190217.png",
+    "Картинки/Pasted image 20260313190208.png",
     "Восприятие звука слухом.md",
     "Картинки/Pasted image 20260313190123.png",
-    "Равновесие.md",
-    "Уши.md",
     "Глаза.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Картинки/Pasted image 20260313184256.png",
@@ -290,8 +292,6 @@
     "Временные ответы.md",
     "Картинки/Pasted image 20260310150751.png",
     "Анатомия/Лекции/Мышцы.md",
-    "Картинки/Pasted image 20260310150152.png",
-    "Картинки/Pasted image 20260310145928.png",
     "Анатомия/Лекции/Рефлекторные дуги.md",
     "Анатомия/Лекции/Высшая нервная деятельность.md",
     "Анатомия/Лекции/Нервная система.md",
