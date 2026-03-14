@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глаза.md",
+                "file": "Уши.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Глаза"
+              "title": "Outline of Уши"
             }
           },
           {
@@ -285,11 +285,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f4a2ccf7d733b9f0",
+  "active": "fa1d7cfde420ea50",
   "lastOpenFiles": [
+    "Глаза.md",
     "Уши.md",
     "Анатомия/Лекции/MOC Анатомия.md",
-    "Глаза.md",
     "Равновесие (вестибулярный аппарат).md",
     "Восприятие звука слухом.md",
     "Картинки/Pasted image 20260313190217.png",
