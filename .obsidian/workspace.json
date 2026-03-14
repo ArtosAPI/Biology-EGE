@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Уши.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Равновесие (вестибулярный аппарат).md",
+                "file": "Уши.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Равновесие (вестибулярный аппарат)"
+              "title": "Outline of Уши"
             }
           },
           {
@@ -271,10 +271,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4f68753c963ab54e",
+  "active": "6d74766647cff7d2",
   "lastOpenFiles": [
-    "Уши.md",
     "Равновесие (вестибулярный аппарат).md",
+    "Уши.md",
     "Восприятие звука слухом.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Картинки/Pasted image 20260313190217.png",
