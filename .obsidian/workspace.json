@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Анатомия/Лекции/MOC Анатомия.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Язык – вкус.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Нос – обоняние.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Глаза.md",
+                "file": "Глаза – зрение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глаза"
+              "title": "Глаза – зрение"
             }
           },
           {
@@ -147,8 +147,7 @@
               "title": "Функциональные нервные центры"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Язык – вкус.md",
+                "file": "Анатомия/Лекции/MOC Анатомия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Язык – вкус"
+              "title": "Outline of MOC Анатомия"
             }
           },
           {
@@ -313,17 +312,18 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "d33c49ea49c450e5",
+  "active": "e53eff853726f5dc",
   "lastOpenFiles": [
-    "Картинки/Pasted image 20260316184733.png",
+    "Глаза – зрение.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Язык – вкус.md",
     "Нос – обоняние.md",
+    "Картинки/Pasted image 20260316184815.png",
+    "Картинки/Pasted image 20260316184733.png",
     "Картинки/Pasted image 20260316184650.png",
     "Восприятие звука слухом.md",
     "Равновесие (вестибулярный аппарат).md",
     "Уши.md",
-    "Глаза.md",
     "Картинки/Pasted image 20260313190217.png",
     "Картинки/Pasted image 20260313190208.png",
     "Картинки/Pasted image 20260313190123.png",
@@ -331,8 +331,6 @@
     "Картинки/Pasted image 20260313183804.png",
     "Картинки/Pasted image 20260313183107.png",
     "Картинки/Pasted image 20260313182507.png",
-    "Картинки/Pasted image 20260313181534.png",
-    "Картинки/Pasted image 20260313181311.png",
     "Анатомия/Лекции/Головной мозг.md",
     "Анатомия/Лекции/Функциональные нервные центры.md",
     "Временные ответы.md",
