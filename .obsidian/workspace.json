@@ -147,7 +147,8 @@
               "title": "Функциональные нервные центры"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/MOC Анатомия.md",
+                "file": "Язык – вкус.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MOC Анатомия"
+              "title": "Outline of Язык – вкус"
             }
           },
           {
@@ -312,10 +313,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "e53eff853726f5dc",
+  "active": "d33c49ea49c450e5",
   "lastOpenFiles": [
-    "Глаза – зрение.md",
     "Анатомия/Лекции/MOC Анатомия.md",
+    "Глаза – зрение.md",
     "Язык – вкус.md",
     "Нос – обоняние.md",
     "Картинки/Pasted image 20260316184815.png",
