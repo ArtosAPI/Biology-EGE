@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "Анатомия/Лекции/Гипофиз.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/Гипоталамус.md",
+                "file": "Анатомия/Лекции/Гипофиз.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Гипоталамус"
+              "title": "Outline of Гипофиз"
             }
           },
           {
@@ -257,15 +257,17 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "86c7696b587b448d",
+  "active": "a8c73e8f145b1808",
   "lastOpenFiles": [
+    "Картинки/Pasted image 20260319183508.png",
+    "Картинки/Pasted image 20260319183255.png",
+    "Анатомия/Лекции/Гипоталамус.md",
     "Анатомия/Лекции/Гипофиз.md",
     "Анатомия/Лекции/Промежуточный мозг (гипофиз, эпифиз, гипоталамус, таламус).md",
     "Анатомия/Лекции/Головной мозг.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Эндокринная система.md",
     "Анатомия/Лекции/Нейрогуморальная регуляция.md",
-    "Анатомия/Лекции/Гипоталамус.md",
     "Анатомия/Лекции/Глаза – зрение.md",
     "Картинки/Pasted image 20260318190103.png",
     "Картинки/Pasted image 20260318185644.png",
@@ -290,11 +292,9 @@
     "Картинки/Pasted image 20260318181903.png",
     "Картинки/Pasted image 20260318181704.png",
     "Картинки/Pasted image 20260318180017.png",
-    "Анатомия/Лекции/Функциональные нервные центры.md",
     "Картинки/Pasted image 20260316184815.png",
     "Картинки/Pasted image 20260316184733.png",
     "Картинки/Pasted image 20260316184650.png",
-    "Картинки/Pasted image 20260313190217.png",
     "Анатомия/Лекции/Сердечно-сосудистая система.canvas",
     "Untitled.base",
     "Анатомия/Лекции/MOC Анатомия.canvas",
