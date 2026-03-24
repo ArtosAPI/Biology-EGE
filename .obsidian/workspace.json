@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мочеиспускательный канал – уретра.md",
+                "file": "Почки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Мочеиспускательный канал – уретра"
+              "title": "Outline of Почки"
             }
           },
           {
@@ -285,14 +285,14 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "1a872234bdc1298e",
+  "active": "54eae5577c63f18f",
   "lastOpenFiles": [
+    "Мочеиспускательный канал – уретра.md",
+    "Почки.md",
     "Картинки/Pasted image 20260324171324.png",
     "Мочевой пузырь.md",
-    "Почки.md",
     "Картинки/Pasted image 20260324171214.png",
     "Мочевыделительная система.md",
-    "Мочеиспускательный канал – уретра.md",
     "Картинки/Pasted image 20260324170630.png",
     "Картинки/Pasted image 20260324170409.png",
     "Картинки/Pasted image 20260324170157.png",
@@ -317,7 +317,6 @@
     "Картинки/Pasted image 20260319184201.png",
     "Картинки/Pasted image 20260319184018.png",
     "Картинки/Pasted image 20260319183508.png",
-    "Картинки/Pasted image 20260319183255.png",
     "Анатомия/Лекции/Глаза – зрение.md",
     "Анатомия/Лекции/Эпифиз.md",
     "Анатомия/Лекции/Продолговатый мозг.md",
