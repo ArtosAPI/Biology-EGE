@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "Почки.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Нефроны.md",
+                "file": "Почки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Нефроны"
+              "title": "Outline of Почки"
             }
           },
           {
@@ -299,22 +299,23 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "5d934de666047106",
+  "active": "54eae5577c63f18f",
   "lastOpenFiles": [
+    "Мочевыделительная система.md",
     "Почки.md",
-    "Нефроны.md",
     "Мочевой пузырь.md",
-    "Картинки/Pasted image 20260324172100.png",
     "Мочеиспускательный канал – уретра.md",
+    "Картинки/Pasted image 20260324172631.png",
+    "Картинки/Pasted image 20260324172605.png",
+    "Нефроны.md",
+    "Картинки/Pasted image 20260324172100.png",
     "Картинки/Pasted image 20260324172011.png",
     "Картинки/Pasted image 20260324171324.png",
     "Картинки/Pasted image 20260324171214.png",
-    "Мочевыделительная система.md",
     "Картинки/Pasted image 20260324170630.png",
     "Картинки/Pasted image 20260324170409.png",
     "Картинки/Pasted image 20260324170157.png",
     "Картинки/Pasted image 20260324170101.png",
-    "Картинки/Pasted image 20260324165905.png",
     "Железы.md",
     "Анатомия/Лекции/Эндокринная система.md",
     "Анатомия/Лекции/MOC Анатомия.md",
@@ -331,7 +332,6 @@
     "Анатомия/Лекции/Гипоталамус.md",
     "Анатомия/Лекции/Нейрогуморальная регуляция.md",
     "Анатомия/Лекции/Промежуточный мозг (гипофиз, эпифиз, гипоталамус, таламус).md",
-    "Картинки/Pasted image 20260319184201.png",
     "Анатомия/Лекции/Глаза – зрение.md",
     "Анатомия/Лекции/Эпифиз.md",
     "Анатомия/Лекции/Продолговатый мозг.md",
