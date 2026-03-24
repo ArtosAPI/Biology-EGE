@@ -42,11 +42,39 @@
               "type": "markdown",
               "state": {
                 "file": "Мочевыделительная система.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Мочевыделительная система"
+            }
+          },
+          {
+            "id": "42be52bb17cf00ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мочевой пузырь.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мочевой пузырь"
+            }
+          },
+          {
+            "id": "1a872234bdc1298e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мочеиспускательный канал – уретра.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мочеиспускательный канал – уретра"
             }
           },
           {
@@ -64,6 +92,20 @@
             }
           },
           {
+            "id": "c9d1e166d2489953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мочеиспускательный канал – уретра.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мочеиспускательный канал – уретра"
+            }
+          },
+          {
             "id": "c8f6c8acb58db7cd",
             "type": "leaf",
             "state": {
@@ -78,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Почки.md",
+                "file": "Мочеиспускательный канал – уретра.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Почки"
+              "title": "Outline of Мочеиспускательный канал – уретра"
             }
           },
           {
@@ -243,14 +285,18 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "54eae5577c63f18f",
+  "active": "1a872234bdc1298e",
   "lastOpenFiles": [
+    "Картинки/Pasted image 20260324171324.png",
+    "Мочевой пузырь.md",
+    "Почки.md",
+    "Картинки/Pasted image 20260324171214.png",
+    "Мочевыделительная система.md",
+    "Мочеиспускательный канал – уретра.md",
     "Картинки/Pasted image 20260324170630.png",
     "Картинки/Pasted image 20260324170409.png",
     "Картинки/Pasted image 20260324170157.png",
-    "Мочевыделительная система.md",
     "Картинки/Pasted image 20260324170101.png",
-    "Почки.md",
     "Картинки/Pasted image 20260324165905.png",
     "Железы.md",
     "Анатомия/Лекции/Эндокринная система.md",
@@ -273,14 +319,10 @@
     "Картинки/Pasted image 20260319183508.png",
     "Картинки/Pasted image 20260319183255.png",
     "Анатомия/Лекции/Глаза – зрение.md",
-    "Картинки/Pasted image 20260318190103.png",
-    "Картинки/Pasted image 20260318185644.png",
     "Анатомия/Лекции/Эпифиз.md",
     "Анатомия/Лекции/Продолговатый мозг.md",
     "Анатомия/Лекции/Высшая нервная деятельность.md",
     "Анатомия/Лекции/Щитовидка и паращитовидка.md",
-    "Анатомия/Лекции/Тимус.md",
-    "Анатомия/Лекции/Надпочечники.md",
     "Анатомия/Лекции/Сердечно-сосудистая система.canvas",
     "Untitled.base",
     "Анатомия/Лекции/MOC Анатомия.canvas",
