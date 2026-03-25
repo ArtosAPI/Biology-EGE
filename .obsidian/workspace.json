@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Почки.md",
+                "file": "Нефроны.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Почки"
+              "title": "Outline of Нефроны"
             }
           },
           {
@@ -299,11 +299,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "54eae5577c63f18f",
+  "active": "5d934de666047106",
   "lastOpenFiles": [
+    "Почки.md",
     "Нефроны.md",
     "Анатомия/Лекции/Соединительная Ткань.md",
-    "Почки.md",
     "Мочевыделительная система.md",
     "Мочевой пузырь.md",
     "Мочеиспускательный канал – уретра.md",
