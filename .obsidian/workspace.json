@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "Почки.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "Нефроны.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
