@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Почки.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Анатомия/Лекции/Мозжечок.md",
+                "file": "Анатомия/Лекции/Головной мозг.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мозжечок"
+              "title": "Головной мозг"
             }
           },
           {
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/Мозжечок.md",
+                "file": "Нефроны.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Мозжечок"
+              "title": "Outline of Нефроны"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Анатомия/Лекции/Мозжечок.md",
+                "file": "Нефроны.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Мозжечок"
+              "title": "Outgoing links from Нефроны"
             }
           },
           {
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Анатомия/Лекции/Мозжечок.md",
+                "file": "Нефроны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Мозжечок"
+              "title": "Backlinks for Нефроны"
             }
           },
           {
@@ -299,16 +299,16 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "43f9d01b6d72a735",
+  "active": "5d934de666047106",
   "lastOpenFiles": [
-    "Анатомия/Лекции/Задний мозг.md",
-    "Анатомия/Лекции/Варолиев мост.md",
-    "Анатомия/Лекции/Мозжечок.md",
-    "Анатомия/Лекции/Сердце.md",
-    "Анатомия/Лекции/Головной мозг.md",
-    "Анатомия/Лекции/Кора больших полушарий.md",
     "Почки.md",
     "Регуляция эритроцитопоэза и артериального давления.md",
+    "Анатомия/Лекции/Головной мозг.md",
+    "Анатомия/Лекции/Задний мозг.md",
+    "Анатомия/Лекции/Мозжечок.md",
+    "Анатомия/Лекции/Варолиев мост.md",
+    "Анатомия/Лекции/Сердце.md",
+    "Анатомия/Лекции/Кора больших полушарий.md",
     "Анатомия/Лекции/Высшая нервная деятельность.md",
     "Картинки/Pasted image 20260327000740.png",
     "Нефроны.md",
