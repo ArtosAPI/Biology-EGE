@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Почки.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -194,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Высшая нервная деятельность.md",
+                "file": "Почки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Высшая нервная деятельность"
+              "title": "Outgoing links from Почки"
             }
           },
           {
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Высшая нервная деятельность.md",
+                "file": "Почки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Высшая нервная деятельность"
+              "title": "Backlinks for Почки"
             }
           },
           {
@@ -272,14 +272,15 @@
   },
   "active": "54eae5577c63f18f",
   "lastOpenFiles": [
+    "Нефроны.md",
+    "Анатомия/Лекции/Гипофиз.md",
+    "Почки.md",
     "Регуляция эритроцитопоэза и артериального давления.md",
     "Анатомия/Лекции/MOC Анатомия.md",
-    "Почки.md",
     "Мочевыделительная система.md",
     "Картинки/Pasted image 20260326235926.png",
     "Железы.md",
     "Анатомия/Лекции/Гормоны.md",
-    "Анатомия/Лекции/Гипофиз.md",
     "Анатомия/Лекции/Эндокринная система – железы внутренней секреции.md",
     "Анатомия/Лекции/Нейрогуморальная регуляция.md",
     "Анатомия/Лекции/Надпочечники.md",
@@ -288,7 +289,6 @@
     "Эритроцитопоэз.md",
     "Мочеиспускательный канал – уретра.md",
     "Мочевой пузырь.md",
-    "Нефроны.md",
     "Анатомия/Лекции/Сердце.md",
     "Картинки/Pasted image 20260326002325.png",
     "Картинки/Pasted image 20260326002237.png",
