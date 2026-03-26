@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "Нефроны.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/Сердце.md",
+                "file": "Нефроны.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Сердце"
+              "title": "Outline of Нефроны"
             }
           },
           {
@@ -312,8 +312,9 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "30358139d4213d79",
+  "active": "5d934de666047106",
   "lastOpenFiles": [
+    "Анатомия/Лекции/Сердце.md",
     "Нефроны.md",
     "Почки.md",
     "Картинки/Pasted image 20260326002325.png",
