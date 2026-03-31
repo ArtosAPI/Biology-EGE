@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "2006b394c5c870eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Анатомия/Лекции/Сердце.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сердце"
+            }
+          },
+          {
             "id": "f36bad24ab786c00",
             "type": "leaf",
             "state": {
@@ -33,6 +47,16 @@
               },
               "icon": "lucide-file",
               "title": "Нефроны"
+            }
+          },
+          {
+            "id": "d5b52c4b6233257c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -110,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/Нефроны.md",
+                "file": "Анатомия/Лекции/Сердце.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Нефроны"
+              "title": "Outline of Сердце"
             }
           },
           {
@@ -201,11 +225,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f36bad24ab786c00",
+  "active": "2006b394c5c870eb",
   "lastOpenFiles": [
+    "Анатомия/Лекции/MOC Анатомия.md",
+    "Анатомия/Лекции/Сердце.md",
+    "Анатомия/Лекции/Нефроны.md",
     "Анатомия/Лекции/Почки.md",
     "Анатомия/Лекции/Мочевой пузырь.md",
-    "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Мочевыделительная система.md",
     "Анатомия/Лекции/Соединительная Ткань.md",
     "Пигменты.md",
@@ -226,9 +252,7 @@
     "Картинки/Pasted image 20260331192229.png",
     "Желудочно-кишечный тракт.md",
     "Круги кровообращения.md",
-    "Анатомия/Лекции/Сердце.md",
     "Анатомия/Лекции/Головной мозг.md",
-    "Анатомия/Лекции/Нефроны.md",
     "Анатомия/Лекции/Виды органов.md",
     "Селезенка.md",
     "Паренхима.md",
