@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Анатомия/Лекции/Кожа.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -104,9 +104,19 @@
               "icon": "lucide-file",
               "title": "Мочевыделительная система"
             }
+          },
+          {
+            "id": "2a3d3028968ded22",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -180,13 +190,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/Кожа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Кожа"
+              "title": "Outline"
             }
           },
           {
@@ -271,14 +280,14 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "640533d809ebf704",
+  "active": "2a3d3028968ded22",
   "lastOpenFiles": [
+    "Анатомия/Лекции/Кожа.md",
     "Картинки/Pasted image 20260331200323.png",
     "Картинки/Pasted image 20260331200227.png",
     "Картинки/Pasted image 20260331195942.png",
     "Анатомия/Лекции/Соединительная Ткань.md",
     "Витамины.md",
-    "Анатомия/Лекции/Кожа.md",
     "Картинки/Pasted image 20260331195642.png",
     "Картинки/Pasted image 20260331195158.png",
     "Картинки/Pasted image 20260331195003.png",
@@ -296,7 +305,6 @@
     "Круги кровообращения.md",
     "Анатомия/Лекции/Сердце.md",
     "Анатомия/Лекции/Головной мозг.md",
-    "Картинки/Pasted image 20260330200828.png",
     "Анатомия/Лекции/Нефроны.md",
     "Анатомия/Лекции/Виды органов.md",
     "Анатомия/Лекции/Почки.md",
