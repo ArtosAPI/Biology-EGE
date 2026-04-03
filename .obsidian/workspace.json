@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Терморегуляция.md",
+                "file": "Анатомия/Лекции/Кожа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Терморегуляция"
+              "title": "Outline of Кожа"
             }
           },
           {
@@ -253,11 +253,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "acaa3a7015512041",
+  "active": "e5db19191b375c29",
   "lastOpenFiles": [
+    "Терморегуляция.md",
     "Анатомия/Лекции/Сердце.md",
     "Анатомия/Лекции/Промежуточный мозг (гипофиз, эпифиз, гипоталамус, таламус).md",
-    "Терморегуляция.md",
     "Анатомия/Лекции/Гипоталамус.md",
     "Картинки/Pasted image 20260403162820.png",
     "Картинки/Pasted image 20260403162817.png",
