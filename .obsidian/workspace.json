@@ -87,7 +87,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/MOC Анатомия.md",
+                "file": "Анатомия/Лекции/Кожа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MOC Анатомия"
+              "title": "Outline of Кожа"
             }
           },
           {
@@ -252,8 +253,9 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "7f787925c9dc84eb",
+  "active": "e5db19191b375c29",
   "lastOpenFiles": [
+    "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Кожа.md",
     "Ногти.md",
     "Сальные железы.md",
@@ -262,7 +264,6 @@
     "Анатомия/Лекции/Нефроны.md",
     "Анатомия/Лекции/Нервная ткань.md",
     "Потовые железы.md",
-    "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Почки.md",
     "Анатомия/Лекции/Мочевой пузырь.md",
     "Анатомия/Лекции/Мочевыделительная система.md",
