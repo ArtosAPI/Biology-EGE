@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ногти.md",
+                "file": "Анатомия/Лекции/Кожа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ногти"
+              "title": "Outline of Кожа"
             }
           },
           {
@@ -253,11 +253,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "b79fa3a1ef50547c",
+  "active": "e5db19191b375c29",
   "lastOpenFiles": [
+    "Ногти.md",
     "Сальные железы.md",
     "Анатомия/Лекции/Кожа.md",
-    "Ногти.md",
     "Волосы.md",
     "Анатомия/Лекции/Сердце.md",
     "Анатомия/Лекции/Нефроны.md",
