@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "acaa3a7015512041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Терморегуляция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Терморегуляция"
+            }
+          },
+          {
             "id": "2006b394c5c870eb",
             "type": "leaf",
             "state": {
@@ -74,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/Кожа.md",
+                "file": "Терморегуляция.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Кожа"
+              "title": "Outline of Терморегуляция"
             }
           },
           {
@@ -239,10 +253,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "e5db19191b375c29",
+  "active": "acaa3a7015512041",
   "lastOpenFiles": [
-    "Волосы.md",
     "Анатомия/Лекции/Кожа.md",
+    "Терморегуляция.md",
+    "Волосы.md",
     "Анатомия/Лекции/Сердце.md",
     "Ногти.md",
     "Потовые железы.md",
@@ -276,7 +291,6 @@
     "Селезенка.md",
     "Паренхима.md",
     "Печень.md",
-    "Яичники.md",
     "Анатомия/Лекции/Сердечно-сосудистая система.canvas",
     "Untitled.base",
     "Анатомия/Лекции/MOC Анатомия.canvas",
