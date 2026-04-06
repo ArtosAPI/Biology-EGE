@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "7a40e5bc3ae8ed7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Анатомия/Лекции/Легкие.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Легкие"
+            }
+          },
+          {
             "id": "d2a33949e2921389",
             "type": "leaf",
             "state": {
@@ -49,7 +63,8 @@
               "title": "Эмбрионогенез"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Лекции/MOC Анатомия.md",
+                "file": "Анатомия/Лекции/Легкие.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MOC Анатомия"
+              "title": "Outline of Легкие"
             }
           },
           {
@@ -213,12 +228,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "7f787925c9dc84eb",
+  "active": "7a40e5bc3ae8ed7b",
   "lastOpenFiles": [
+    "Анатомия/Лекции/MOC Анатомия.md",
     "Общая Биология/Процессы/Эмбрионогенез.md",
     "Общая Биология/Процессы/Онтогенез.md",
     "Анатомия/Лекции/Почки.md",
-    "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Терморегуляция.md",
     "Анатомия/Лекции/Нефроны.md",
     "Анатомия/Лекции/Сердце.md",
