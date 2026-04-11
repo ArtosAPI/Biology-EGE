@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Общая Биология/Заметка о задачах синтеза белка.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:27",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,7 +243,7 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f86609fb3cc7caf5",
+  "active": "89a1f9a945efa031",
   "lastOpenFiles": [
     "Общая Биология/Задачи/12 задача.md",
     "Общая Биология/Задачи/10 задача.md",
