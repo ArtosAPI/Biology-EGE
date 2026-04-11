@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "95b52e4d9b8dc834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Трансляция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Трансляция"
+            }
+          },
+          {
             "id": "49d690f100ca6563",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общая Биология/Заметка о задачах синтеза белка.md",
+                "file": "Трансляция.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Заметка о задачах синтеза белка"
+              "title": "Outline of Трансляция"
             }
           },
           {
@@ -243,10 +257,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "9ceaaacb484e6b4b",
+  "active": "95b52e4d9b8dc834",
   "lastOpenFiles": [
-    "Анатомия/Лекции/Почки.md",
+    "Трансляция.md",
     "Общая Биология/Заметка о задачах синтеза белка.md",
+    "Анатомия/Лекции/Почки.md",
     "Картинки/Pasted image 20260411122725.png",
     "Картинки/Pasted image 20260411122722.png",
     "Картинки/Pasted image 20260411122657.png",
@@ -280,7 +295,6 @@
     "Картинки/Pasted image 20260331195942.png",
     "Анатомия/Лекции/Витамины.md",
     "Картинки/Pasted image 20260331195642.png",
-    "Анатомия/Лекции/Мочевина.md",
     "Анатомия/Лекции/Сердечно-сосудистая система.canvas",
     "Untitled.base",
     "Анатомия/Лекции/MOC Анатомия.canvas",
