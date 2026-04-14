@@ -132,9 +132,19 @@
               "icon": "lucide-file",
               "title": "Признаки и свойства живого"
             }
+          },
+          {
+            "id": "d600555a3618de8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -208,13 +218,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Признаки и свойства живого.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Признаки и свойства живого"
+              "title": "Outline"
             }
           },
           {
@@ -223,12 +232,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Признаки и свойства живого.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Признаки и свойства живого"
+              "title": "Outgoing links"
             }
           },
           {
@@ -237,7 +245,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Признаки и свойства живого.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Признаки и свойства живого"
+              "title": "Backlinks"
             }
           },
           {
@@ -300,15 +307,15 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "b72aaa8668a15ec9",
+  "active": "d600555a3618de8d",
   "lastOpenFiles": [
+    "Относится напрямую к ЕГЭ/1 задание/Признаки и свойства живого.md",
     "Относится напрямую к ЕГЭ/1 задание/Вклад разных ученых.md",
     "Относится напрямую к ЕГЭ/1 задание/Биологические науки (биология как наука).md",
     "Относится напрямую к ЕГЭ/1 задание/Уровни организации живого.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Нервная ткань.md",
     "Картинки/Pasted image 20260414175805.png",
-    "Относится напрямую к ЕГЭ/1 задание/Признаки и свойства живого.md",
     "Генетика/МОС Генетика.md",
     "Экология/МОС Экология.md",
     "Относится напрямую к ЕГЭ 1/1 задание/Методы биологии.md",
