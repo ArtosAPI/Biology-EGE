@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Относится напрямую к ЕГЭ/1 задание/Методы биологии.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Признаки и свойства живого.md",
+                "file": "Относится напрямую к ЕГЭ/1 задание/Методы биологии.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Признаки и свойства живого"
+              "title": "Outline of Методы биологии"
             }
           },
           {
@@ -181,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Признаки и свойства живого.md",
+                "file": "Относится напрямую к ЕГЭ/1 задание/Методы биологии.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Признаки и свойства живого"
+              "title": "Outgoing links from Методы биологии"
             }
           },
           {
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Признаки и свойства живого.md",
+                "file": "Относится напрямую к ЕГЭ/1 задание/Методы биологии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Признаки и свойства живого"
+              "title": "Backlinks for Методы биологии"
             }
           },
           {
@@ -257,8 +257,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "b72aaa8668a15ec9",
+  "active": "4702789bd3e76737",
   "lastOpenFiles": [
+    "Картинки/Pasted image 20260414182909.png",
+    "Картинки/Pasted image 20260414182734.png",
+    "Относится напрямую к ЕГЭ/1 задание/Признаки и свойства живого.md",
     "Относится напрямую к ЕГЭ/1 задание/Методы биологии.md",
     "Относится напрямую к ЕГЭ/1 задание/Уровни организации живого.md",
     "Общая Биология/Задачи/12 задача.md",
@@ -266,7 +269,6 @@
     "Относится напрямую к ЕГЭ/1 задание/Биологические науки (биология как наука).md",
     "Ботаника/МОС Ботаника.md",
     "Относится напрямую к ЕГЭ/1 задание/Вклад разных ученых.md",
-    "Относится напрямую к ЕГЭ/1 задание/Признаки и свойства живого.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Нервная ткань.md",
     "Картинки/Pasted image 20260414175805.png",
@@ -295,10 +297,8 @@
     "Картинки/Pasted image 20260414173402.png",
     "Картинки/Pasted image 20260414173020.png",
     "Картинки/Pasted image 20260414172830.png",
-    "Генетика/Хромосомы.md",
     "Картинки/Pasted image 20260414172342.png",
     "Картинки/Pasted image 20260414171841.png",
-    "Картинки/Pasted image 20260414171833.png",
     "Относится напрямую к ЕГЭ/1 задание",
     "Untitled.base",
     "Относится напрямую к ЕГЭ",
