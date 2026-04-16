@@ -22,48 +22,6 @@
             }
           },
           {
-            "id": "19e913e6d810f3e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Уровни организации живого.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Уровни организации живого"
-            }
-          },
-          {
-            "id": "4702789bd3e76737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Методы биологии.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Методы биологии"
-            }
-          },
-          {
-            "id": "85c0bcddee5cf235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Вклад разных ученых.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вклад разных ученых"
-            }
-          },
-          {
             "id": "150ad0a652940dfd",
             "type": "leaf",
             "state": {
@@ -92,91 +50,21 @@
             }
           },
           {
-            "id": "a3c2f9095b8e2383",
+            "id": "dd53a227a03b7476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общая Биология/Вещества/Ферменты.md",
+                "file": "Общая Биология/Процессы/Цикл клетки.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ферменты"
-            }
-          },
-          {
-            "id": "6ba0e2253481fe35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общая Биология/Органоиды/Клеточная мембрана.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Клеточная мембрана"
-            }
-          },
-          {
-            "id": "7bea7a6a30c33eba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общая Биология/Процессы/Брожение – Анаэробное окисление.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Брожение – Анаэробное окисление"
-            }
-          },
-          {
-            "id": "ad67f6d8b870c265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общая Биология/Органоиды/Митохондрия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Митохондрия"
-            }
-          },
-          {
-            "id": "e7fc418965eb367f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общая Биология/Процессы/Фотосинтез.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Фотосинтез"
-            }
-          },
-          {
-            "id": "b916683c7965532d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Биологические науки (биология как наука).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Биологические науки (биология как наука)"
+              "title": "Цикл клетки"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -250,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общая Биология/Вещества/Ферменты.md",
+                "file": "Общая Биология/Процессы/Цикл клетки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ферменты"
+              "title": "Outline of Цикл клетки"
             }
           },
           {
@@ -265,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Общая Биология/Вещества/Ферменты.md",
+                "file": "Общая Биология/Процессы/Цикл клетки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ферменты"
+              "title": "Outgoing links from Цикл клетки"
             }
           },
           {
@@ -279,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Общая Биология/Вещества/Ферменты.md",
+                "file": "Общая Биология/Процессы/Цикл клетки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ферменты"
+              "title": "Backlinks for Цикл клетки"
             }
           },
           {
@@ -341,10 +229,20 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "a3c2f9095b8e2383",
+  "active": "dd53a227a03b7476",
   "lastOpenFiles": [
     "Общая Биология/МОС Общая Биология.md",
+    "Общая Биология/Процессы/Катаболизм – Энергетический обмен.md",
+    "Общая Биология/Процессы/Анаболизм – Энергетический обмен.md",
+    "Ядро.md",
+    "Вакуоль.md",
+    "Клеточная стенка.md",
+    "Белки.md",
+    "ДНК.md",
     "Общая Биология/Органоиды/Клеточная мембрана.md",
+    "РНК.md",
+    "Общая Биология/Вещества/Пигменты.md",
+    "Общая Биология/Вещества/Ферменты.md",
     "Общая Биология/Органоиды/Хлоропласт.md",
     "Общая Биология/Органоиды/Рибосома.md",
     "Общая Биология/Органоиды/Клеточный центр.md",
@@ -355,28 +253,18 @@
     "README.md",
     "Общая Биология/Процессы/Гликолиз.md",
     "Общая Биология/Процессы/Брожение – Анаэробное окисление.md",
-    "Общая Биология/Процессы/Катаболизм – Энергетический обмен.md",
     "Общая Биология/Процессы/Фотосинтез.md",
     "Относится напрямую к ЕГЭ/1 задание/Биологические науки (биология как наука).md",
-    "Общая Биология/Процессы/Анаболизм.md",
     "Картинки/Pasted image 20260416184655.png",
     "Картинки/Pasted image 20260416184649.png",
     "Картинки/Pasted image 20260416184507.png",
     "Общая Биология/Вещества/Хлорофилл.md",
-    "Анатомия/Лекции/Пигменты.md",
     "Относится напрямую к ЕГЭ/1 задание/Методы биологии.md",
-    "Анатомия/Лекции/Миоглобин.md",
     "Картинки/Pasted image 20260416183450.png",
     "Картинки/Pasted image 20260416182634.png",
-    "Относится напрямую к ЕГЭ/1 задание/Признаки и свойства живого.md",
-    "Относится напрямую к ЕГЭ/1 задание/Вклад разных ученых.md",
     "Картинки/Pasted image 20260416182254.png",
-    "Общая Биология/Цитология.md",
     "Картинки/Pasted image 20260414182909.png",
     "Картинки/Pasted image 20260414182734.png",
-    "Относится напрямую к ЕГЭ/1 задание/Уровни организации живого.md",
-    "Общая Биология/Задачи/12 задача.md",
-    "Анатомия/Лекции/Почки.md",
     "Картинки/Pasted image 20260414175805.png",
     "Относится напрямую к ЕГЭ 1/1 задание",
     "Относится напрямую к ЕГЭ 1",
