@@ -114,9 +114,37 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "5017eb4f977dcee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Общая Биология/МОС Общая Биология.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "МОС Общая Биология"
+            }
+          },
+          {
+            "id": "5bfb1977d8a1c97a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Общая Биология/Вещества/РНК.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "РНК"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -170,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -190,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Аллели.md",
+                "file": "Общая Биология/Вещества/РНК.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Аллели"
+              "title": "Outline of РНК"
             }
           },
           {
@@ -205,12 +233,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Аллели.md",
+                "file": "Общая Биология/Вещества/РНК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Аллели"
+              "title": "Outgoing links from РНК"
             }
           },
           {
@@ -219,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Аллели.md",
+                "file": "Общая Биология/Вещества/РНК.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +257,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Аллели"
+              "title": "Backlinks for РНК"
             }
           },
           {
@@ -281,17 +309,17 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "2e3f598032e58293",
+  "active": "5bfb1977d8a1c97a",
   "lastOpenFiles": [
+    "Общая Биология/МОС Общая Биология.md",
+    "Аллели.md",
     "Генотип.md",
     "Генетика/МОС Генетика.md",
     "Фенотип.md",
     "Признак.md",
     "Ген.md",
-    "Аллели.md",
     "Основы генетики.md",
     "Гаметы.md",
-    "Общая Биология/МОС Общая Биология.md",
     "Общая Биология/Вещества/Хромосомы.md",
     "Общая Биология/Вещества/Белки.md",
     "Общая Биология/Органоиды/Ядро.md",
