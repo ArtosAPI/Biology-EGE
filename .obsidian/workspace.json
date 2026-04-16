@@ -118,9 +118,29 @@
               "icon": "lucide-file",
               "title": "МОС Общая Биология"
             }
+          },
+          {
+            "id": "5853b921c8a01932",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "daec6ddf4e96943e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -194,13 +214,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ген.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ген"
+              "title": "Outline"
             }
           },
           {
@@ -209,12 +228,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ген.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ген"
+              "title": "Outgoing links"
             }
           },
           {
@@ -223,7 +241,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ген.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +250,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ген"
+              "title": "Backlinks"
             }
           },
           {
@@ -285,10 +302,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "7b7380540986ad58",
+  "active": "daec6ddf4e96943e",
   "lastOpenFiles": [
-    "Аллели.md",
     "Ген.md",
+    "Аллели.md",
     "Генотип.md",
     "Генетика/МОС Генетика.md",
     "Признак.md",

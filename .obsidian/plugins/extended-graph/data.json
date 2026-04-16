@@ -1,7 +1,7 @@
 {
   "enableFeatures": {
     "graph": {
-      "auto-enabled": true,
+      "auto-enabled": false,
       "tags": false,
       "properties": false,
       "property-key": false,
@@ -20,7 +20,7 @@
       "layers": false
     },
     "localgraph": {
-      "auto-enabled": true,
+      "auto-enabled": false,
       "tags": false,
       "properties": false,
       "property-key": false,
@@ -371,7 +371,7 @@
   "collapseLegend": true,
   "resetAfterChanges": false,
   "collapsedSettings": {
-    "automation": true,
+    "automation": false,
     "tags": true,
     "properties": true,
     "links": true,
