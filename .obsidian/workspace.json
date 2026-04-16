@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общая Биология/МОС Общая Биология.md",
-                "mode": "preview",
+                "file": "Генетика/МОС Генетика.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "МОС Общая Биология"
+              "title": "МОС Генетика"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общая Биология/МОС Общая Биология.md",
+                "file": "Генетика/МОС Генетика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of МОС Общая Биология"
+              "title": "Outline of МОС Генетика"
             }
           },
           {
@@ -110,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Общая Биология/МОС Общая Биология.md",
+                "file": "Генетика/МОС Генетика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from МОС Общая Биология"
+              "title": "Outgoing links from МОС Генетика"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Общая Биология/МОС Общая Биология.md",
+                "file": "Генетика/МОС Генетика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for МОС Общая Биология"
+              "title": "Backlinks for МОС Генетика"
             }
           },
           {
@@ -186,11 +186,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "89a1f9a945efa031",
+  "active": "575daebab6fc14bd",
   "lastOpenFiles": [
+    "Общая Биология/Вещества/Хромосомы.md",
+    "Генетика/МОС Генетика.md",
+    "Общая Биология/МОС Общая Биология.md",
     "Общая Биология/Вещества/Белки.md",
     "Общая Биология/Органоиды/Ядро.md",
-    "Общая Биология/МОС Общая Биология.md",
     "Общая Биология/Процессы/Онтогенез.md",
     "Общая Биология/Процессы/Мейоз.md",
     "Общая Биология/Процессы/Митоз.md",
@@ -212,8 +214,6 @@
     "Общая Биология/Органоиды/Митохондрия.md",
     "Общая Биология/Процессы/Дыхание – Аэробное окисление.md",
     "README.md",
-    "Общая Биология/Процессы/Гликолиз.md",
-    "Общая Биология/Процессы/Брожение – Анаэробное окисление.md",
     "Картинки/Pasted image 20260416184655.png",
     "Картинки/Pasted image 20260416184649.png",
     "Картинки/Pasted image 20260416184507.png",
