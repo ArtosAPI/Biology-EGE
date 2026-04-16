@@ -118,29 +118,9 @@
               "icon": "lucide-file",
               "title": "МОС Общая Биология"
             }
-          },
-          {
-            "id": "5853b921c8a01932",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "daec6ddf4e96943e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -214,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Общая Биология/МОС Общая Биология.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of МОС Общая Биология"
             }
           },
           {
@@ -228,11 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Общая Биология/МОС Общая Биология.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from МОС Общая Биология"
             }
           },
           {
@@ -241,6 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Общая Биология/МОС Общая Биология.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for МОС Общая Биология"
             }
           },
           {
@@ -302,7 +285,7 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "daec6ddf4e96943e",
+  "active": "5017eb4f977dcee8",
   "lastOpenFiles": [
     "Ген.md",
     "Аллели.md",

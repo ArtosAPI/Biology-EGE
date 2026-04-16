@@ -1,55 +1,12 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Анатомия  ",
-      "color": {
-        "a": 1,
-        "rgb": 14688031
-      }
-    },
-    {
-      "query": "path:Ботаника  ",
-      "color": {
-        "a": 1,
-        "rgb": 5622085
-      }
-    },
-    {
-      "query": "path:Генетика  ",
-      "color": {
-        "a": 1,
-        "rgb": 7331034
-      }
-    },
-    {
-      "query": "path:\"Относится напрямую к ЕГЭ\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 9911267
-      }
-    },
-    {
-      "query": "path:\"Общая Биология\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 1071907
-      }
-    },
-    {
-      "query": "path:Зоология  ",
-      "color": {
-        "a": 1,
-        "rgb": 8068638
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.2,
