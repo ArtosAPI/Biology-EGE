@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -46,7 +46,7 @@
       "query": "path:Зоология  ",
       "color": {
         "a": 1,
-        "rgb": 15668501
+        "rgb": 8068638
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13873223932666173,
-  "close": false
+  "scale": 0.5359795996225977,
+  "close": true
 }
