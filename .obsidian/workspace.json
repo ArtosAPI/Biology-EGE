@@ -92,45 +92,31 @@
             }
           },
           {
-            "id": "0907c7598fd31632",
+            "id": "3b75755b7de5418d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общая Биология/Процессы/Онтогенез.md",
+                "file": "Сперматозоиды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Онтогенез"
+              "title": "Сперматозоиды"
             }
           },
           {
-            "id": "a496c92a040ca892",
+            "id": "baf796927a9462a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общая Биология/Процессы/Сперматогенез.md",
-                "mode": "source",
+                "file": "Яйцеклетки.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сперматогенез"
-            }
-          },
-          {
-            "id": "06bf0f7fc03929a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Овогенез(Оогенез).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Овогенез(Оогенез)"
+              "title": "Яйцеклетки"
             }
           },
           {
@@ -148,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -222,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Гаметогенез.md",
+                "file": "Сперматозоиды.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Гаметогенез"
+              "title": "Outline of Сперматозоиды"
             }
           },
           {
@@ -313,17 +299,21 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "e9e0675f4f7c8cb5",
+  "active": "3b75755b7de5418d",
   "lastOpenFiles": [
-    "Общая Биология/Процессы/Онтогенез.md",
+    "Яйцеклетки.md",
     "Сперматозоиды.md",
     "Гаметогенез.md",
-    "Яйцеклетки.md",
-    "Картинки/Pasted image 20260420195825.png",
+    "Картинки/Pasted image 20260420200354.png",
+    "Картинки/Pasted image 20260420200256.png",
     "Гаметы.md",
+    "Общая Биология/МОС Общая Биология.md",
+    "Общая Биология/Процессы/Онтогенез.md",
     "Общая Биология/Процессы/Сперматогенез.md",
     "Овогенез(Оогенез).md",
-    "Общая Биология/МОС Общая Биология.md",
+    "Картинки/Pasted image 20260420200008.png",
+    "Картинки/Pasted image 20260420195938.png",
+    "Картинки/Pasted image 20260420195825.png",
     "Картинки/Pasted image 20260420195334.png",
     "Картинки/Pasted image 20260420195143.png",
     "Общая Биология/Процессы/Мейоз.md",
@@ -344,13 +334,8 @@
     "Общая Биология/Вещества/РНК.md",
     "Картинки/Pasted image 20260416201543.png",
     "Картинки/Pasted image 20260416201156.png",
-    "Картинки/Pasted image 20260416201124.png",
     "АТФ.md",
-    "Картинки/Pasted image 20260416200930.png",
     "НАДФ.md",
-    "Картинки/Pasted image 20260416200700.png",
-    "Хромосомный набор.md",
-    "Картинки/Pasted image 20260416195634.png",
     "Относится напрямую к ЕГЭ 1/1 задание",
     "Относится напрямую к ЕГЭ 1",
     "Экология",
