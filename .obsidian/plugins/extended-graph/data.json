@@ -440,7 +440,7 @@
   },
   "selectionMode": "replace",
   "exportSVGOptions": {
-    "asImage": true,
+    "asImage": false,
     "onlyVisibleArea": false,
     "showNodeNames": true,
     "useCurvedLinks": false,

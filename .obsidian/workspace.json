@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Генетика/Скрещивание.md",
+                "file": "Гаметогенез.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Скрещивание"
+              "title": "Гаметогенез"
             }
           },
           {
@@ -76,19 +76,9 @@
               "icon": "lucide-file",
               "title": "МОС Общая Биология"
             }
-          },
-          {
-            "id": "d484a8b7fe15a9c2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Гаметогенез.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Гаметогенез"
             }
           },
           {
@@ -252,20 +243,20 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "d484a8b7fe15a9c2",
+  "active": "d920b420bd120ecb",
   "lastOpenFiles": [
+    "Генетика/Скрещивание.md",
+    "Генетика/Законы Менделя.md",
+    "Общая Биология/МОС Общая Биология.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Анатомия/Лекции/Ротовая полость.md",
-    "Генетика/Законы Менделя.md",
     "Генетика/Гаметы.md",
-    "Генетика/Скрещивание.md",
     "Картинки/Pasted image 20260420203123.png",
     "Картинки/Pasted image 20260420203102.png",
     "Картинки/Pasted image 20260420203019.png",
     "Картинки/Pasted image 20260420202736.png",
     "Картинки/Pasted image 20260420202827.png",
     "Генетика/Генотип.md",
-    "Общая Биология/МОС Общая Биология.md",
     "Анатомия/Лекции/Опсонизация.md",
     "Генетика/Ген.md",
     "Генетика/Аллели.md",
