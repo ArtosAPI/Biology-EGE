@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Генетика/Законы Менделя.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Решетка Пеннета.md",
+                "file": "Генетика/Законы Менделя.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Решетка Пеннета"
+              "title": "Outline of Законы Менделя"
             }
           },
           {
@@ -271,10 +271,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "49f5d0bfbf78d9a3",
+  "active": "5a682d687487b0c8",
   "lastOpenFiles": [
-    "Картинки/РешеткаПеннетаМаленькая.png",
     "Решетка Пеннета.md",
+    "Картинки/РешеткаПеннетаМаленькая.png",
     "Генетика/Законы Менделя.md",
     "Генетика/Скрещивание.md",
     "Картинки/РешеткаПеннетаБольшая.png",
