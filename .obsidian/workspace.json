@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Генетика/Законы Менделя.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Генетика/Законы Менделя.md",
+                "file": "Решетка Пеннета.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Законы Менделя"
+              "title": "Outline of Решетка Пеннета"
             }
           },
           {
@@ -271,13 +271,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "5a682d687487b0c8",
+  "active": "49f5d0bfbf78d9a3",
   "lastOpenFiles": [
+    "Картинки/РешеткаПеннетаМаленькая.png",
     "Решетка Пеннета.md",
     "Генетика/Законы Менделя.md",
     "Генетика/Скрещивание.md",
     "Картинки/РешеткаПеннетаБольшая.png",
-    "Картинки/РешеткаПеннетаМаленькая.png",
     "Картинки/Pasted image 20260422173128.png",
     "Генетика/Гаметы.md",
     "Генетика/МОС Генетика.md",
@@ -308,7 +308,6 @@
     "Генетика/Генотип.md",
     "Анатомия/Лекции/Опсонизация.md",
     "Генетика/Ген.md",
-    "Генетика/Аллели.md",
     "Относится напрямую к ЕГЭ 1/1 задание",
     "Относится напрямую к ЕГЭ 1",
     "Экология",
