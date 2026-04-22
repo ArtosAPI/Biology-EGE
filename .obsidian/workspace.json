@@ -78,6 +78,20 @@
             }
           },
           {
+            "id": "5c48ac4435432d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Кодоминирование.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Кодоминирование"
+            }
+          },
+          {
             "id": "be7ad6a0befbd146",
             "type": "leaf",
             "state": {
@@ -117,20 +131,6 @@
               },
               "icon": "lucide-file",
               "title": "Типы доминирования"
-            }
-          },
-          {
-            "id": "5c48ac4435432d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Кодоминирование.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Кодоминирование"
             }
           }
         ],
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Неполное доминирование.md",
+                "file": "Кодоминирование.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Неполное доминирование"
+              "title": "Outline of Кодоминирование"
             }
           },
           {
@@ -299,12 +299,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "be7ad6a0befbd146",
+  "active": "5c48ac4435432d61",
   "lastOpenFiles": [
-    "Полное доминирование.md",
     "Неполное доминирование.md",
+    "Анатомия/Лекции/Группы крови.md",
     "Кодоминирование.md",
     "Типы доминирования.md",
+    "Полное доминирование.md",
     "Генетика/МОС Генетика.md",
     "Картинки/Pasted image 20260422170209.png",
     "Картинки/Pasted image 20260420200722.png",
@@ -336,7 +337,6 @@
     "Сперматозоиды.md",
     "Общая Биология/Процессы/Онтогенез.md",
     "Общая Биология/Процессы/Сперматогенез.md",
-    "Овогенез(Оогенез).md",
     "Относится напрямую к ЕГЭ 1/1 задание",
     "Относится напрямую к ЕГЭ 1",
     "Экология",
