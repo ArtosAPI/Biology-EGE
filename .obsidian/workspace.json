@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Генетика/Законы Менделя.md",
+                "file": "Генетика/Гаметы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Законы Менделя"
+              "title": "Outline of Гаметы"
             }
           },
           {
@@ -271,11 +271,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "5a682d687487b0c8",
+  "active": "bd25aab50b2b346c",
   "lastOpenFiles": [
+    "Генетика/Законы Менделя.md",
     "Картинки/Pasted image 20260422182016.png",
     "Сцепленное наследование.md",
-    "Генетика/Законы Менделя.md",
     "Генетика/Решетка Пеннета.md",
     "Генетика/Скрещивание.md",
     "Картинки/Pasted image 20260422180754.png",
@@ -306,7 +306,6 @@
     "Картинки/Pasted image 20260422172157.png",
     "Картинки/Pasted image 20260422172020.png",
     "Картинки/Pasted image 20260422171956.png",
-    "Картинки/Pasted image 20260422171945.png",
     "Анатомия/Лекции/Группы крови.md",
     "Анатомия/Лекции/MOC Анатомия.md",
     "Относится напрямую к ЕГЭ 1/1 задание",
