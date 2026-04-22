@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "Неполное доминирование.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Типы доминирования.md",
+                "file": "Неполное доминирование.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Типы доминирования"
+              "title": "Outline of Неполное доминирование"
             }
           },
           {
@@ -299,12 +299,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "38cc2987e8ea2c0d",
+  "active": "be7ad6a0befbd146",
   "lastOpenFiles": [
-    "Кодоминирование.md",
-    "Типы доминирования.md",
     "Полное доминирование.md",
     "Неполное доминирование.md",
+    "Кодоминирование.md",
+    "Типы доминирования.md",
     "Генетика/МОС Генетика.md",
     "Картинки/Pasted image 20260422170209.png",
     "Картинки/Pasted image 20260420200722.png",
