@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "c15413c33efd58d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хромосомная теория.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Хромосомная теория"
+            }
+          },
+          {
             "id": "175214c361f54f02",
             "type": "leaf",
             "state": {
@@ -130,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Генетика/Законы Менделя.md",
+                "file": "Хромосомная теория.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Законы Менделя"
+              "title": "Outline of Хромосомная теория"
             }
           },
           {
@@ -294,11 +308,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "ba7fbd732b688988",
+  "active": "c15413c33efd58d4",
   "lastOpenFiles": [
-    "Генетика/Скрещивание.md",
+    "Хромосомная теория.md",
     "Генетика/МОС Генетика.md",
     "Генетика/Законы Менделя.md",
+    "Генетика/Скрещивание.md",
     "Генетика/Гаметы.md",
     "Анатомия/Лекции/Функциональные нервные центры.md",
     "Генетика/Решетка Пеннета.md",
@@ -326,7 +341,6 @@
     "Генетика/Неполное доминирование.md",
     "Общая Биология/Вещества/Нуклеиновые кислоты.md",
     "Общая Биология/Вещества/ДНК-полимераза.md",
-    "Общая Биология/Процессы/Транскрипция.md",
     "Картинки/Pasted image 20260422172411.png",
     "Картинки/Pasted image 20260422172239.png",
     "Картинки/Pasted image 20260422172157.png",
