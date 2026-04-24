@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Генетика/Законы Менделя.md",
+                "file": "Ботаника/МОС Ботаника.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Законы Менделя"
+              "title": "МОС Ботаника"
+            }
+          },
+          {
+            "id": "6a5e1968746e5d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Анатомия/Лекции/Функциональные нервные центры.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Функциональные нервные центры"
             }
           },
           {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ",
+                "query": "file: кора",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -159,8 +173,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Генетика/Гаметы.md",
+                "file": "Анатомия/Лекции/Функциональные нервные центры.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Гаметы"
+              "title": "Outline of Функциональные нервные центры"
             }
           },
           {
@@ -271,15 +284,18 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "bd25aab50b2b346c",
+  "active": "6a5e1968746e5d1a",
   "lastOpenFiles": [
+    "Анатомия/Лекции/Кора больших полушарий.md",
+    "Анатомия/Лекции/Высшая нервная деятельность.md",
+    "Ботаника/МОС Ботаника.md",
     "Генетика/Законы Менделя.md",
+    "Генетика/Гаметы.md",
     "Картинки/Pasted image 20260422182016.png",
     "Сцепленное наследование.md",
     "Генетика/Решетка Пеннета.md",
     "Генетика/Скрещивание.md",
     "Картинки/Pasted image 20260422180754.png",
-    "Генетика/Гаметы.md",
     "Общая Биология/МОС Общая Биология.md",
     "Общая Биология/Процессы/Гаметогенез.md",
     "Общая Биология/Процессы/Кариотип.md",
@@ -306,8 +322,6 @@
     "Картинки/Pasted image 20260422172157.png",
     "Картинки/Pasted image 20260422172020.png",
     "Картинки/Pasted image 20260422171956.png",
-    "Анатомия/Лекции/Группы крови.md",
-    "Анатомия/Лекции/MOC Анатомия.md",
     "Относится напрямую к ЕГЭ 1/1 задание",
     "Относится напрямую к ЕГЭ 1",
     "Экология",
