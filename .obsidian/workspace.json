@@ -50,6 +50,34 @@
             }
           },
           {
+            "id": "86e35b2e5f578c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Группы сцепления – сцепленное наследование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Группы сцепления – сцепленное наследование"
+            }
+          },
+          {
+            "id": "9b6ee1f3cdf61bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Общая Биология/Вещества/Хромосомы.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Хромосомы"
+            }
+          },
+          {
             "id": "175214c361f54f02",
             "type": "leaf",
             "state": {
@@ -92,20 +120,6 @@
             }
           },
           {
-            "id": "09005efbeeaac73f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сцепленное наследование.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сцепленное наследование"
-            }
-          },
-          {
             "id": "3fe1491776933a8d",
             "type": "leaf",
             "state": {
@@ -134,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: рас",
+                "query": "file: сце",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Хромосомная теория.md",
+                "file": "Группы сцепления – сцепленное наследование.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Хромосомная теория"
+              "title": "Outline of Группы сцепления – сцепленное наследование"
             }
           },
           {
@@ -298,17 +312,19 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "c15413c33efd58d4",
+  "active": "86e35b2e5f578c85",
   "lastOpenFiles": [
-    "Картинки/Pasted image 20260424202714.png",
+    "Общая Биология/Вещества/Хромосомы.md",
+    "Группы сцепления – сцепленное наследование.md",
+    "Сцепленное наследование.md",
     "Хромосомная теория.md",
+    "Картинки/Pasted image 20260424202714.png",
     "Генетика/МОС Генетика.md",
     "Генетика/Законы Менделя.md",
     "Генетика/Скрещивание.md",
     "Генетика/Гаметы.md",
     "Анатомия/Лекции/Функциональные нервные центры.md",
     "Генетика/Решетка Пеннета.md",
-    "Сцепленное наследование.md",
     "Ботаника/МОС Ботаника.md",
     "Анатомия/Лекции/Кора больших полушарий.md",
     "Общая Биология/МОС Общая Биология.md",
@@ -330,12 +346,10 @@
     "Генетика/Типы доминирования.md",
     "Генетика/Полное доминирование.md",
     "Генетика/Неполное доминирование.md",
-    "Общая Биология/Вещества/Нуклеиновые кислоты.md",
     "Картинки/Pasted image 20260422172411.png",
     "Картинки/Pasted image 20260422172239.png",
     "Картинки/Pasted image 20260422172157.png",
     "Картинки/Pasted image 20260422172020.png",
-    "Картинки/Pasted image 20260422171956.png",
     "Относится напрямую к ЕГЭ 1/1 задание",
     "Относится напрямую к ЕГЭ 1",
     "Экология",
