@@ -50,6 +50,34 @@
             }
           },
           {
+            "id": "1c4db5fe3316035a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Общая Биология/Процессы/Митоз.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Митоз"
+            }
+          },
+          {
+            "id": "1a530e0cee737cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Общая Биология/Процессы/Хромосомный набор.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Хромосомный набор"
+            }
+          },
+          {
             "id": "86e35b2e5f578c85",
             "type": "leaf",
             "state": {
@@ -148,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: сце",
+                "query": "file: мито",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -201,7 +229,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общая Биология/Вещества/Хромосомы.md",
+                "file": "Общая Биология/Процессы/Митоз.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Хромосомы"
+              "title": "Outline of Митоз"
             }
           },
           {
@@ -312,12 +341,15 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "9b6ee1f3cdf61bec",
+  "active": "1c4db5fe3316035a",
   "lastOpenFiles": [
+    "Общая Биология/Процессы/Хромосомный набор.md",
     "Группы сцепления – сцепленное наследование.md",
+    "Картинки/ГенетическаяФормула.png",
+    "Общая Биология/Процессы/Митоз.md",
+    "Хромосомная теория.md",
     "Общая Биология/Вещества/Хромосомы.md",
     "Сцепленное наследование.md",
-    "Хромосомная теория.md",
     "Картинки/Pasted image 20260424202714.png",
     "Генетика/МОС Генетика.md",
     "Генетика/Законы Менделя.md",
@@ -343,13 +375,9 @@
     "Картинки/РешеткаПеннетаМаленькая.png",
     "Картинки/РешеткаПеннетаБольшая.png",
     "Картинки/Pasted image 20260422173128.png",
-    "Генетика/Типы доминирования.md",
-    "Генетика/Полное доминирование.md",
-    "Генетика/Неполное доминирование.md",
     "Картинки/Pasted image 20260422172411.png",
     "Картинки/Pasted image 20260422172239.png",
     "Картинки/Pasted image 20260422172157.png",
-    "Картинки/Pasted image 20260422172020.png",
     "Относится напрямую к ЕГЭ 1/1 задание",
     "Относится напрямую к ЕГЭ 1",
     "Экология",
