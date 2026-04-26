@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Группы сцепления – сцепленное наследование.md",
+                "file": "Общая Биология/Вещества/Хромосомы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Группы сцепления – сцепленное наследование"
+              "title": "Outline of Хромосомы"
             }
           },
           {
@@ -312,10 +312,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "86e35b2e5f578c85",
+  "active": "9b6ee1f3cdf61bec",
   "lastOpenFiles": [
-    "Общая Биология/Вещества/Хромосомы.md",
     "Группы сцепления – сцепленное наследование.md",
+    "Общая Биология/Вещества/Хромосомы.md",
     "Сцепленное наследование.md",
     "Хромосомная теория.md",
     "Картинки/Pasted image 20260424202714.png",
