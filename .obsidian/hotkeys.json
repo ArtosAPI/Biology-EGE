@@ -63,5 +63,15 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-text-format:heading-upper": [],
+  "workspace:close": [],
+  "obsidian-text-format:capitalize-word": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
   ]
 }
