@@ -126,7 +126,7 @@
               "type": "markdown",
               "state": {
                 "file": "Общая Биология/Процессы/Мейоз – Редукционное деление.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общая Биология/Процессы/Митоз – Непрямое деление.md",
+                "file": "Общая Биология/Процессы/Мейоз – Редукционное деление.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Митоз – Непрямое деление"
+              "title": "Outline of Мейоз – Редукционное деление"
             }
           },
           {
@@ -327,8 +327,9 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "0728488fb50e0fba",
+  "active": "267e1cd21a6dfa5c",
   "lastOpenFiles": [
+    "Общая Биология/Процессы/Митоз – Непрямое деление.md",
     "Общая Биология/Процессы/Мейоз – Редукционное деление.md",
     "Бинарное деление надвое.md",
     "Деление клетки.md",
@@ -338,7 +339,6 @@
     "Бактерии.md",
     "Вирусы.md",
     "Картинки/Pasted image 20260427004110.png",
-    "Общая Биология/Процессы/Митоз – Непрямое деление.md",
     "Картинки/Pasted image 20260427003748.png",
     "Картинки/Pasted image 20260427003207.png",
     "Картинки/Pasted image 20260427003146.png",
