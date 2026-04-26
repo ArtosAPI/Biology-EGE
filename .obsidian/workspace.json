@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "1c4db5fe3316035a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общая Биология/Процессы/Митоз.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Митоз"
-            }
-          },
-          {
             "id": "4a3a9ad68e786bca",
             "type": "leaf",
             "state": {
@@ -75,34 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "Центриоли"
-            }
-          },
-          {
-            "id": "61c075c4fd7f85c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общая Биология/Процессы/Мейоз.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Мейоз"
-            }
-          },
-          {
-            "id": "5017eb4f977dcee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общая Биология/МОС Общая Биология.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "МОС Общая Биология"
             }
           },
           {
@@ -120,76 +78,6 @@
             }
           },
           {
-            "id": "9b6ee1f3cdf61bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общая Биология/Вещества/Хромосомы.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Хромосомы"
-            }
-          },
-          {
-            "id": "175214c361f54f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Генетика/Скрещивание.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Скрещивание"
-            }
-          },
-          {
-            "id": "ba7fbd732b688988",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Генетика/Законы Менделя.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Законы Менделя"
-            }
-          },
-          {
-            "id": "bd25aab50b2b346c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Генетика/Гаметы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Гаметы"
-            }
-          },
-          {
-            "id": "3fe1491776933a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Генетика/Решетка Пеннета.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Решетка Пеннета"
-            }
-          },
-          {
             "id": "73ae23ef8a64807b",
             "type": "leaf",
             "state": {
@@ -201,20 +89,6 @@
               },
               "icon": "lucide-file",
               "title": "МОС Общая Биология"
-            }
-          },
-          {
-            "id": "7da3f9e3a8e607ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Амитоз.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Амитоз"
             }
           },
           {
@@ -232,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -306,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Амитоз.md",
+                "file": "Деление клетки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Амитоз"
+              "title": "Outline of Деление клетки"
             }
           },
           {
@@ -397,38 +271,38 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "7da3f9e3a8e607ed",
+  "active": "829de97be4a05ee5",
   "lastOpenFiles": [
+    "Амитоз – Прямое деление.md",
     "Деление клетки.md",
-    "Общая Биология/Органоиды/Ядро.md",
-    "Амитоз.md",
+    "Общая Биология/Процессы/Митоз – Непрямое деление.md",
+    "Анатомия/Лекции/Функциональные нервные центры.md",
     "Общая Биология/МОС Общая Биология.md",
+    "Общая Биология/Вещества/Хромосомы.md",
+    "Генетика/Решетка Пеннета.md",
+    "Генетика/Гаметы.md",
+    "Генетика/Законы Менделя.md",
+    "Генетика/Скрещивание.md",
+    "Группы сцепления – сцепленное наследование.md",
+    "Общая Биология/Процессы/Мейоз.md",
+    "Анатомия/Лекции/Печень.md",
+    "Анатомия/Лекции/Соединительная Ткань.md",
+    "Общая Биология/Органоиды/Ядро.md",
     "Общая Биология/Вещества/Ферменты.md",
     "Общая Биология/Вещества/Хлорофилл.md",
-    "Общая Биология/Процессы/Митоз.md",
     "Интерфаза.md",
     "Общая Биология/Процессы/Жизненный цикл клетки.md",
     "Хромосомная теория.md",
     "Центриоли.md",
-    "Общая Биология/Процессы/Мейоз.md",
     "Анатомия/Картинки/ВнутренийЦиклЖидкостей.png",
     "Картинки/Pasted image 20260426183526.png",
     "Органоиды.md",
     "Апоптоз.md",
-    "Группы сцепления – сцепленное наследование.md",
     "Общая Биология/Процессы/Хромосомный набор.md",
     "Картинки/ГенетическаяФормула.png",
-    "Общая Биология/Вещества/Хромосомы.md",
     "Сцепленное наследование.md",
     "Картинки/Pasted image 20260424202714.png",
     "Генетика/МОС Генетика.md",
-    "Генетика/Законы Менделя.md",
-    "Генетика/Скрещивание.md",
-    "Генетика/Гаметы.md",
-    "Анатомия/Лекции/Функциональные нервные центры.md",
-    "Генетика/Решетка Пеннета.md",
-    "Ботаника/МОС Ботаника.md",
-    "Анатомия/Лекции/Кора больших полушарий.md",
     "Картинки/Pasted image 20260422182016.png",
     "Картинки/Pasted image 20260422180754.png",
     "Картинки/РешеткаПеннетаМаленькая.png",
