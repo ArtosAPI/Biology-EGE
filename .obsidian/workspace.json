@@ -140,7 +140,7 @@
               "type": "markdown",
               "state": {
                 "file": "Конъюгация.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общая Биология/Процессы/Мейоз – Редукционное деление.md",
+                "file": "Конъюгация.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Мейоз – Редукционное деление"
+              "title": "Outline of Конъюгация"
             }
           },
           {
@@ -341,12 +341,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "267e1cd21a6dfa5c",
+  "active": "8592909a749171c3",
   "lastOpenFiles": [
-    "Конъюгация.md",
-    "Кроссинговер.md",
-    "Бивалентные хромосомы.md",
+    "Картинки/Pasted image 20260427000231.png",
     "Общая Биология/Процессы/Мейоз – Редукционное деление.md",
+    "Конъюгация.md",
+    "Бивалентные хромосомы.md",
+    "Кроссинговер.md",
     "Интерфаза.md",
     "Картинки/Pasted image 20260426235337.png",
     "Бивалентые.md",
