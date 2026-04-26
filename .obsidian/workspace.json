@@ -126,7 +126,7 @@
               "type": "markdown",
               "state": {
                 "file": "Общая Биология/МОС Общая Биология.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -216,9 +216,51 @@
               "icon": "lucide-file",
               "title": "Решетка Пеннета"
             }
+          },
+          {
+            "id": "73ae23ef8a64807b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Общая Биология/МОС Общая Биология.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "МОС Общая Биология"
+            }
+          },
+          {
+            "id": "7da3f9e3a8e607ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Амитоз.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Амитоз"
+            }
+          },
+          {
+            "id": "829de97be4a05ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Деление клетки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Деление клетки"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -271,7 +313,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -291,13 +334,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общая Биология/Процессы/Митоз.md",
+                "file": "Деление клетки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Митоз"
+              "title": "Outline of Деление клетки"
             }
           },
           {
@@ -382,20 +425,21 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "1c4db5fe3316035a",
+  "active": "829de97be4a05ee5",
   "lastOpenFiles": [
-    "Центриоли.md",
-    "Общая Биология/Процессы/Митоз.md",
-    "Общая Биология/Процессы/Мейоз.md",
-    "Общая Биология/Органоиды/Ядро.md",
+    "Амитоз.md",
+    "Общая Биология/МОС Общая Биология.md",
     "Деление клетки.md",
-    "Интерфаза.md",
-    "Анатомия/Картинки/ВнутренийЦиклЖидкостей.png",
     "Общая Биология/Процессы/Жизненный цикл клетки.md",
     "Хромосомная теория.md",
+    "Общая Биология/Процессы/Митоз.md",
+    "Центриоли.md",
+    "Общая Биология/Процессы/Мейоз.md",
+    "Общая Биология/Органоиды/Ядро.md",
+    "Интерфаза.md",
+    "Анатомия/Картинки/ВнутренийЦиклЖидкостей.png",
     "Картинки/Pasted image 20260426183526.png",
     "Органоиды.md",
-    "Общая Биология/МОС Общая Биология.md",
     "Апоптоз.md",
     "Группы сцепления – сцепленное наследование.md",
     "Общая Биология/Процессы/Хромосомный набор.md",
@@ -415,7 +459,6 @@
     "Картинки/Pasted image 20260422182016.png",
     "Картинки/Pasted image 20260422180754.png",
     "Общая Биология/Процессы/Гаметогенез.md",
-    "Общая Биология/Процессы/Кариотип.md",
     "Картинки/РешеткаПеннетаМаленькая.png",
     "Картинки/РешеткаПеннетаБольшая.png",
     "Картинки/Pasted image 20260422173128.png",
