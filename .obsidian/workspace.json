@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Систематика.md",
+                "file": "Систематика – Таксономия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Систематика"
+              "title": "Систематика – Таксономия"
             }
           },
           {
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Систематика.md",
+                "file": "Систематика – Таксономия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Систематика"
+              "title": "Outline of Систематика – Таксономия"
             }
           },
           {
@@ -329,7 +329,7 @@
   },
   "active": "9cef2084dd06cd3c",
   "lastOpenFiles": [
-    "Систематика.md",
+    "Систематика – Таксономия.md",
     "Общая Биология/МОС Общая Биология.md",
     "Картинки/Pasted image 20260427214611.png",
     "Бинарное деление надвое.md",
