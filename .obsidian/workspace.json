@@ -98,8 +98,8 @@
               "type": "markdown",
               "state": {
                 "file": "Систематика – Таксономия.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Систематика – Таксономия"
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Царство.md",
+                "file": "Систематика – Таксономия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Царство"
+              "title": "Outline of Систематика – Таксономия"
             }
           },
           {
@@ -285,10 +285,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "88fec5d62ec72ab8",
+  "active": "9cef2084dd06cd3c",
   "lastOpenFiles": [
-    "Систематика – Таксономия.md",
     "Царство.md",
+    "Систематика – Таксономия.md",
     "Общая Биология/Процессы/Митоз – Непрямое деление.md",
     "Общая Биология/Процессы/Мейоз – Редукционное деление.md",
     "Бинарное деление надвое.md",
