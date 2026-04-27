@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бинарное деление надвое.md",
+                "file": "Общая Биология/МОС Общая Биология.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Бинарное деление надвое"
+              "title": "Outline of МОС Общая Биология"
             }
           },
           {
@@ -313,12 +313,14 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "ad125afb4a56cbfe",
+  "active": "73ae23ef8a64807b",
   "lastOpenFiles": [
+    "Картинки/Pasted image 20260427214611.png",
+    "Бинарное деление надвое.md",
+    "Общая Биология/Клетки",
     "Общая Биология/Процессы/Мейоз – Редукционное деление.md",
     "Общая Биология/Процессы/Митоз – Непрямое деление.md",
     "Веретено деления.md",
-    "Бинарное деление надвое.md",
     "Деление клетки.md",
     "Картинки/Pasted image 20260427004500.png",
     "Прокариоты.md",
@@ -361,7 +363,6 @@
     "Анатомия/Лекции/MOC Анатомия.canvas",
     "russian.txt",
     "Планы.canvas",
-    "Картинки",
-    "Polnii-spravochnik-po-russkomu-yaziku.pdf"
+    "Картинки"
   ]
 }
