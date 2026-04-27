@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: цик",
+                "query": "tag:#Клеточные",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общая Биология/МОС Общая Биология.md",
+                "file": "Систематика – Таксономия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of МОС Общая Биология"
+              "title": "Outline of Систематика – Таксономия"
             }
           },
           {
@@ -327,14 +327,15 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "73ae23ef8a64807b",
+  "active": "9cef2084dd06cd3c",
   "lastOpenFiles": [
+    "Общая Биология/МОС Общая Биология.md",
     "Систематика – Таксономия.md",
     "Деление клетки.md",
+    "Царства.md",
     "Животные.md",
     "Растения.md",
     "Грибы.md",
-    "Общая Биология/МОС Общая Биология.md",
     "Картинки/Pasted image 20260427214611.png",
     "Бинарное деление надвое.md",
     "Общая Биология/Клетки",
@@ -365,7 +366,6 @@
     "Общая Биология/Вещества/ДНК.md",
     "Гистоны.md",
     "Тубулин.md",
-    "Споры.md",
     "Относится напрямую к ЕГЭ 1/1 задание",
     "Относится напрямую к ЕГЭ 1",
     "Экология",
