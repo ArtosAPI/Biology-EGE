@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Генетика/Решетка Пеннета.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Генетика/Законы Менделя.md",
+                "file": "Генетика/Решетка Пеннета.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Законы Менделя"
+              "title": "Outline of Решетка Пеннета"
             }
           },
           {
@@ -251,12 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Генетика/Законы Менделя.md",
+                "file": "Генетика/Решетка Пеннета.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Законы Менделя"
+              "title": "Outgoing links from Решетка Пеннета"
             }
           },
           {
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Генетика/Законы Менделя.md",
+                "file": "Генетика/Решетка Пеннета.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Законы Менделя"
+              "title": "Backlinks for Решетка Пеннета"
             }
           },
           {
@@ -328,19 +328,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "89a1f9a945efa031",
+  "active": "07ebd53a9cfb2d81",
   "lastOpenFiles": [
+    "Генетика/Гаметы.md",
+    "Генетика/Решетка Пеннета.md",
+    "Сцепленное наследование.md",
+    "Генетика/МОС Генетика.md",
+    "Генетика/Законы Менделя.md",
     "Экология/Экологические факторы.md",
     "Общая Биология/Процессы/Бинарное деление надвое.md",
     "Картинки/Pasted image 20260427004500.png",
     "Общая Биология/Картинки/Embrio2.jpg",
     "Картинки/Pasted image 20260420195334.png",
-    "Генетика/Законы Менделя.md",
     "Общая Биология/Процессы/Кроссинговер.md",
-    "Сцепленное наследование.md",
     "Генетика/Группы сцепления.md",
-    "Генетика/Решетка Пеннета.md",
-    "Генетика/МОС Генетика.md",
     "Генетика/Хромосомная теория.md",
     "Картинки/Pasted image 20260505161716.png",
     "Общая Биология/Вещества/Хромосомы.md",
