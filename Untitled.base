@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.folder != "Другое"
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder != "Другое/Задачи"
+        - file.folder != "Картинки"
+    groupBy:
+      property: file.folder
+      direction: ASC

@@ -67,12 +67,12 @@
       "query": "path:Другое  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 0
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 1.05703125,
   "lineSizeMultiplier": 1.26377922232824,
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13873223932666381,
+  "scale": 0.13873223932666395,
   "close": false
 }
