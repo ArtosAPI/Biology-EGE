@@ -18,13 +18,13 @@ views:
       direction: ASC
     order:
       - file.name
+      - file.tags
       - file.ctime
       - formula.Untitled
-      - file.tags
     sort:
       - property: formula.Untitled
         direction: ASC
       - property: file.mtime
         direction: DESC
     columnSize:
-      file.tags: 200
+      file.tags: 145
