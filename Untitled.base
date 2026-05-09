@@ -2,8 +2,7 @@ filters:
   and:
     - file.folder != "Другое"
 formulas:
-  Untitled: ""
-  Untitled 2: ""
+  Untitled: date(YYYY-MM-DD)
 views:
   - type: table
     name: Table
@@ -19,7 +18,8 @@ views:
       - file.ctime
       - file.tags
       - formula.Untitled
-      - formula.Untitled 2
     sort:
+      - property: formula.Untitled
+        direction: DESC
       - property: file.mtime
         direction: DESC

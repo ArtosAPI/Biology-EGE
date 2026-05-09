@@ -50,19 +50,6 @@
             }
           },
           {
-            "id": "904a3fa5c0f88bc2",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "ddd3ba6c1ac30ccc",
             "type": "leaf",
             "state": {
@@ -75,9 +62,22 @@
               "icon": "lucide-file",
               "title": "МОС Систематика"
             }
+          },
+          {
+            "id": "3c9fc062678817a1",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -243,15 +243,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "904a3fa5c0f88bc2",
+  "active": "3c9fc062678817a1",
   "lastOpenFiles": [
+    "Систематика/МОС Систематика.md",
+    "Untitled.base",
     "Анатомия/Мочеточники.md",
     "Анатомия/Терморегуляция.md",
     "Анатомия/Матка.md",
-    "Untitled.base",
     "Картинки/Саркомер1.png",
     "Картинки/Н8.png",
-    "Систематика/МОС Систематика.md",
     "Ботаника/МОС Ботаника.md",
     "Генетика/МОС Генетика.md",
     "Анатомия/MOC Анатомия.md",
@@ -276,7 +276,6 @@
     "Генетика/Хромосомная теория.md",
     "Генетика/Скрещивание.md",
     "Временные ответы.md",
-    "Общая Биология/Репликация.md",
     "Картинки/Pasted image 20260411130803.png",
     "Анатомия/Картинки/Tissue2.jpg",
     "Картинки/Pasted image 20260427214611.png",
