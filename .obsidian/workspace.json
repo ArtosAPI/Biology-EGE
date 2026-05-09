@@ -34,149 +34,9 @@
               "icon": "lucide-file",
               "title": "МОС Генетика"
             }
-          },
-          {
-            "id": "07ebd53a9cfb2d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Генетика/Решетка Пеннета.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Решетка Пеннета"
-            }
-          },
-          {
-            "id": "797748c3c4c90d2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Генетика/Скрещивание.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Скрещивание"
-            }
-          },
-          {
-            "id": "b55710a194cd136d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Генетика/Хромосомная теория.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Хромосомная теория"
-            }
-          },
-          {
-            "id": "b2f9a9ceb9a342d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Генетика/Группы сцепления.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Группы сцепления"
-            }
-          },
-          {
-            "id": "b2d903888d9649ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Наследование сцепленное с полом.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Наследование сцепленное с полом"
-            }
-          },
-          {
-            "id": "a8930da11b1f491d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общая Биология/Процессы/Кроссинговер.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Кроссинговер"
-            }
-          },
-          {
-            "id": "3d866ae22b9f5df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "broken links output.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "broken links output"
-            }
-          },
-          {
-            "id": "60cd4411d1c02023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Генетика/Законы Менделя.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Законы Менделя"
-            }
-          },
-          {
-            "id": "9cef2084dd06cd3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Экология/Экологические факторы.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Экологические факторы"
-            }
-          },
-          {
-            "id": "c7b27a0a9d356614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общая Биология/Процессы/Бинарное деление надвое.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Бинарное деление надвое"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "broken links output.md",
+                "file": "Генетика/МОС Генетика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of broken links output"
+              "title": "Outline of МОС Генетика"
             }
           },
           {
@@ -265,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "broken links output.md",
+                "file": "Генетика/МОС Генетика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from broken links output"
+              "title": "Outgoing links from МОС Генетика"
             }
           },
           {
@@ -279,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "broken links output.md",
+                "file": "Генетика/МОС Генетика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for broken links output"
+              "title": "Backlinks for МОС Генетика"
             }
           },
           {
@@ -321,7 +181,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -342,44 +203,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d866ae22b9f5df8",
+  "active": "575daebab6fc14bd",
   "lastOpenFiles": [
+    "Генетика/Решетка Пеннета.md",
+    "Общая Биология/Процессы/Бинарное деление надвое.md",
+    "Экология/Экологические факторы.md",
+    "Генетика/Законы Менделя.md",
     "Общая Биология/Процессы/Кроссинговер.md",
+    "Генетика/Наследование сцепленное с полом.md",
+    "Генетика/Группы сцепления.md",
+    "Генетика/Хромосомная теория.md",
+    "Генетика/Скрещивание.md",
+    "Временные ответы.md",
     "broken links output.md",
-    "Orphaned Images Report.md",
+    "Общая Биология/Репликация.md",
+    "Общая Биология/ФАД.md",
+    "Общая Биология/Рецепторно-опосредованный эндоцитоз.md",
+    "Анатомия/Матка.md",
+    "Экология/Антропогенные факторы.md",
+    "Анатомия/Лекции/Эндоцитоз.md",
+    "Общая Биология/Вироиды.md",
+    "Общая Биология/Цитоскелет.md",
+    "Общая Биология/НАД.md",
+    "Анатомия/Мочеточники.md",
+    "Анатомия/Желудок.md",
+    "Анатомия/Глотка.md",
+    "Анатомия/Лекции/Иммунитет в целом.md",
+    "Общая Биология/Процессы/Онтогенез.md",
+    "Общая Биология/Постэмбриогенез.md",
     "Картинки/Pasted image 20260411130803.png",
     "Анатомия/Картинки/Tissue2.jpg",
     "Картинки/Pasted image 20260427214611.png",
-    "Наследование сцепленное с полом.md",
-    "Сцепленное наследование.md",
-    "Генетика/Решетка Пеннета.md",
-    "Генетика/Скрещивание.md",
-    "Генетика/Гаметы.md",
-    "Генетика/МОС Генетика.md",
-    "Генетика/Законы Менделя.md",
-    "Экология/Экологические факторы.md",
-    "Общая Биология/Процессы/Бинарное деление надвое.md",
     "Картинки/Pasted image 20260427004500.png",
     "Общая Биология/Картинки/Embrio2.jpg",
     "Картинки/Pasted image 20260420195334.png",
-    "Генетика/Группы сцепления.md",
-    "Генетика/Хромосомная теория.md",
     "Картинки/Pasted image 20260505161716.png",
-    "Общая Биология/Вещества/Хромосомы.md",
     "Картинки/Pasted image 20260505160923.png",
     "Картинки/Pasted image 20260505160816.png",
     "Картинки/Pasted image 20260505155012.png",
-    "Общая Биология/Процессы/Конъюгация.md",
-    "Анатомия/Лекции/Функциональные нервные центры.md",
-    "Биотические факторы.md",
-    "Антропогенные факторы.md",
-    "Абиотические факторы.md",
-    "Экология/МОС Экология.md",
-    "Систематика/Систематика – Таксономия.md",
-    "Систематика/Всякие там чуваки/Неклеточные.md",
-    "Систематика/Всякие там чуваки/Вирусы.md",
-    "Общая Биология/МОС Общая Биология.md",
-    "Систематика/Всякие там чуваки/Царства.md",
     "Систематика/Всякие там чуваки",
     "Систематика",
     "Общая Биология/Клетки",
