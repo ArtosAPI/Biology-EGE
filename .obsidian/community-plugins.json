@@ -12,5 +12,6 @@
   "obsidian-text-format",
   "table-extended",
   "omnisearch",
-  "text-extractor"
+  "text-extractor",
+  "find-unlinked-files"
 ]
