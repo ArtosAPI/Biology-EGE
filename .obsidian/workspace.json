@@ -151,16 +151,18 @@
             "id": "c7b27a0a9d356614",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Картинки/Pasted image 20260427004500.png"
+                "file": "Общая Биология/Процессы/Бинарное деление надвое.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260427004500"
+              "icon": "lucide-file",
+              "title": "Бинарное деление надвое"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -213,7 +215,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Картинки/Pasted image 20260427004500.png",
+                "file": "Генетика/Законы Менделя.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260427004500"
+              "title": "Outline of Законы Менделя"
             }
           },
           {
@@ -248,12 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Картинки/Pasted image 20260427004500.png",
+                "file": "Генетика/Законы Менделя.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20260427004500"
+              "title": "Outgoing links from Законы Менделя"
             }
           },
           {
@@ -262,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Картинки/Pasted image 20260427004500.png",
+                "file": "Генетика/Законы Менделя.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +275,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20260427004500"
+              "title": "Backlinks for Законы Менделя"
             }
           },
           {
@@ -325,12 +328,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c7b27a0a9d356614",
+  "active": "89a1f9a945efa031",
   "lastOpenFiles": [
+    "Экология/Экологические факторы.md",
     "Общая Биология/Процессы/Бинарное деление надвое.md",
+    "Картинки/Pasted image 20260427004500.png",
     "Общая Биология/Картинки/Embrio2.jpg",
     "Картинки/Pasted image 20260420195334.png",
-    "Экология/Экологические факторы.md",
     "Генетика/Законы Менделя.md",
     "Общая Биология/Процессы/Кроссинговер.md",
     "Сцепленное наследование.md",
@@ -344,7 +348,6 @@
     "Картинки/Pasted image 20260505160816.png",
     "Картинки/Pasted image 20260505155012.png",
     "Картинки/Pasted image 20260427214611.png",
-    "Картинки/Pasted image 20260427004500.png",
     "Общая Биология/Процессы/Конъюгация.md",
     "Генетика/Скрещивание.md",
     "Анатомия/Лекции/Функциональные нервные центры.md",
