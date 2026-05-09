@@ -120,6 +120,20 @@
             }
           },
           {
+            "id": "3d866ae22b9f5df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "broken links output.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "broken links output"
+            }
+          },
+          {
             "id": "60cd4411d1c02023",
             "type": "leaf",
             "state": {
@@ -162,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -236,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Наследование сцепленное с полом.md",
+                "file": "broken links output.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Наследование сцепленное с полом"
+              "title": "Outline of broken links output"
             }
           },
           {
@@ -251,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Наследование сцепленное с полом.md",
+                "file": "broken links output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Наследование сцепленное с полом"
+              "title": "Outgoing links from broken links output"
             }
           },
           {
@@ -265,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Наследование сцепленное с полом.md",
+                "file": "broken links output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +289,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Наследование сцепленное с полом"
+              "title": "Backlinks for broken links output"
             }
           },
           {
@@ -328,11 +342,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b2d903888d9649ac",
+  "active": "3d866ae22b9f5df8",
   "lastOpenFiles": [
-    "Сцепленное наследование.md",
-    "Наследование сцепленное с полом.md",
     "Общая Биология/Процессы/Кроссинговер.md",
+    "broken links output.md",
+    "Orphaned Images Report.md",
+    "Картинки/Pasted image 20260411130803.png",
+    "Анатомия/Картинки/Tissue2.jpg",
+    "Картинки/Pasted image 20260427214611.png",
+    "Наследование сцепленное с полом.md",
+    "Сцепленное наследование.md",
     "Генетика/Решетка Пеннета.md",
     "Генетика/Скрещивание.md",
     "Генетика/Гаметы.md",
@@ -350,7 +369,6 @@
     "Картинки/Pasted image 20260505160923.png",
     "Картинки/Pasted image 20260505160816.png",
     "Картинки/Pasted image 20260505155012.png",
-    "Картинки/Pasted image 20260427214611.png",
     "Общая Биология/Процессы/Конъюгация.md",
     "Анатомия/Лекции/Функциональные нервные центры.md",
     "Биотические факторы.md",
@@ -362,13 +380,9 @@
     "Систематика/Всякие там чуваки/Вирусы.md",
     "Общая Биология/МОС Общая Биология.md",
     "Систематика/Всякие там чуваки/Царства.md",
-    "Систематика/Всякие там чуваки/Эукариоты.md",
-    "Систематика/Всякие там чуваки/Домены.md",
     "Систематика/Всякие там чуваки",
     "Систематика",
     "Общая Биология/Клетки",
-    "Картинки/Pasted image 20260427004110.png",
-    "Картинки/Pasted image 20260427003748.png",
     "Относится напрямую к ЕГЭ 1/1 задание",
     "Относится напрямую к ЕГЭ 1",
     "Экология",
