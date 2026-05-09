@@ -13,5 +13,6 @@
   "table-extended",
   "omnisearch",
   "text-extractor",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "find-orphaned-images"
 ]
