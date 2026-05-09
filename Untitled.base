@@ -1,6 +1,9 @@
 filters:
   and:
     - file.folder != "Другое"
+formulas:
+  Untitled: ""
+  Untitled 2: ""
 views:
   - type: table
     name: Table
@@ -11,3 +14,12 @@ views:
     groupBy:
       property: file.folder
       direction: ASC
+    order:
+      - file.name
+      - file.ctime
+      - file.tags
+      - formula.Untitled
+      - formula.Untitled 2
+    sort:
+      - property: file.mtime
+        direction: DESC
