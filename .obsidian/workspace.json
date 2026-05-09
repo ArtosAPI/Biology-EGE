@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Генетика/Решетка Пеннета.md",
+                "file": "Сцепленное наследование.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Решетка Пеннета"
+              "title": "Outline of Сцепленное наследование"
             }
           },
           {
@@ -251,12 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Генетика/Решетка Пеннета.md",
+                "file": "Сцепленное наследование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Решетка Пеннета"
+              "title": "Outgoing links from Сцепленное наследование"
             }
           },
           {
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Генетика/Решетка Пеннета.md",
+                "file": "Сцепленное наследование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Решетка Пеннета"
+              "title": "Backlinks for Сцепленное наследование"
             }
           },
           {
@@ -328,10 +328,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07ebd53a9cfb2d81",
+  "active": "b2d903888d9649ac",
   "lastOpenFiles": [
-    "Генетика/Скрещивание.md",
     "Генетика/Решетка Пеннета.md",
+    "Генетика/Скрещивание.md",
     "Генетика/Гаметы.md",
     "Сцепленное наследование.md",
     "Генетика/МОС Генетика.md",
