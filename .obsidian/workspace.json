@@ -154,7 +154,7 @@
               "type": "markdown",
               "state": {
                 "file": "Общая Биология/Процессы/Бинарное деление надвое.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экология/Экологические факторы.md",
+                "file": "Общая Биология/Процессы/Бинарное деление надвое.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Экологические факторы"
+              "title": "Outline of Бинарное деление надвое"
             }
           },
           {
@@ -327,10 +327,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9cef2084dd06cd3c",
+  "active": "c7b27a0a9d356614",
   "lastOpenFiles": [
-    "Общая Биология/Процессы/Бинарное деление надвое.md",
     "Экология/Экологические факторы.md",
+    "Общая Биология/Процессы/Бинарное деление надвое.md",
     "Генетика/Законы Менделя.md",
     "Общая Биология/Процессы/Кроссинговер.md",
     "Сцепленное наследование.md",
