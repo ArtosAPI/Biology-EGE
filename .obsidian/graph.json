@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:Систематика  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:Другое  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1387322393266635,
+  "scale": 0.13873223932666381,
   "close": false
 }

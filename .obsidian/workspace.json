@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Наследование сцепленное с полом"
             }
+          },
+          {
+            "id": "904a3fa5c0f88bc2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,13 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Генетика/Наследование сцепленное с полом.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Наследование сцепленное с полом"
+              "title": "Outline"
             }
           },
           {
@@ -216,11 +225,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d34469e53c11e413",
+  "active": "904a3fa5c0f88bc2",
   "lastOpenFiles": [
+    "Другое/Н8.png",
+    "Другое",
+    "Генетика/Наследование сцепленное с полом.md",
     "Генетика/МОС Генетика.md",
     "broken links output.md",
-    "Генетика/Наследование сцепленное с полом.md",
     "Общая Биология/Процессы/Митоз – Непрямое деление.md",
     "Профаза – 2n4c.md",
     "Генетика/Генотип.md",
@@ -245,12 +256,11 @@
     "Экология/Антропогенные факторы.md",
     "Анатомия/Лекции/Эндоцитоз.md",
     "Общая Биология/Вироиды.md",
-    "Общая Биология/Цитоскелет.md",
     "Картинки/Pasted image 20260411130803.png",
     "Анатомия/Картинки/Tissue2.jpg",
     "Картинки/Pasted image 20260427214611.png",
     "Картинки/Pasted image 20260427004500.png",
-    "Общая Биология/Картинки/Embrio2.jpg",
+    "Другое/Embrio2.jpg",
     "Картинки/Pasted image 20260420195334.png",
     "Картинки/Pasted image 20260505161716.png",
     "Картинки/Pasted image 20260505160923.png",
@@ -263,7 +273,6 @@
     "Зоология",
     "Относится напрямую к ЕГЭ/1 задание",
     "Untitled.base",
-    "Относится напрямую к ЕГЭ",
     "Анатомия/Лекции/Сердечно-сосудистая система.canvas",
     "Анатомия/Лекции/MOC Анатомия.canvas",
     "Планы.canvas"
