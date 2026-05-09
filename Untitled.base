@@ -2,7 +2,7 @@ filters:
   and:
     - file.folder != "Другое"
 formulas:
-  Untitled: date(YYYY-MM-DD)
+  Untitled: file.mtime.relative()
 views:
   - type: table
     name: Table
