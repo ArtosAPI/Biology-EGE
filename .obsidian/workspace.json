@@ -151,10 +151,14 @@
             "id": "c7b27a0a9d356614",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Общая Биология/Процессы/Бинарное деление надвое.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Бинарное деление надвое"
             }
           }
         ],
@@ -177,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Клеточные",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -211,8 +215,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,12 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Общая Биология/Процессы/Бинарное деление надвое.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Бинарное деление надвое"
             }
           },
           {
@@ -319,10 +323,11 @@
       "bases:Create new base": false,
       "obsidian42-brat:BRAT": true,
       "obsidian-git:Open Git source control": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "c7b27a0a9d356614",
+  "active": "f86609fb3cc7caf5",
   "lastOpenFiles": [
     "Экология/Экологические факторы.md",
     "Генетика/Законы Менделя.md",
