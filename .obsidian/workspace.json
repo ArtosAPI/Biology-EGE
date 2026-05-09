@@ -69,11 +69,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled.base",
+                "file": "Систематизация знании.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "Систематизация знании"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "Систематизация знании.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Систематизация знании"
             }
           },
           {
@@ -243,10 +243,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3c9fc062678817a1",
+  "active": "89a1f9a945efa031",
   "lastOpenFiles": [
     "Систематика/МОС Систематика.md",
-    "Untitled.base",
+    "Систематизация знании.base",
     "Анатомия/Мочеточники.md",
     "Анатомия/Терморегуляция.md",
     "Анатомия/Матка.md",

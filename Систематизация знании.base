@@ -2,7 +2,10 @@ filters:
   and:
     - file.folder != "Другое"
 formulas:
-  Untitled: file.mtime.relative()
+  Untitled: file.ctime.relative()
+properties:
+  formula.Untitled:
+    displayName: Time passed since creation
 views:
   - type: table
     name: Table
@@ -16,10 +19,12 @@ views:
     order:
       - file.name
       - file.ctime
-      - file.tags
       - formula.Untitled
+      - file.tags
     sort:
       - property: formula.Untitled
-        direction: DESC
+        direction: ASC
       - property: file.mtime
         direction: DESC
+    columnSize:
+      file.tags: 200
