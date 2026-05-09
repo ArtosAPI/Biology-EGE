@@ -151,14 +151,12 @@
             "id": "c7b27a0a9d356614",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Общая Биология/Процессы/Бинарное деление надвое.md",
-                "mode": "source",
-                "source": false
+                "file": "Картинки/Pasted image 20260427004500.png"
               },
-              "icon": "lucide-file",
-              "title": "Бинарное деление надвое"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260427004500"
             }
           }
         ],
@@ -235,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общая Биология/Процессы/Бинарное деление надвое.md",
+                "file": "Картинки/Pasted image 20260427004500.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Бинарное деление надвое"
+              "title": "Outline of Pasted image 20260427004500"
             }
           },
           {
@@ -250,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Систематика/Систематика – Таксономия.md",
+                "file": "Картинки/Pasted image 20260427004500.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Систематика – Таксономия"
+              "title": "Outgoing links from Pasted image 20260427004500"
             }
           },
           {
@@ -264,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Систематика/Систематика – Таксономия.md",
+                "file": "Картинки/Pasted image 20260427004500.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +272,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Систематика – Таксономия"
+              "title": "Backlinks for Pasted image 20260427004500"
             }
           },
           {
@@ -329,8 +327,10 @@
   },
   "active": "c7b27a0a9d356614",
   "lastOpenFiles": [
-    "Экология/Экологические факторы.md",
     "Общая Биология/Процессы/Бинарное деление надвое.md",
+    "Общая Биология/Картинки/Embrio2.jpg",
+    "Картинки/Pasted image 20260420195334.png",
+    "Экология/Экологические факторы.md",
     "Генетика/Законы Менделя.md",
     "Общая Биология/Процессы/Кроссинговер.md",
     "Сцепленное наследование.md",
@@ -360,14 +360,11 @@
     "Систематика/Всякие там чуваки/Эукариоты.md",
     "Систематика/Всякие там чуваки/Домены.md",
     "Систематика/Всякие там чуваки/Прокариоты.md",
-    "Зоология/Животные.md",
     "Систематика/Всякие там чуваки",
     "Систематика",
     "Общая Биология/Клетки",
     "Картинки/Pasted image 20260427004110.png",
     "Картинки/Pasted image 20260427003748.png",
-    "Картинки/Pasted image 20260427003207.png",
-    "Картинки/Pasted image 20260427003146.png",
     "Относится напрямую к ЕГЭ 1/1 задание",
     "Относится напрямую к ЕГЭ 1",
     "Экология",

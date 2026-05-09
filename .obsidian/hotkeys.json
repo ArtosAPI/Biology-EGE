@@ -73,5 +73,15 @@
       ],
       "key": "W"
     }
+  ],
+  "global-search:open": [],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
   ]
 }
