@@ -23,8 +23,10 @@ views:
       - formula.Untitled
     sort:
       - property: formula.Untitled
-        direction: ASC
+        direction: DESC
       - property: file.mtime
         direction: DESC
     columnSize:
       file.tags: 145
+  - type: cards
+    name: View
