@@ -54,16 +54,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Геномные мутации.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Геномные мутации"
+            }
+          },
+          {
+            "id": "609707286d1c14e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Гетерозис.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Гетерозис"
+            }
+          },
+          {
+            "id": "39f4909f4a6b3203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Общая Биология/Процессы/Кариотип.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Кариотип"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Общая Биология/Процессы/Кариотип.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Кариотип"
             }
           },
           {
@@ -229,10 +257,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8591ed1bd92518c8",
+  "active": "39f4909f4a6b3203",
   "lastOpenFiles": [
+    "Инбридинг.md",
+    "Картинки/Pasted image 20260518172535.png",
+    "Гетерозис.md",
+    "Картинки/Pasted image 20260518172430.png",
+    "Геномные мутации.md",
     "Генетика/Закон Харди-Вайнберга.md",
-    "Untitled.md",
     "Хромосомные мутации.md",
     "Генетика/Наследование сцепленное с полом.md",
     "Генные мутации.md",
@@ -260,15 +292,10 @@
     "Генетика/Сцепленное наследование.md",
     "Генетика/Решетка Пеннета.md",
     "Общая Биология/Процессы/Бинарное деление надвое.md",
-    "Экология/Экологические факторы.md",
-    "Генетика/Законы Менделя.md",
-    "Общая Биология/Процессы/Кроссинговер.md",
     "Картинки/Pasted image 20260411130803.png",
     "Анатомия/Картинки/Tissue2.jpg",
     "Картинки/Pasted image 20260427214611.png",
     "Картинки/Pasted image 20260427004500.png",
-    "Картинки/Embrio2.jpg",
-    "Картинки/Pasted image 20260420195334.png",
     "Систематика/Всякие там чуваки",
     "Систематика",
     "Общая Биология/Клетки",
