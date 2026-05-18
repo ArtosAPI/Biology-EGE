@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Генетика/МОС Генетика.md",
-                "mode": "preview",
+                "file": "Генетика/Закон Харди-Вайнберга.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "МОС Генетика"
+              "title": "Закон Харди-Вайнберга"
             }
           },
           {
@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Генетика/Наследование сцепленное с полом.md",
+                "file": "Генетика/Закон Харди-Вайнберга.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Наследование сцепленное с полом"
+              "title": "Outline of Закон Харди-Вайнберга"
             }
           },
           {
@@ -229,12 +229,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d34469e53c11e413",
+  "active": "575daebab6fc14bd",
   "lastOpenFiles": [
     "Генетика/МОС Генетика.md",
+    "Генетика/Наследование сцепленное с полом.md",
     "Систематизация знании.base",
     "Анатомия/Функциональные нервные центры.md",
-    "Генетика/Наследование сцепленное с полом.md",
     "Систематика/МОС Систематика.md",
     "Анатомия/Мочеточники.md",
     "Анатомия/Терморегуляция.md",
