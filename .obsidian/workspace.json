@@ -61,9 +61,23 @@
               "icon": "lucide-file",
               "title": "Кодоминирование"
             }
+          },
+          {
+            "id": "d5ffdcca2d101239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Полимерия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Полимерия"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Генетика/Кодоминирование.md",
+                "file": "Полимерия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Кодоминирование"
+              "title": "Outline of Полимерия"
             }
           },
           {
@@ -229,16 +243,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8591ed1bd92518c8",
+  "active": "d5ffdcca2d101239",
   "lastOpenFiles": [
-    "Общая Биология/Процессы/Мейоз – Редукционное деление.md",
+    "Генетика/Кодоминирование.md",
+    "Полимерия.md",
     "Геномные мутации.md",
+    "Хромосомные мутации.md",
+    "Генные мутации.md",
+    "Общая Биология/Процессы/Мейоз – Редукционное деление.md",
     "Инбридинг.md",
     "Общая Биология/Процессы/Кариотип.md",
     "Аутбридинг.md",
     "Гетерозис.md",
-    "Хромосомные мутации.md",
-    "Генные мутации.md",
     "Картинки/Pasted image 20260518172535.png",
     "Картинки/Pasted image 20260518172430.png",
     "Генетика/Закон Харди-Вайнберга.md",
@@ -263,8 +279,6 @@
     "Картинки/Pasted image 20260509215103.png",
     "Картинки/Pasted image 20260509215041.png",
     "Анатомия/Алкалоз.md",
-    "Генетика/Сцепленное наследование.md",
-    "Генетика/Решетка Пеннета.md",
     "Картинки/Pasted image 20260411130803.png",
     "Анатомия/Картинки/Tissue2.jpg",
     "Картинки/Pasted image 20260427214611.png",
