@@ -89,9 +89,37 @@
               "icon": "lucide-file",
               "title": "Ламаркизм"
             }
+          },
+          {
+            "id": "d29d849f6a6f3d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дарвинизм.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дарвинизм"
+            }
+          },
+          {
+            "id": "60dd6283221c8e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Синтетическая теория эволюции – СТЭ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Синтетическая теория эволюции – СТЭ"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ламаркизм.md",
+                "file": "Синтетическая теория эволюции – СТЭ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ламаркизм"
+              "title": "Outline of Синтетическая теория эволюции – СТЭ"
             }
           },
           {
@@ -257,10 +285,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c6bb4919369ed85",
+  "active": "60dd6283221c8e95",
   "lastOpenFiles": [
-    "Анатомия/Виды органов человека.md",
+    "Дарвинизм.md",
+    "Синтетическая теория эволюции – СТЭ.md",
     "Ламаркизм.md",
+    "Анатомия/Виды органов человека.md",
     "Факторы эволюции.md",
     "Генетика/Аллели.md",
     "Генетика/Кодоминирование.md",
@@ -291,10 +321,8 @@
     "Систематика/МОС Систематика.md",
     "Анатомия/Мочеточники.md",
     "Анатомия/Терморегуляция.md",
-    "Анатомия/Матка.md",
     "Картинки/Саркомер1.png",
     "Картинки/Н8.png",
-    "Ботаника/МОС Ботаника.md",
     "Другое",
     "Картинки/Pasted image 20260509215103.png",
     "Картинки/Pasted image 20260509215041.png",
