@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вирусы.md",
+                "file": "Общая Биология/Вирусы.md",
                 "mode": "preview",
                 "source": false
               },
@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "В-лимфоциты – В-клетки.md",
+                "file": "Анатомия/В-лимфоциты – В-клетки.md",
                 "mode": "preview",
                 "source": false
               },
@@ -124,7 +124,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Т-лимфоциты – Т-клетки.md",
+                "file": "Анатомия/Т-лимфоциты – Т-клетки.md",
                 "mode": "preview",
                 "source": false
               },
@@ -136,14 +136,14 @@
             "id": "1f12368629e1b5fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -217,13 +217,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вирусы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Вирусы"
+              "title": "Outline"
             }
           },
           {
@@ -232,12 +231,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вирусы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Вирусы"
+              "title": "Outgoing links"
             }
           },
           {
@@ -246,7 +244,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вирусы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +253,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Вирусы"
+              "title": "Backlinks"
             }
           },
           {
@@ -309,22 +306,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7cf64eae0140f656",
+  "active": "1f12368629e1b5fa",
   "lastOpenFiles": [
+    "Эволюции/Рудименты.md",
+    "Анатомия/В-лимфоциты – В-клетки.md",
+    "Общая Биология/Вирусы.md",
+    "Систематика/Всякие там чуваки/Грибы.md",
     "Анатомия/Лимфоциты.md",
-    "Т-лимфоциты – Т-клетки.md",
-    "В-лимфоциты – В-клетки.md",
+    "Анатомия/Т-лимфоциты – Т-клетки.md",
     "Анатомия/Гранулы.md",
     "Общая Биология/Вещества/РНК.md",
-    "Везикулы.md",
-    "Т-регуляторы.md",
-    "Т-хелперы (CD4+).md",
-    "Т-киллеры (CD8+).md",
+    "Общая Биология/Везикулы.md",
+    "Анатомия/Т-регуляторы.md",
+    "Анатомия/Т-хелперы (CD4+).md",
+    "Анатомия/Т-киллеры (CD8+).md",
     "Анатомия/Иммунитет в целом.md",
-    "Вирусы.md",
-    "Интерферон.md",
-    "Бактериофаги.md",
-    "Вирионы.md",
+    "Анатомия/Интерферон.md",
+    "Общая Биология/Бактериофаги.md",
+    "Общая Биология/Вирионы.md",
     "Генетика/Полимерия.md",
     "Общая Биология/Вироиды.md",
     "Генетика/Мутации.md",
@@ -335,8 +334,6 @@
     "Эволюции/Дарвинизм.md",
     "Эволюции/Макроэволюция.md",
     "Эволюции/Биологический прогресс и регресс.md",
-    "Эволюции/Рудименты.md",
-    "Эволюции/Атавизмы.md",
     "Картинки/Pasted image 20260521180410.png",
     "Картинки/Pasted image 20260521180311.png",
     "Картинки/Pasted image 20260521174625.png",
