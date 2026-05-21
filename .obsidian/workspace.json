@@ -83,11 +83,39 @@
               "type": "markdown",
               "state": {
                 "file": "Конвергенция.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Конвергенция"
+            }
+          },
+          {
+            "id": "2f52384223a883c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Способы осуществления эволюции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Способы осуществления эволюции"
+            }
+          },
+          {
+            "id": "c3576534b08ae4eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дивергенция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дивергенция"
             }
           },
           {
@@ -125,15 +153,29 @@
               "type": "markdown",
               "state": {
                 "file": "Биологический прогресс и регресс.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Биологический прогресс и регресс"
             }
+          },
+          {
+            "id": "ee54750698067200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Макроэволюция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Макроэволюция"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -207,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конвергенция.md",
+                "file": "Способы осуществления эволюции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Конвергенция"
+              "title": "Outline of Способы осуществления эволюции"
             }
           },
           {
@@ -299,17 +341,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e783087d04c7ca67",
+  "active": "2f52384223a883c9",
   "lastOpenFiles": [
-    "Доказательства эволюции.md",
+    "Дивергенция.md",
+    "Способы осуществления эволюции.md",
     "Конвергенция.md",
+    "Рудименты.md",
     "Биологический прогресс и регресс.md",
+    "Макроэволюция.md",
+    "Доказательства эволюции.md",
     "Ароморфоз.md",
     "Идиоадаптация.md",
     "Дегенерация.md",
     "Атавизмы.md",
     "Картинки/Pasted image 20260521180410.png",
-    "Рудименты.md",
     "Картинки/Pasted image 20260521180311.png",
     "Синтетическая теория эволюции – СТЭ.md",
     "Дарвинизм.md",
@@ -331,9 +376,6 @@
     "Общая Биология/Процессы/Кроссинговер.md",
     "Мутации.md",
     "Анатомия/Виды органов человека.md",
-    "Генетика/Аллели.md",
-    "Полимерия.md",
-    "Вирусы.md",
     "Эволюции",
     "Картинки/Pasted image 20260521155619.png",
     "Картинки/Pasted image 20260521154928.png",
