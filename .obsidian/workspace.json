@@ -75,9 +75,23 @@
               "icon": "lucide-file",
               "title": "Факторы эволюции"
             }
+          },
+          {
+            "id": "2c6bb4919369ed85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ламаркизм.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ламаркизм"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Факторы эволюции.md",
+                "file": "Ламаркизм.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Факторы эволюции"
+              "title": "Outline of Ламаркизм"
             }
           },
           {
@@ -243,10 +257,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7afed31a760c3167",
+  "active": "2c6bb4919369ed85",
   "lastOpenFiles": [
-    "Генетика/Аллели.md",
+    "Анатомия/Виды органов человека.md",
+    "Ламаркизм.md",
     "Факторы эволюции.md",
+    "Генетика/Аллели.md",
     "Генетика/Кодоминирование.md",
     "Полимерия.md",
     "Вирусы.md",
@@ -279,7 +295,6 @@
     "Картинки/Саркомер1.png",
     "Картинки/Н8.png",
     "Ботаника/МОС Ботаника.md",
-    "Анатомия/MOC Анатомия.md",
     "Другое",
     "Картинки/Pasted image 20260509215103.png",
     "Картинки/Pasted image 20260509215041.png",
