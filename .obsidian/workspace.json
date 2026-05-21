@@ -83,7 +83,7 @@
               "type": "markdown",
               "state": {
                 "file": "Вирусы.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -97,7 +97,7 @@
               "type": "markdown",
               "state": {
                 "file": "Анатомия/Лимфоциты.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -111,7 +111,7 @@
               "type": "markdown",
               "state": {
                 "file": "В-лимфоциты – В-клетки.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -125,7 +125,7 @@
               "type": "markdown",
               "state": {
                 "file": "Т-лимфоциты – Т-клетки.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Т-лимфоциты – Т-клетки.md",
+                "file": "Вирусы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Т-лимфоциты – Т-клетки"
+              "title": "Outline of Вирусы"
             }
           },
           {
@@ -232,12 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Т-лимфоциты – Т-клетки.md",
+                "file": "Вирусы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Т-лимфоциты – Т-клетки"
+              "title": "Outgoing links from Вирусы"
             }
           },
           {
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Т-лимфоциты – Т-клетки.md",
+                "file": "Вирусы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Т-лимфоциты – Т-клетки"
+              "title": "Backlinks for Вирусы"
             }
           },
           {
@@ -309,14 +309,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d63b1bfa34d9506d",
+  "active": "7cf64eae0140f656",
   "lastOpenFiles": [
+    "Анатомия/Лимфоциты.md",
+    "Т-лимфоциты – Т-клетки.md",
+    "В-лимфоциты – В-клетки.md",
+    "Анатомия/Гранулы.md",
+    "Общая Биология/Вещества/РНК.md",
+    "Везикулы.md",
     "Т-регуляторы.md",
     "Т-хелперы (CD4+).md",
-    "Анатомия/Лимфоциты.md",
-    "В-лимфоциты – В-клетки.md",
     "Т-киллеры (CD8+).md",
-    "Т-лимфоциты – Т-клетки.md",
     "Анатомия/Иммунитет в целом.md",
     "Вирусы.md",
     "Интерферон.md",
@@ -334,9 +337,6 @@
     "Эволюции/Биологический прогресс и регресс.md",
     "Эволюции/Рудименты.md",
     "Эволюции/Атавизмы.md",
-    "Эволюции/Конвергенция.md",
-    "Эволюции/Доказательства эволюции.md",
-    "Эволюции/Ароморфоз.md",
     "Картинки/Pasted image 20260521180410.png",
     "Картинки/Pasted image 20260521180311.png",
     "Картинки/Pasted image 20260521174625.png",
