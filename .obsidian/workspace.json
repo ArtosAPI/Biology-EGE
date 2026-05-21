@@ -167,7 +167,7 @@
               "type": "markdown",
               "state": {
                 "file": "Общая Биология/Процессы/Эмбрионогенез.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,7 +181,7 @@
               "type": "markdown",
               "state": {
                 "file": "Биологический прогресс и регресс.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -263,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общая Биология/Процессы/Эмбрионогенез.md",
+                "file": "Биологический прогресс и регресс.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Эмбрионогенез"
+              "title": "Outline of Биологический прогресс и регресс"
             }
           },
           {
@@ -355,8 +355,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e698fde701c87749",
+  "active": "9cf95f7a75e93a57",
   "lastOpenFiles": [
+    "Зародышевые листки.md",
+    "Общая Биология/Процессы/Эмбрионогенез.md",
     "Доказательства эволюции.md",
     "Синтетическая теория эволюции – СТЭ.md",
     "Формы естественного отбора.md",
@@ -391,7 +393,6 @@
     "Хромосомные мутации.md",
     "Генные мутации.md",
     "Общая Биология/Процессы/Мейоз – Редукционное деление.md",
-    "Инбридинг.md",
     "Картинки/Pasted image 20260518172535.png",
     "Систематизация знании.base",
     "Другое",
