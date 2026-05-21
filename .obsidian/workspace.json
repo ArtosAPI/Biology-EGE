@@ -77,6 +77,34 @@
             }
           },
           {
+            "id": "e783087d04c7ca67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Конвергенция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Конвергенция"
+            }
+          },
+          {
+            "id": "882eb70d93536a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Атавизмы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Атавизмы"
+            }
+          },
+          {
             "id": "fd51edb484882ed2",
             "type": "leaf",
             "state": {
@@ -97,7 +125,7 @@
               "type": "markdown",
               "state": {
                 "file": "Биологический прогресс и регресс.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -105,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Доказательства эволюции.md",
+                "file": "Конвергенция.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Доказательства эволюции"
+              "title": "Outline of Конвергенция"
             }
           },
           {
@@ -271,10 +299,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ec09ad0cc59e48b6",
+  "active": "e783087d04c7ca67",
   "lastOpenFiles": [
-    "Рудименты.md",
     "Доказательства эволюции.md",
+    "Конвергенция.md",
+    "Биологический прогресс и регресс.md",
+    "Ароморфоз.md",
+    "Идиоадаптация.md",
+    "Дегенерация.md",
+    "Атавизмы.md",
+    "Картинки/Pasted image 20260521180410.png",
+    "Рудименты.md",
     "Картинки/Pasted image 20260521180311.png",
     "Синтетическая теория эволюции – СТЭ.md",
     "Дарвинизм.md",
@@ -284,7 +319,6 @@
     "Генетика/Кодоминирование.md",
     "Генетика/Закон Харди-Вайнберга.md",
     "Факторы эволюции.md",
-    "Биологический прогресс и регресс.md",
     "Формы естественного отбора.md",
     "Зародышевые листки.md",
     "Общая Биология/Процессы/Эмбрионогенез.md",
@@ -304,12 +338,6 @@
     "Картинки/Pasted image 20260521155619.png",
     "Картинки/Pasted image 20260521154928.png",
     "Картинки/Pasted image 20260521154910.png",
-    "Картинки/Pasted image 20260521154751.png",
-    "Общая Биология/Вещества/Хромосомы.md",
-    "Общая Биология/Процессы/Кариотип.md",
-    "Генетика/Группы сцепления.md",
-    "Геномные мутации.md",
-    "Хромосомные мутации.md",
     "Систематизация знании.base",
     "Другое",
     "Систематика/Всякие там чуваки",
