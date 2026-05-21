@@ -97,7 +97,7 @@
               "type": "markdown",
               "state": {
                 "file": "Дарвинизм.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -119,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Синтетическая теория эволюции – СТЭ.md",
+                "file": "Дарвинизм.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Синтетическая теория эволюции – СТЭ"
+              "title": "Outline of Дарвинизм"
             }
           },
           {
@@ -285,10 +285,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "60dd6283221c8e95",
+  "active": "d29d849f6a6f3d06",
   "lastOpenFiles": [
-    "Дарвинизм.md",
     "Синтетическая теория эволюции – СТЭ.md",
+    "Мутации.md",
+    "Дарвинизм.md",
     "Ламаркизм.md",
     "Анатомия/Виды органов человека.md",
     "Факторы эволюции.md",
@@ -320,7 +321,6 @@
     "Анатомия/Функциональные нервные центры.md",
     "Систематика/МОС Систематика.md",
     "Анатомия/Мочеточники.md",
-    "Анатомия/Терморегуляция.md",
     "Картинки/Саркомер1.png",
     "Картинки/Н8.png",
     "Другое",
