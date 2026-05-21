@@ -83,7 +83,7 @@
               "type": "markdown",
               "state": {
                 "file": "Конвергенция.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Способы осуществления эволюции.md",
+                "file": "Дивергенция.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Способы осуществления эволюции"
+              "title": "Outline of Дивергенция"
             }
           },
           {
@@ -341,10 +341,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f52384223a883c9",
+  "active": "c3576534b08ae4eb",
   "lastOpenFiles": [
-    "Дивергенция.md",
     "Способы осуществления эволюции.md",
+    "Дивергенция.md",
     "Конвергенция.md",
     "Рудименты.md",
     "Биологический прогресс и регресс.md",
