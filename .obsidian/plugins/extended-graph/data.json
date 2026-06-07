@@ -82,7 +82,7 @@
     "collapse-filter": false,
     "search": "",
     "showTags": false,
-    "showAttachments": true,
+    "showAttachments": false,
     "hideUnresolved": true,
     "showOrphans": true,
     "collapse-color-groups": false,
@@ -149,6 +149,13 @@
           "a": 1,
           "rgb": 0
         }
+      },
+      {
+        "query": "path:Эволюции  ",
+        "color": {
+          "a": 1,
+          "rgb": 16749824
+        }
       }
     ],
     "collapse-display": false,
@@ -161,8 +168,8 @@
     "repelStrength": 10,
     "linkStrength": 1,
     "linkDistance": 250,
-    "scale": 0.13873223932666395,
-    "close": false
+    "scale": 0.1945002269061643,
+    "close": true
   },
   "openInNewTab": false,
   "canonicalizePropertiesWithDataview": true,

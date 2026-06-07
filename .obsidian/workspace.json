@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -175,13 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Эволюции/МОС Эволюция.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of МОС Эволюция"
+              "title": "Outline"
             }
           },
           {
@@ -267,11 +266,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f52384223a883c9",
+  "active": "1f12368629e1b5fa",
   "lastOpenFiles": [
+    "Эволюции/МОС Эволюция.md",
     "Эволюции/Факторы эволюции.md",
     "Эволюции/Ламаркизм.md",
-    "Эволюции/МОС Эволюция.md",
     "Генетика/Кодоминирование.md",
     "Анатомия/Лимфоциты.md",
     "Общая Биология/Вирусы.md",
