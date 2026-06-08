@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Геотропизм.md",
+                "file": "Общая Биология/Вещества/Пигменты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Геотропизм"
+              "title": "Пигменты"
             }
           },
           {
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Геотропизм.md",
+                "file": "Общая Биология/Вещества/Пигменты.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Геотропизм"
+              "title": "Outline of Пигменты"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Геотропизм.md",
+                "file": "Общая Биология/Вещества/Пигменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Геотропизм"
+              "title": "Outgoing links from Пигменты"
             }
           },
           {
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Геотропизм.md",
+                "file": "Общая Биология/Вещества/Пигменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Геотропизм"
+              "title": "Backlinks for Пигменты"
             }
           },
           {
@@ -303,8 +303,8 @@
   },
   "active": "97a15d285a840081",
   "lastOpenFiles": [
-    "Корни.md",
     "Геотропизм.md",
+    "Корни.md",
     "Покровная ткань.md",
     "Транспирация.md",
     "Картинки/Pasted image 20260608165844.png",
