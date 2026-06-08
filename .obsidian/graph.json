@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Ботаника  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -88,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5359795996226095,
-  "close": false
+  "scale": 0.19450022690616556,
+  "close": true
 }
