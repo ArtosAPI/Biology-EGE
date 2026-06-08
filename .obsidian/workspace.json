@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паренхима растений.md",
+                "file": "Паренхима (Основные ткани растений).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Паренхима растений"
+              "title": "Паренхима (Основные ткани растений)"
+            }
+          },
+          {
+            "id": "3a856b8cdfcc631c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Аэренхима.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Аэренхима"
             }
           },
           {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Паренхима растений.md",
+                "file": "Аэренхима.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Паренхима растений"
+              "title": "Outline of Аэренхима"
             }
           },
           {
@@ -181,12 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Паренхима растений.md",
+                "file": "Аэренхима.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Паренхима растений"
+              "title": "Outgoing links from Аэренхима"
             }
           },
           {
@@ -195,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паренхима растений.md",
+                "file": "Аэренхима.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Паренхима растений"
+              "title": "Backlinks for Аэренхима"
             }
           },
           {
@@ -259,11 +273,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a20848f825a00ad6",
+  "active": "3a856b8cdfcc631c",
   "lastOpenFiles": [
+    "Феллоген – Пробковый камбий.md",
+    "Корневища.md",
+    "Аэренхима.md",
+    "Паренхима (Основные ткани растений).md",
+    "Общая Биология/Органоиды/Хлоропласт.md",
+    "Хлоренхима.md",
     "Образовательные ткани – Меристемы.md",
     "Ботаника/МОС Ботаника.md",
-    "Феллоген – Пробковый камбий.md",
     "Покровная ткань.md",
     "Чечевички.md",
     "Камбий – Сосудистый камбий.md",
@@ -283,12 +302,7 @@
     "Фикобилины.md",
     "Каротиноиды и ксантофиллы.md",
     "Систематика/Всякие там чуваки/Бактерии.md",
-    "Водоросли.md",
-    "Транспирация.md",
     "Картинки/Pasted image 20260608165844.png",
-    "Стебель.md",
-    "Листья.md",
-    "Цветки.md",
     "Картинки/Pasted image 20260608165614.png",
     "Картинки/Pasted image 20260608165528.png",
     "Картинки/Pasted image 20260608165350.png",
