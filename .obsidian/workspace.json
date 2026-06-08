@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проводящая ткань.md",
-                "mode": "source",
+                "file": "Ботаника/Проводящая ткань.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Эпидерма растения – Кожица.md",
+                "file": "Ботаника/Эпидерма растения – Кожица.md",
                 "mode": "preview",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Феллоген – Пробковый камбий.md",
+                "file": "Ботаника/Феллоген – Пробковый камбий.md",
                 "mode": "preview",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Феллодерма.md",
+                "file": "Ботаника/Феллодерма.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,8 +97,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Камбий – Сосудистый камбий.md",
-                "mode": "source",
+                "file": "Ботаника/Камбий – Сосудистый камбий.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -111,16 +111,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Флоэма – Луб.md",
+                "file": "Ботаника/Образовательные ткани – Меристемы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Флоэма – Луб"
+              "title": "Образовательные ткани – Меристемы"
+            }
+          },
+          {
+            "id": "d95727a76ebf92a6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -194,13 +204,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проводящая ткань.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Проводящая ткань"
+              "title": "Outline"
             }
           },
           {
@@ -209,12 +218,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проводящая ткань.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Проводящая ткань"
+              "title": "Outgoing links"
             }
           },
           {
@@ -223,7 +231,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проводящая ткань.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +240,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Проводящая ткань"
+              "title": "Backlinks"
             }
           },
           {
@@ -286,39 +293,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d49fd35e8f968f7f",
+  "active": "d95727a76ebf92a6",
   "lastOpenFiles": [
+    "Ботаника/Образовательные ткани – Меристемы.md",
+    "Ботаника/Флоэма – Луб.md",
+    "Ботаника/Камбий – Сосудистый камбий.md",
+    "Ботаника/Древесина – Ксилема.md",
+    "Ботаника/Эпидерма растения – Кожица.md",
+    "Ботаника/Проводящая ткань.md",
     "Ботаника/Растительные ткани.md",
-    "Механическая ткань.md",
-    "Склеренхима.md",
-    "Колленхима.md",
+    "Ботаника/Механическая ткань.md",
+    "Ботаника/Склеренхима.md",
+    "Ботаника/Колленхима.md",
     "Картинки/Pasted image 20260608175323.png",
-    "Эпидерма растения – Кожица.md",
-    "Паренхима (Основные ткани растений).md",
-    "Аэренхима.md",
-    "Образовательные ткани – Меристемы.md",
+    "Ботаника/Паренхима (Основные ткани растений).md",
+    "Ботаника/Аэренхима.md",
     "Ботаника/МОС Ботаника.md",
     "Картинки/Pasted image 20260608174710.png",
     "Картинки/Pasted image 20260608174554.png",
-    "Хлоренхима.md",
+    "Ботаника/Хлоренхима.md",
     "Картинки/Pasted image 20260608174417.png",
-    "Покровная ткань.md",
-    "Феллоген – Пробковый камбий.md",
-    "Корневища.md",
+    "Ботаника/Покровная ткань.md",
+    "Ботаника/Феллоген – Пробковый камбий.md",
+    "Ботаника/Корневища.md",
     "Общая Биология/Органоиды/Хлоропласт.md",
-    "Чечевички.md",
-    "Камбий – Сосудистый камбий.md",
-    "Феллодерма.md",
-    "Феллема – Пробка – Пробковая кора растения.md",
-    "Корни.md",
-    "Геотропизм.md",
-    "Меланины.md",
+    "Ботаника/Чечевички.md",
+    "Ботаника/Феллодерма.md",
+    "Ботаника/Феллема – Пробка – Пробковая кора растения.md",
+    "Ботаника/Корни.md",
+    "Ботаника/Геотропизм.md",
+    "Ботаника/Меланины.md",
     "Общая Биология/Вещества/Пигменты.md",
-    "Хромофорные группы.md",
+    "Ботаника/Хромофорные группы.md",
     "Картинки/Pasted image 20260608172403.png",
-    "Люциферины.md",
-    "Общая Биология/Вещества/Ферменты.md",
-    "Меланоциты.md",
     "Картинки/Pasted image 20260608165844.png",
     "Картинки/Pasted image 20260608165614.png",
     "Картинки/Pasted image 20260608165528.png",
