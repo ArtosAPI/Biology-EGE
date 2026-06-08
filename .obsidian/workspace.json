@@ -50,17 +50,31 @@
             }
           },
           {
-            "id": "3a856b8cdfcc631c",
+            "id": "9cfbc493e50a2205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паренхима (Основные ткани растений).md",
-                "mode": "preview",
+                "file": "Склеренхима.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Паренхима (Основные ткани растений)"
+              "title": "Склеренхима"
+            }
+          },
+          {
+            "id": "50f1578e89a5b63a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Колленхима.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Колленхима"
             }
           },
           {
@@ -134,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Паренхима (Основные ткани растений).md",
+                "file": "Колленхима.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Паренхима (Основные ткани растений)"
+              "title": "Outline of Колленхима"
             }
           },
           {
@@ -223,12 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Паренхима (Основные ткани растений).md",
+                "file": "Колленхима.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Паренхима (Основные ткани растений)"
+              "title": "Outgoing links from Колленхима"
             }
           },
           {
@@ -237,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паренхима (Основные ткани растений).md",
+                "file": "Колленхима.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +261,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Паренхима (Основные ткани растений)"
+              "title": "Backlinks for Колленхима"
             }
           },
           {
@@ -300,14 +314,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3a856b8cdfcc631c",
+  "active": "50f1578e89a5b63a",
   "lastOpenFiles": [
-    "Аэренхима.md",
-    "Эпидерма растения – Кожица.md",
+    "Склеренхима.md",
     "Механическая ткань.md",
+    "Колленхима.md",
+    "Картинки/Pasted image 20260608175323.png",
     "Ботаника/Растительные ткани.md",
-    "Образовательные ткани – Меристемы.md",
+    "Эпидерма растения – Кожица.md",
     "Паренхима (Основные ткани растений).md",
+    "Аэренхима.md",
+    "Образовательные ткани – Меристемы.md",
     "Ботаника/МОС Ботаника.md",
     "Картинки/Pasted image 20260608174710.png",
     "Картинки/Pasted image 20260608174554.png",
@@ -330,14 +347,11 @@
     "Люциферины.md",
     "Общая Биология/Вещества/Ферменты.md",
     "Меланоциты.md",
-    "Порфирины.md",
-    "Флавоноиды.md",
     "Картинки/Pasted image 20260608165844.png",
     "Картинки/Pasted image 20260608165614.png",
     "Картинки/Pasted image 20260608165528.png",
     "Картинки/Pasted image 20260608165350.png",
     "Картинки/Pasted image 20260608155805.png",
-    "Картинки/Pasted image 20260608155748.png",
     "Систематизация знании.base",
     "Эволюции",
     "Другое",
