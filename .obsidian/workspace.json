@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "Образовательные ткани – Меристемы.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -103,6 +103,34 @@
               },
               "icon": "lucide-file",
               "title": "Кора"
+            }
+          },
+          {
+            "id": "1febf2c9226d6f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сосудистый камбий – Камбий.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сосудистый камбий – Камбий"
+            }
+          },
+          {
+            "id": "28b48da40140897c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пробковый камбий – Феллоген.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пробковый камбий – Феллоген"
             }
           },
           {
@@ -176,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -250,13 +278,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Образовательные ткани – Меристемы.md",
+                "file": "Пробковый камбий – Феллоген.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Образовательные ткани – Меристемы"
+              "title": "Outline of Пробковый камбий – Феллоген"
             }
           },
           {
@@ -265,12 +293,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Образовательные ткани – Меристемы.md",
+                "file": "Пробковый камбий – Феллоген.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Образовательные ткани – Меристемы"
+              "title": "Outgoing links from Пробковый камбий – Феллоген"
             }
           },
           {
@@ -279,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Образовательные ткани – Меристемы.md",
+                "file": "Пробковый камбий – Феллоген.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +317,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Образовательные ткани – Меристемы"
+              "title": "Backlinks for Пробковый камбий – Феллоген"
             }
           },
           {
@@ -342,15 +370,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c4c5aa18adaeca2e",
+  "active": "28b48da40140897c",
   "lastOpenFiles": [
+    "Сосудистый камбий – Камбий.md",
+    "Кора.md",
+    "Образовательные ткани – Меристемы.md",
     "Ботаника/Растительные ткани.md",
     "Пробковый камбий – Феллоген.md",
     "Флоэма – Луб.md",
     "Ствол растения.md",
-    "Сосудистый камбий – Камбий.md",
-    "Кора.md",
-    "Образовательные ткани – Меристемы.md",
     "Древесина – Ксилема.md",
     "Пробка – Пробковая кора растения – Феллема.md",
     "Флоэм.md",
