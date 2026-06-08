@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ботаника/МОС Ботаника.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -33,34 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Растительные ткани"
-            }
-          },
-          {
-            "id": "a3c77f3c104ac07e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Однодольные.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Однодольные"
-            }
-          },
-          {
-            "id": "db626eb013dedf11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сосудистый камбий – Камбий.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сосудистый камбий – Камбий"
             }
           },
           {
@@ -146,23 +118,9 @@
               "icon": "lucide-file",
               "title": "Покровная ткань"
             }
-          },
-          {
-            "id": "05fadaab223516c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Эпидерма растения – Кожица.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Эпидерма растения – Кожица"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Эпидерма растения – Кожица.md",
+                "file": "Пробковый камбий – Феллоген.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Эпидерма растения – Кожица"
+              "title": "Outline of Пробковый камбий – Феллоген"
             }
           },
           {
@@ -251,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Эпидерма растения – Кожица.md",
+                "file": "Пробковый камбий – Феллоген.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Эпидерма растения – Кожица"
+              "title": "Outgoing links from Пробковый камбий – Феллоген"
             }
           },
           {
@@ -265,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Эпидерма растения – Кожица.md",
+                "file": "Пробковый камбий – Феллоген.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Эпидерма растения – Кожица"
+              "title": "Backlinks for Пробковый камбий – Феллоген"
             }
           },
           {
@@ -328,19 +286,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "05fadaab223516c8",
+  "active": "28b48da40140897c",
   "lastOpenFiles": [
+    "Пробковый камбий – Феллоген.md",
+    "Однодольные растения.md",
+    "Двудольные растения.md",
+    "Сосудистый камбий – Камбий.md",
+    "Ботаника/Растительные ткани.md",
     "Ботаника/МОС Ботаника.md",
     "Покровная ткань.md",
     "Эпидерма растения – Кожица.md",
     "Перидерма растения.md",
     "Временные ответы.md",
     "Феллодерма.md",
-    "Пробковый камбий – Феллоген.md",
     "Пробка – Пробковая кора растения – Феллема.md",
-    "Сосудистый камбий – Камбий.md",
-    "Однодольные.md",
-    "Ботаника/Растительные ткани.md",
     "Флоэма – Луб.md",
     "Кора.md",
     "Образовательные ткани – Меристемы.md",
@@ -361,7 +320,6 @@
     "Картинки/Pasted image 20260608152412.png",
     "Картинки/Pasted image 20260608152400.png",
     "Картинки/Pasted image 20260608152134.png",
-    "Листья.md",
     "Картинки/Pasted image 20260608151127.png",
     "Картинки/Pasted image 20260608150525.png",
     "Картинки/Pasted image 20260608145538.png",
