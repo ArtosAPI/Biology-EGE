@@ -118,19 +118,8 @@
               "icon": "lucide-file",
               "title": "Образовательные ткани – Меристемы"
             }
-          },
-          {
-            "id": "d95727a76ebf92a6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,12 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Ботаника/МОС Ботаника.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of МОС Ботаника"
             }
           },
           {
@@ -218,11 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ботаника/МОС Ботаника.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from МОС Ботаника"
             }
           },
           {
@@ -231,6 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ботаника/МОС Ботаника.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for МОС Ботаника"
             }
           },
           {
@@ -293,15 +285,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d95727a76ebf92a6",
+  "active": "1bcbac21d97bc959",
   "lastOpenFiles": [
+    "Ботаника/Растительные ткани.md",
+    "Ботаника/Феллодерма.md",
+    "Ботаника/Камбий – Сосудистый камбий.md",
     "Ботаника/Образовательные ткани – Меристемы.md",
     "Ботаника/Флоэма – Луб.md",
-    "Ботаника/Камбий – Сосудистый камбий.md",
     "Ботаника/Древесина – Ксилема.md",
     "Ботаника/Эпидерма растения – Кожица.md",
     "Ботаника/Проводящая ткань.md",
-    "Ботаника/Растительные ткани.md",
     "Ботаника/Механическая ткань.md",
     "Ботаника/Склеренхима.md",
     "Ботаника/Колленхима.md",
@@ -318,7 +311,6 @@
     "Ботаника/Корневища.md",
     "Общая Биология/Органоиды/Хлоропласт.md",
     "Ботаника/Чечевички.md",
-    "Ботаника/Феллодерма.md",
     "Ботаника/Феллема – Пробка – Пробковая кора растения.md",
     "Ботаника/Корни.md",
     "Ботаника/Геотропизм.md",
