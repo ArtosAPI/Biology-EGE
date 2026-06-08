@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ботаника/Феллема – Пробка – Пробковая кора растения.md",
+                "file": "Ботаника/МОС Ботаника.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Феллема – Пробка – Пробковая кора растения"
+              "title": "МОС Ботаника"
             }
           },
           {
@@ -192,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ботаника/Феллема – Пробка – Пробковая кора растения.md",
+                "file": "Ботаника/МОС Ботаника.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Феллема – Пробка – Пробковая кора растения"
+              "title": "Outline of МОС Ботаника"
             }
           },
           {
@@ -207,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ботаника/Феллема – Пробка – Пробковая кора растения.md",
+                "file": "Ботаника/МОС Ботаника.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Феллема – Пробка – Пробковая кора растения"
+              "title": "Outgoing links from МОС Ботаника"
             }
           },
           {
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ботаника/Феллема – Пробка – Пробковая кора растения.md",
+                "file": "Ботаника/МОС Ботаника.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Феллема – Пробка – Пробковая кора растения"
+              "title": "Backlinks for МОС Ботаника"
             }
           },
           {
@@ -286,6 +286,7 @@
   },
   "active": "1bcbac21d97bc959",
   "lastOpenFiles": [
+    "Ботаника/Феллема – Пробка – Пробковая кора растения.md",
     "Ботаника/МОС Ботаника.md",
     "Ботаника/Растительные ткани.md",
     "Ботаника/Феллодерма.md",
@@ -310,7 +311,6 @@
     "Ботаника/Корневища.md",
     "Общая Биология/Органоиды/Хлоропласт.md",
     "Ботаника/Чечевички.md",
-    "Ботаника/Феллема – Пробка – Пробковая кора растения.md",
     "Ботаника/Корни.md",
     "Ботаника/Геотропизм.md",
     "Ботаника/Меланины.md",
