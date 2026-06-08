@@ -119,7 +119,8 @@
               "title": "Образовательные ткани – Меристемы"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ботаника/МОС Ботаника.md",
+                "file": "Ботаника/Растительные ткани.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of МОС Ботаника"
+              "title": "Outline of Растительные ткани"
             }
           },
           {
@@ -207,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ботаника/МОС Ботаника.md",
+                "file": "Ботаника/Растительные ткани.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from МОС Ботаника"
+              "title": "Outgoing links from Растительные ткани"
             }
           },
           {
@@ -221,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ботаника/МОС Ботаника.md",
+                "file": "Ботаника/Растительные ткани.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for МОС Ботаника"
+              "title": "Backlinks for Растительные ткани"
             }
           },
           {
@@ -284,10 +285,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1bcbac21d97bc959",
+  "active": "a20848f825a00ad6",
   "lastOpenFiles": [
-    "Ботаника/Феллема – Пробка – Пробковая кора растения.md",
     "Ботаника/МОС Ботаника.md",
+    "Ботаника/Феллема – Пробка – Пробковая кора растения.md",
     "Ботаника/Растительные ткани.md",
     "Ботаника/Феллодерма.md",
     "Ботаника/Камбий – Сосудистый камбий.md",
