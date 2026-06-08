@@ -92,6 +92,34 @@
             }
           },
           {
+            "id": "83f90a1c7d93a9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Феллоген.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Феллоген"
+            }
+          },
+          {
+            "id": "68697ff6bbb1fa31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Флоэма.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Флоэма"
+            }
+          },
+          {
             "id": "9afd640a3a1c59bc",
             "type": "leaf",
             "state": {
@@ -134,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -208,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Покровная ткань.md",
+                "file": "Феллоген.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Покровная ткань"
+              "title": "Outline of Феллоген"
             }
           },
           {
@@ -300,9 +328,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c33fbe26fd7115dd",
+  "active": "83f90a1c7d93a9a7",
   "lastOpenFiles": [
     "Образовательные ткани – Меристемы.md",
+    "Прокамбий.md",
+    "Флоэма.md",
     "Покровная ткань.md",
     "Эпидерм растения – Кожица.md",
     "Пробковый камбий – Феллоген.md",
@@ -317,14 +347,12 @@
     "Пробка – Пробковая кора растения – Феллема.md",
     "Феллоген.md",
     "Листья.md",
-    "Прокамбий.md",
     "Кора.md",
     "Феллодерма.md",
     "Древесина – Ксилема.md",
     "Картинки/Pasted image 20260608151127.png",
     "Побег – Стебль.md",
     "Стебль.md",
-    "Флоэма.md",
     "Картинки/Pasted image 20260608150525.png",
     "Однодольные.md",
     "Дерма человека.md",
