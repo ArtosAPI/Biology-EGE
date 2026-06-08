@@ -36,34 +36,6 @@
             }
           },
           {
-            "id": "6c42bea879dca579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дерма человека.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Дерма человека"
-            }
-          },
-          {
-            "id": "f68a9ae086454f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Прокамбий.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Прокамбий"
-            }
-          },
-          {
             "id": "a3c77f3c104ac07e",
             "type": "leaf",
             "state": {
@@ -84,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "Камбий.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -106,17 +78,17 @@
             }
           },
           {
-            "id": "8e8ca8eda3b0b914",
+            "id": "f68a9ae086454f81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проводящая ткань.md",
+                "file": "Прокамбий.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проводящая ткань"
+              "title": "Прокамбий"
             }
           },
           {
@@ -134,63 +106,21 @@
             }
           },
           {
-            "id": "879a8308d45dd95f",
+            "id": "8e8ca8eda3b0b914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Злаковые.md",
+                "file": "Проводящая ткань.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Злаковые"
-            }
-          },
-          {
-            "id": "278206c0a5c47988",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Голосеменные.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Голосеменные"
-            }
-          },
-          {
-            "id": "e818d06f5c2ca8a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Корень.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Корень"
-            }
-          },
-          {
-            "id": "1eecfa9d97dff4c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Побег.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Побег"
+              "title": "Проводящая ткань"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Образовательные ткани – Меристемы.md",
+                "file": "Камбий.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Образовательные ткани – Меристемы"
+              "title": "Outline of Камбий"
             }
           },
           {
@@ -356,17 +286,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "09dea2ac11095e24",
+  "active": "db626eb013dedf11",
   "lastOpenFiles": [
-    "Картинки/Pasted image 20260608145538.png",
-    "Ботаника/Растительные ткани.md",
     "Образовательные ткани – Меристемы.md",
-    "Проводящая ткань.md",
-    "Пробковый камбий – феллоген.md",
-    "Дерма человека.md",
+    "Камбий.md",
     "Прокамбий.md",
     "Однодольные.md",
-    "Камбий.md",
+    "Дерма человека.md",
+    "Ботаника/Растительные ткани.md",
+    "Проводящая ткань.md",
+    "Побег.md",
+    "Корень.md",
+    "Голосеменные.md",
+    "Покровная ткань.md",
+    "Кора  – Флоэма.md",
+    "Многолетние растения.md",
+    "Картинки/Pasted image 20260608145538.png",
+    "Пробковый камбий – феллоген.md",
     "Анатомия/Кожа.md",
     "Анатомия/Терморегуляция.md",
     "Анатомия/Интерферон.md",
@@ -374,16 +310,11 @@
     "Эпидермис человека.md",
     "Эпидерм растения.md",
     "Двудольные.md",
-    "Покровная ткань.md",
     "Ботаника/Растения.md",
     "Картинки/Pasted image 20260608143842.png",
     "Картинки/Pasted image 20260608143218.png",
     "Злаковые.md",
-    "Голосеменные.md",
-    "Корень.md",
-    "Кора  – Флоэма.md",
     "Древесина – Ксилема.md",
-    "Побег.md",
     "Ботаника/МОС Ботаника.md",
     "Общая Биология/Процессы/Гаметогенез.md",
     "Систематизация знании.base",
@@ -395,7 +326,6 @@
     "Картинки/Pasted image 20260521174606.png",
     "Картинки/Pasted image 20260521171810.png",
     "Эволюции",
-    "Картинки/Pasted image 20260521155619.png",
     "Другое",
     "Систематика/Всякие там чуваки",
     "Систематика",
