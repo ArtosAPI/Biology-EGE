@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Перидерма растения.md",
+                "file": "Пробковый камбий – Феллоген.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Перидерма растения"
+              "title": "Пробковый камбий – Феллоген"
             }
           },
           {
@@ -111,82 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пробковый камбий – феллема.md",
+                "file": "Пробковый камбий – Феллоген.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пробковый камбий – феллема"
-            }
-          },
-          {
-            "id": "1ff4c68b5fab281c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Кора.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Кора"
-            }
-          },
-          {
-            "id": "f68a9ae086454f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Прокамбий.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Прокамбий"
-            }
-          },
-          {
-            "id": "47068285ecac8306",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Покровная ткань.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Покровная ткань"
-            }
-          },
-          {
-            "id": "348d878f1ad244bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Листья.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Листья"
-            }
-          },
-          {
-            "id": "a17da3c479d810fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Эпидерм растения – Кожица.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Эпидерм растения – Кожица"
+              "title": "Пробковый камбий – Феллоген"
             }
           },
           {
@@ -278,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Перидерма растения.md",
+                "file": "Пробковый камбий – Феллоген.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Перидерма растения"
+              "title": "Outline of Пробковый камбий – Феллоген"
             }
           },
           {
@@ -372,25 +302,27 @@
   },
   "active": "9afd640a3a1c59bc",
   "lastOpenFiles": [
-    "Пробковый камбий – феллема.md",
-    "Феллоген.md",
     "Перидерма растения.md",
+    "Картинки/Pasted image 20260608152134.png",
+    "Пробковый камбий – Феллоген.md",
+    "Пробка – Пробковая кора растения – Феллема.md",
+    "Феллоген.md",
     "Образовательные ткани – Меристемы.md",
+    "Луб.md",
+    "Проводящая ткань.md",
+    "Эпидерм растения – Кожица.md",
+    "Листья.md",
+    "Покровная ткань.md",
+    "Прокамбий.md",
     "Кора.md",
-    "Пробковая кора растения – Феллема.md",
+    "Феллодерма.md",
     "Сосудистый камбий – Камбий.md",
     "Древесина – Ксилема.md",
     "Картинки/Pasted image 20260608151127.png",
-    "Покровная ткань.md",
-    "Листья.md",
-    "Эпидерм растения – Кожица.md",
-    "Проводящая ткань.md",
     "Побег – Стебль.md",
     "Стебль.md",
-    "Прокамбий.md",
     "Флоэма.md",
     "Картинки/Pasted image 20260608150525.png",
-    "Луб.md",
     "Однодольные.md",
     "Дерма человека.md",
     "Ботаника/Растительные ткани.md",
@@ -399,8 +331,6 @@
     "Многолетние растения.md",
     "Картинки/Pasted image 20260608145538.png",
     "Анатомия/Кожа.md",
-    "Анатомия/Терморегуляция.md",
-    "Анатомия/Интерферон.md",
     "Картинки/Pasted image 20260608143842.png",
     "Картинки/Pasted image 20260608143218.png",
     "Систематизация знании.base",
@@ -408,7 +338,6 @@
     "Картинки/Pasted image 20260521180311.png",
     "Картинки/Pasted image 20260521174625.png",
     "Картинки/Pasted image 20260521174621.png",
-    "Картинки/Pasted image 20260521174611.png",
     "Эволюции",
     "Другое",
     "Систематика/Всякие там чуваки",
