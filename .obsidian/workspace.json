@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "10275717e9acee7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Анатомия/Терморегуляция.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Терморегуляция"
-            }
-          },
-          {
             "id": "6c42bea879dca579",
             "type": "leaf",
             "state": {
@@ -190,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Терморегуляция.md",
+                "file": "Ботаника/Растительные ткани.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Терморегуляция"
+              "title": "Outline of Растительные ткани"
             }
           },
           {
@@ -356,10 +342,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "10275717e9acee7e",
+  "active": "a20848f825a00ad6",
   "lastOpenFiles": [
-    "Анатомия/Кожа.md",
     "Дерма человека.md",
+    "Анатомия/Кожа.md",
+    "Анатомия/Терморегуляция.md",
+    "Анатомия/Интерферон.md",
     "Придатки кожи.md",
     "Эпидермис человека.md",
     "Образовательные ткани – Меристемы.md",
@@ -385,8 +373,6 @@
     "Систематизация знании.base",
     "Общая Биология/Процессы/Мейоз – Редукционное деление.md",
     "Общая Биология/Процессы/Овогенез(Оогенез).md",
-    "Анатомия/Алкалоз.md",
-    "Эволюции/МОС Эволюция.md",
     "Картинки/Pasted image 20260521180410.png",
     "Картинки/Pasted image 20260521180311.png",
     "Картинки/Pasted image 20260521174625.png",
