@@ -69,12 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сосудистый камбий – Камбий.md",
+                "file": "Флоэма – Луб.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сосудистый камбий – Камбий"
+              "title": "Флоэма – Луб"
+            }
+          },
+          {
+            "id": "c4c5aa18adaeca2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Образовательные ткани – Меристемы.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Образовательные ткани – Меристемы"
             }
           },
           {
@@ -162,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -236,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сосудистый камбий – Камбий.md",
+                "file": "Образовательные ткани – Меристемы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Сосудистый камбий – Камбий"
+              "title": "Outline of Образовательные ткани – Меристемы"
             }
           },
           {
@@ -251,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сосудистый камбий – Камбий.md",
+                "file": "Образовательные ткани – Меристемы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Сосудистый камбий – Камбий"
+              "title": "Outgoing links from Образовательные ткани – Меристемы"
             }
           },
           {
@@ -265,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сосудистый камбий – Камбий.md",
+                "file": "Образовательные ткани – Меристемы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +289,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Сосудистый камбий – Камбий"
+              "title": "Backlinks for Образовательные ткани – Меристемы"
             }
           },
           {
@@ -307,8 +321,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -329,23 +342,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c035f314e9225b39",
+  "active": "c4c5aa18adaeca2e",
   "lastOpenFiles": [
+    "Ботаника/Растительные ткани.md",
+    "Пробковый камбий – Феллоген.md",
     "Флоэма – Луб.md",
-    "Пробка – Пробковая кора растения – Феллема.md",
-    "Флоэм.md",
+    "Ствол растения.md",
     "Сосудистый камбий – Камбий.md",
     "Кора.md",
-    "Ствол растения.md",
-    "Пробковый камбий – Феллоген.md",
+    "Образовательные ткани – Меристемы.md",
+    "Древесина – Ксилема.md",
+    "Пробка – Пробковая кора растения – Феллема.md",
+    "Флоэм.md",
     "Паренхима растений.md",
     "Анатомия/Паренхима.md",
-    "Образовательные ткани – Меристемы.md",
     "Феллоген.md",
     "Прокамбий.md",
     "Покровная ткань.md",
     "Эпидерм растения – Кожица.md",
-    "Ботаника/Растительные ткани.md",
     "Проводящая ткань.md",
     "Картинки/Pasted image 20260608152412.png",
     "Картинки/Pasted image 20260608152400.png",
@@ -353,7 +367,6 @@
     "Картинки/Pasted image 20260608152134.png",
     "Листья.md",
     "Феллодерма.md",
-    "Древесина – Ксилема.md",
     "Картинки/Pasted image 20260608151127.png",
     "Побег – Стебль.md",
     "Стебль.md",
