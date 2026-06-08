@@ -64,62 +64,6 @@
             }
           },
           {
-            "id": "c035f314e9225b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Флоэма – Луб.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Флоэма – Луб"
-            }
-          },
-          {
-            "id": "c4c5aa18adaeca2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Образовательные ткани – Меристемы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Образовательные ткани – Меристемы"
-            }
-          },
-          {
-            "id": "09dea2ac11095e24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Кора.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Кора"
-            }
-          },
-          {
-            "id": "1febf2c9226d6f66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сосудистый камбий – Камбий.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сосудистый камбий – Камбий"
-            }
-          },
-          {
             "id": "28b48da40140897c",
             "type": "leaf",
             "state": {
@@ -162,41 +106,13 @@
             }
           },
           {
-            "id": "336652369249a350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Флоэма – Луб.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Флоэма – Луб"
-            }
-          },
-          {
-            "id": "304c13eff8d4c31e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ствол растения.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ствол растения"
-            }
-          },
-          {
             "id": "68697ff6bbb1fa31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Флоэма – Луб.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -237,16 +153,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Эпидерм растения – Кожица.md",
+                "file": "Эпидерма растения – Кожица.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Эпидерм растения – Кожица"
+              "title": "Эпидерма растения – Кожица"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -320,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Флоэма – Луб.md",
+                "file": "Эпидерма растения – Кожица.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Флоэма – Луб"
+              "title": "Outline of Эпидерма растения – Кожица"
             }
           },
           {
@@ -335,12 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Флоэма – Луб.md",
+                "file": "Эпидерма растения – Кожица.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Флоэма – Луб"
+              "title": "Outgoing links from Эпидерма растения – Кожица"
             }
           },
           {
@@ -349,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Флоэма – Луб.md",
+                "file": "Эпидерма растения – Кожица.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,7 +275,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Флоэма – Луб"
+              "title": "Backlinks for Эпидерма растения – Кожица"
             }
           },
           {
@@ -412,27 +328,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "336652369249a350",
+  "active": "05fadaab223516c8",
   "lastOpenFiles": [
-    "Сосудистый камбий – Камбий.md",
-    "Флоэма – Луб.md",
-    "Древесина – Ксилема.md",
-    "Пробковый камбий – Феллоген.md",
-    "Пробка – Пробковая кора растения – Феллема.md",
-    "Эпидерм растения – Кожица.md",
-    "Ствол растения.md",
-    "Картинки/Pasted image 20260608155805.png",
-    "Картинки/Pasted image 20260608155748.png",
-    "Феллодерма.md",
     "Перидерма растения.md",
-    "Однолетние растения.md",
-    "Картинки/Pasted image 20260608155004.png",
+    "Эпидерма растения – Кожица.md",
+    "Сосудистый камбий – Камбий.md",
+    "Однодольные.md",
+    "Ботаника/Растительные ткани.md",
+    "Пробковый камбий – Феллоген.md",
+    "Флоэма – Луб.md",
     "Кора.md",
     "Образовательные ткани – Меристемы.md",
-    "Ботаника/Растительные ткани.md",
+    "Ствол растения.md",
+    "Феллодерма.md",
+    "Анатомия/Паренхима.md",
+    "Плоды растений.md",
+    "Корни.md",
+    "Древесина – Ксилема.md",
+    "Пробка – Пробковая кора растения – Феллема.md",
+    "Картинки/Pasted image 20260608155805.png",
+    "Картинки/Pasted image 20260608155748.png",
+    "Однолетние растения.md",
+    "Картинки/Pasted image 20260608155004.png",
     "Флоэм.md",
     "Паренхима растений.md",
-    "Анатомия/Паренхима.md",
     "Феллоген.md",
     "Прокамбий.md",
     "Покровная ткань.md",
@@ -445,8 +364,6 @@
     "Побег – Стебль.md",
     "Стебль.md",
     "Картинки/Pasted image 20260608150525.png",
-    "Однодольные.md",
-    "Дерма человека.md",
     "Картинки/Pasted image 20260608145538.png",
     "Картинки/Pasted image 20260608143842.png",
     "Систематизация знании.base",
