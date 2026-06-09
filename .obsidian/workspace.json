@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Устьица.md",
+                "file": "Ботаника/Проводящая ткань.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Устьица"
+              "title": "Outline of Проводящая ткань"
             }
           },
           {
@@ -342,13 +342,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "221344f18aad7826",
+  "active": "890de9f1984f2a1f",
   "lastOpenFiles": [
+    "Устьица.md",
     "Картинки/Pasted image 20260609192115.png",
     "Ботаника/Проводящая ткань.md",
     "Картинки/Pasted image 20260609185559.png",
     "Ботаника/Растительные ткани.md",
-    "Устьица.md",
     "Картинки/Pasted image 20260609184121.png",
     "Картинки/Pasted image 20260609184114.png",
     "Ботаника/Эпидерма растения – Кожица.md",
@@ -379,7 +379,6 @@
     "Ботаника/Флоэма – Луб.md",
     "Картинки/Pasted image 20260608175323.png",
     "Картинки/Pasted image 20260608174710.png",
-    "Картинки/Pasted image 20260608174554.png",
     "Систематизация знании.base",
     "Эволюции",
     "Другое",
