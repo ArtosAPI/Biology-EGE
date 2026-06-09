@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "Устьица.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ботаника/Проводящая ткань.md",
+                "file": "Устьица.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Проводящая ткань"
+              "title": "Outline of Устьица"
             }
           },
           {
@@ -342,11 +342,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "890de9f1984f2a1f",
+  "active": "221344f18aad7826",
   "lastOpenFiles": [
+    "Картинки/Pasted image 20260609192115.png",
+    "Ботаника/Проводящая ткань.md",
     "Картинки/Pasted image 20260609185559.png",
     "Ботаника/Растительные ткани.md",
-    "Ботаника/Проводящая ткань.md",
     "Устьица.md",
     "Картинки/Pasted image 20260609184121.png",
     "Картинки/Pasted image 20260609184114.png",
@@ -379,7 +380,6 @@
     "Картинки/Pasted image 20260608175323.png",
     "Картинки/Pasted image 20260608174710.png",
     "Картинки/Pasted image 20260608174554.png",
-    "Картинки/Pasted image 20260608172403.png",
     "Систематизация знании.base",
     "Эволюции",
     "Другое",
