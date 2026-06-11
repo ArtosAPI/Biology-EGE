@@ -140,7 +140,7 @@
               "type": "markdown",
               "state": {
                 "file": "Зоология/Плоские черви.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Зоология/Губки.md",
+                "file": "Зоология/Плоские черви.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Губки"
+              "title": "Outline of Плоские черви"
             }
           },
           {
@@ -265,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Зоология/Губки.md",
+                "file": "Зоология/Плоские черви.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Губки"
+              "title": "Outgoing links from Плоские черви"
             }
           },
           {
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Зоология/Губки.md",
+                "file": "Зоология/Плоские черви.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Губки"
+              "title": "Backlinks for Плоские черви"
             }
           },
           {
@@ -342,14 +342,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "76cc49a1457db5ba",
+  "active": "e8ebed95d34f2c35",
   "lastOpenFiles": [
+    "Картинки/Pasted image 20260611144011.png",
+    "Зоология/Губки.md",
     "Зоология/Кишечнополостные (стрекающие).md",
     "Зоология/Плоские черви.md",
     "Ресничные плоские черви.md",
     "Сосальщики.md",
     "Ленточные плоские черви.md",
-    "Зоология/Губки.md",
     "Коралловые полипы.md",
     "Сцифоидные.md",
     "Гидроидные.md",
@@ -378,7 +379,6 @@
     "Систематика/Всякие там чуваки/Неклеточные.md",
     "Микология/Грибы.md",
     "Микология",
-    "Зоология/Протисты – Простейшие.md",
     "Картинки/Pasted image 20260611125806.png",
     "Картинки/Pasted image 20260611124415.png",
     "Систематизация знании.base",
