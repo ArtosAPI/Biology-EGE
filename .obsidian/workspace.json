@@ -126,7 +126,7 @@
               "type": "markdown",
               "state": {
                 "file": "Зоология/Круглые черви.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Зоология/Плоские черви.md",
+                "file": "Зоология/Кольчатые черви.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Плоские черви"
+              "title": "Outline of Кольчатые черви"
             }
           },
           {
@@ -265,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Зоология/Плоские черви.md",
+                "file": "Зоология/Кольчатые черви.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Плоские черви"
+              "title": "Outgoing links from Кольчатые черви"
             }
           },
           {
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Зоология/Плоские черви.md",
+                "file": "Зоология/Кольчатые черви.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Плоские черви"
+              "title": "Backlinks for Кольчатые черви"
             }
           },
           {
@@ -342,12 +342,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e8ebed95d34f2c35",
+  "active": "9f6f178bf72d351d",
   "lastOpenFiles": [
-    "Картинки/Pasted image 20260611145759.png",
     "Зоология/Круглые черви.md",
+    "Картинки/Pasted image 20260611150141.png",
+    "Картинки/Pasted image 20260611150046.png",
     "Зоология/Кольчатые черви.md",
     "Зоология/Плоские черви.md",
+    "Картинки/Pasted image 20260611145759.png",
     "Зоология/Кишечнополостные (стрекающие).md",
     "Сосальщики.md",
     "Ленточные плоские черви.md",
@@ -363,9 +365,6 @@
     "Картинки/Pasted image 20260611142742.png",
     "Картинки/Pasted image 20260611142633.png",
     "Картинки/Pasted image 20260611142403.png",
-    "Картинки/Pasted image 20260611142249.png",
-    "Картинки/Pasted image 20260611142105.png",
-    "Картинки/Pasted image 20260611140956.png",
     "Зоология/МОС Зоология.md",
     "Зоология/Иглокожие.md",
     "Систематика/Всякие там чуваки/Типы – Отделы.md",
