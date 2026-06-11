@@ -84,15 +84,29 @@
               "type": "markdown",
               "state": {
                 "file": "Систематика/Всякие там чуваки/Протисты – Простейшие.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Протисты – Простейшие"
             }
+          },
+          {
+            "id": "cfdbb090ad324a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Корненожки (ризоподы).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Корненожки (ризоподы)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Малярийный плазмодий.md",
+                "file": "Систематика/Всякие там чуваки/Протисты – Простейшие.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Малярийный плазмодий"
+              "title": "Outline of Протисты – Простейшие"
             }
           },
           {
@@ -258,23 +272,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fef2fdd1125e5d57",
+  "active": "eac2ff8a3d15097f",
   "lastOpenFiles": [
+    "Корненожки (ризоподы).md",
+    "Систематика/Всякие там чуваки/Протисты – Простейшие.md",
+    "Инфузория.md",
+    "Амеба.md",
+    "Эвглена.md",
+    "Малярийный плазмодий.md",
     "Картинки/Pasted image 20260611124415.png",
     "Картинки/Pasted image 20260611124053.png",
     "Зоология/МОС Зоология.md",
-    "Инфузория.md",
-    "Малярийный плазмодий.md",
     "Картинки/Pasted image 20260611123512.png",
     "Картинки/Pasted image 20260611123256.png",
-    "Эвглена.md",
     "Картинки/Pasted image 20260611122950.png",
     "Картинки/Pasted image 20260611122917.png",
-    "Амеба.md",
     "Картинки/Pasted image 20260611122629.png",
     "Картинки/Pasted image 20260611122626.png",
     "Картинки/Pasted image 20260611122623.png",
-    "Систематика/Всякие там чуваки/Протисты – Простейшие.md",
     "Эволюции/Ароморфоз.md",
     "Ботаника/Растительные ткани.md",
     "Ботаника/Древесина – Ксилема.md",
@@ -289,7 +304,6 @@
     "Ботаника/Проводящая ткань.md",
     "Ботаника/МОС Ботаника.md",
     "Картинки/Pasted image 20260609192115.png",
-    "Картинки/Pasted image 20260609185559.png",
     "Ботаника/Эпидерма растения – Кожица.md",
     "Ботаника/Покровная ткань.md",
     "Ботаника/Корни.md",
