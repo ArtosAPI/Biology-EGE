@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Зоология/Кишечнополостные.md",
-                "mode": "source",
+                "file": "Зоология/Кишечнополостные (стрекающие).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кишечнополостные"
+              "title": "Кишечнополостные (стрекающие)"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Зоология/Губки.md",
+                "file": "Зоология/Кишечнополостные (стрекающие).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Губки"
+              "title": "Outline of Кишечнополостные (стрекающие)"
             }
           },
           {
@@ -265,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Зоология/Губки.md",
+                "file": "Зоология/Кишечнополостные (стрекающие).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Губки"
+              "title": "Outgoing links from Кишечнополостные (стрекающие)"
             }
           },
           {
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Зоология/Губки.md",
+                "file": "Зоология/Кишечнополостные (стрекающие).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Губки"
+              "title": "Backlinks for Кишечнополостные (стрекающие)"
             }
           },
           {
@@ -342,13 +342,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "76cc49a1457db5ba",
+  "active": "57034c4ab80f5343",
   "lastOpenFiles": [
+    "Картинки/Pasted image 20260611142633.png",
+    "Картинки/Pasted image 20260611142403.png",
+    "Картинки/Pasted image 20260611142249.png",
+    "Зоология/Губки.md",
     "Картинки/Pasted image 20260611142105.png",
     "Картинки/Pasted image 20260611140956.png",
     "Зоология/МОС Зоология.md",
     "Зоология/Иглокожие.md",
-    "Зоология/Губки.md",
     "Систематика/Всякие там чуваки/Типы – Отделы.md",
     "Зоология/Хордовые.md",
     "Зоология/Членистоногие.md",
@@ -356,7 +359,7 @@
     "Зоология/Кольчатые черви.md",
     "Зоология/Круглые черви.md",
     "Зоология/Плоские черви.md",
-    "Зоология/Кишечнополостные.md",
+    "Зоология/Кишечнополостные (стрекающие).md",
     "Систематика/Систематика – Таксономия.md",
     "Общая Биология/Вирусы.md",
     "Систематика/Всякие там чуваки/Отряды – Порядки.md",
@@ -378,9 +381,6 @@
     "Картинки/Pasted image 20260611123512.png",
     "Картинки/Pasted image 20260611123256.png",
     "Картинки/Pasted image 20260611122950.png",
-    "Картинки/Pasted image 20260611122917.png",
-    "Картинки/Pasted image 20260611122629.png",
-    "Картинки/Pasted image 20260611122626.png",
     "Систематизация знании.base",
     "Эволюции",
     "Другое",
