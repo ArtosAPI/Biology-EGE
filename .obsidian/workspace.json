@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Зоология/МОС Зоология.md",
+                "file": "Зоология/Круглые черви.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "МОС Зоология"
+              "title": "Круглые черви"
             }
           },
           {
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Зоология/МОС Зоология.md",
+                "file": "Зоология/Круглые черви.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of МОС Зоология"
+              "title": "Outline of Круглые черви"
             }
           },
           {
@@ -149,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Зоология/МОС Зоология.md",
+                "file": "Зоология/Круглые черви.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from МОС Зоология"
+              "title": "Outgoing links from Круглые черви"
             }
           },
           {
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Зоология/МОС Зоология.md",
+                "file": "Зоология/Круглые черви.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for МОС Зоология"
+              "title": "Backlinks for Круглые черви"
             }
           },
           {
@@ -228,8 +228,10 @@
   },
   "active": "4d9fd74b948014ad",
   "lastOpenFiles": [
-    "Зоология/Плоские черви.md",
     "Зоология/МОС Зоология.md",
+    "Зоология/Плоские черви.md",
+    "Зоология/Кольчатые черви.md",
+    "Зоология/Малярийный плазмодий.md",
     "Зоология/Моллюски.md",
     "Зоология/Членистоногие.md",
     "Зоология/Ракообразные.md",
@@ -247,7 +249,6 @@
     "Картинки/Pasted image 20260611155615.png",
     "Зоология/Хордовые.md",
     "Зоология/Круглые черви.md",
-    "Зоология/Кольчатые черви.md",
     "Систематика/Подклассы.md",
     "Зоология/Брюхоногие моллюски.md",
     "Зоология/Головоногие моллюски.md",
@@ -259,7 +260,6 @@
     "Зоология/Сенокосцы.md",
     "Систематика/Всякие там чуваки/Царства.md",
     "Картинки/Pasted image 20260611153925.png",
-    "Зоология/Клещи.md",
     "Картинки/Pasted image 20260611151807.png",
     "Картинки/Pasted image 20260611151303.png",
     "Картинки/Pasted image 20260611151010.png",
