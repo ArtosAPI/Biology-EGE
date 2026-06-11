@@ -164,12 +164,12 @@
     "nodeSizeMultiplier": 1.05703125,
     "lineSizeMultiplier": 1.26377922232824,
     "collapse-forces": false,
-    "centerStrength": 0.580729166666667,
-    "repelStrength": 7.34375,
+    "centerStrength": 0.440104166666667,
+    "repelStrength": 7.44791666666667,
     "linkStrength": 1,
     "linkDistance": 271,
-    "scale": 0.1945002269061685,
-    "close": false
+    "scale": 0.19450022690616886,
+    "close": true
   },
   "openInNewTab": false,
   "canonicalizePropertiesWithDataview": true,

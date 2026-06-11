@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "4756754762db167a",
+            "id": "596d9158f7e631f8",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -58,9 +58,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4b239e96ebe976c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,7 +233,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4756754762db167a",
+  "active": "4b239e96ebe976c9",
   "lastOpenFiles": [
     "Зоология/МОС Зоология.md",
     "Зоология/Крылатые.md",
