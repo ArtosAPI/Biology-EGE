@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "Эвглена.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Эвглена.md",
+                "file": "Инфузория.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Эвглена"
+              "title": "Outline of Инфузория"
             }
           },
           {
@@ -258,11 +258,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "50b8efa525b02ebf",
+  "active": "d3cfda66940aa452",
   "lastOpenFiles": [
+    "Картинки/Pasted image 20260611123256.png",
+    "Эвглена.md",
+    "Картинки/Pasted image 20260611122950.png",
     "Картинки/Pasted image 20260611122917.png",
     "Инфузория.md",
-    "Эвглена.md",
     "Амеба.md",
     "Картинки/Pasted image 20260611122629.png",
     "Картинки/Pasted image 20260611122626.png",
@@ -291,11 +293,9 @@
     "Ботаника/Покровная ткань.md",
     "Ботаника/Корни.md",
     "Картинки/Эпидерма2.png",
-    "Картинки/Эпидерма1.png",
     "Ботаника/Эпидермис человека.md",
     "Ботаника/Паренхима (Основные ткани растений).md",
     "Ботаника/Аэренхимная ткань.md",
-    "Картинки/Стебель2.png",
     "Систематизация знании.base",
     "Эволюции",
     "Другое",
