@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Иглокожие.md",
+                "file": "Зоология/Иглокожие.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Хордовые.md",
+                "file": "Зоология/Хордовые.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Членистоногие.md",
+                "file": "Зоология/Членистоногие.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моллюски.md",
+                "file": "Зоология/Моллюски.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кольчатые черви.md",
+                "file": "Зоология/Кольчатые черви.md",
                 "mode": "source",
                 "source": false
               },
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Круглые черви.md",
+                "file": "Зоология/Круглые черви.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Плоские черви.md",
+                "file": "Зоология/Плоские черви.md",
                 "mode": "source",
                 "source": false
               },
@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кишечнополостные.md",
+                "file": "Зоология/Кишечнополостные.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,8 +167,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Губки.md",
-                "mode": "source",
+                "file": "Зоология/Губки.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Зоология/МОС Зоология.md",
+                "file": "Зоология/Губки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of МОС Зоология"
+              "title": "Outline of Губки"
             }
           },
           {
@@ -265,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Зоология/МОС Зоология.md",
+                "file": "Зоология/Губки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from МОС Зоология"
+              "title": "Outgoing links from Губки"
             }
           },
           {
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Зоология/МОС Зоология.md",
+                "file": "Зоология/Губки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for МОС Зоология"
+              "title": "Backlinks for Губки"
             }
           },
           {
@@ -342,19 +342,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4d9fd74b948014ad",
+  "active": "76cc49a1457db5ba",
   "lastOpenFiles": [
-    "Губки.md",
-    "Систематика/Всякие там чуваки/Типы – Отделы.md",
-    "Иглокожие.md",
-    "Хордовые.md",
-    "Членистоногие.md",
-    "Моллюски.md",
-    "Кольчатые черви.md",
-    "Круглые черви.md",
-    "Плоские черви.md",
-    "Кишечнополостные.md",
+    "Картинки/Pasted image 20260611140956.png",
     "Зоология/МОС Зоология.md",
+    "Зоология/Иглокожие.md",
+    "Зоология/Губки.md",
+    "Систематика/Всякие там чуваки/Типы – Отделы.md",
+    "Зоология/Хордовые.md",
+    "Зоология/Членистоногие.md",
+    "Зоология/Моллюски.md",
+    "Зоология/Кольчатые черви.md",
+    "Зоология/Круглые черви.md",
+    "Зоология/Плоские черви.md",
+    "Зоология/Кишечнополостные.md",
     "Систематика/Систематика – Таксономия.md",
     "Общая Биология/Вирусы.md",
     "Систематика/Всякие там чуваки/Отряды – Порядки.md",
@@ -370,7 +371,6 @@
     "Систематика/Всякие там чуваки/Прокариоты.md",
     "Общая Биология/Археи.md",
     "Систематика/Всякие там чуваки/Царства.md",
-    "Зоология/Амеба.md",
     "Картинки/Pasted image 20260611125806.png",
     "Картинки/Pasted image 20260611124415.png",
     "Картинки/Pasted image 20260611124053.png",
