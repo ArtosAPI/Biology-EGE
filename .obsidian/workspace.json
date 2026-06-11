@@ -140,7 +140,7 @@
               "type": "markdown",
               "state": {
                 "file": "Зоология/Плоские черви.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -154,7 +154,7 @@
               "type": "markdown",
               "state": {
                 "file": "Зоология/Кишечнополостные (стрекающие).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Зоология/Кишечнополостные (стрекающие).md",
+                "file": "Зоология/Губки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Кишечнополостные (стрекающие)"
+              "title": "Outline of Губки"
             }
           },
           {
@@ -265,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Зоология/Кишечнополостные (стрекающие).md",
+                "file": "Зоология/Губки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Кишечнополостные (стрекающие)"
+              "title": "Outgoing links from Губки"
             }
           },
           {
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Зоология/Кишечнополостные (стрекающие).md",
+                "file": "Зоология/Губки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Кишечнополостные (стрекающие)"
+              "title": "Backlinks for Губки"
             }
           },
           {
@@ -342,15 +342,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "57034c4ab80f5343",
+  "active": "76cc49a1457db5ba",
   "lastOpenFiles": [
+    "Зоология/Кишечнополостные (стрекающие).md",
+    "Зоология/Плоские черви.md",
+    "Ресничные плоские черви.md",
+    "Сосальщики.md",
+    "Ленточные плоские черви.md",
+    "Зоология/Губки.md",
+    "Коралловые полипы.md",
+    "Сцифоидные.md",
+    "Гидроидные.md",
     "Картинки/Pasted image 20260611143129.png",
     "Картинки/Pasted image 20260611142825.png",
     "Картинки/Pasted image 20260611142742.png",
     "Картинки/Pasted image 20260611142633.png",
     "Картинки/Pasted image 20260611142403.png",
     "Картинки/Pasted image 20260611142249.png",
-    "Зоология/Губки.md",
     "Картинки/Pasted image 20260611142105.png",
     "Картинки/Pasted image 20260611140956.png",
     "Зоология/МОС Зоология.md",
@@ -361,8 +369,6 @@
     "Зоология/Моллюски.md",
     "Зоология/Кольчатые черви.md",
     "Зоология/Круглые черви.md",
-    "Зоология/Плоские черви.md",
-    "Зоология/Кишечнополостные (стрекающие).md",
     "Систематика/Систематика – Таксономия.md",
     "Общая Биология/Вирусы.md",
     "Систематика/Всякие там чуваки/Отряды – Порядки.md",
@@ -373,14 +379,8 @@
     "Микология/Грибы.md",
     "Микология",
     "Зоология/Протисты – Простейшие.md",
-    "Систематика/Всякие там чуваки/Клеточные.md",
-    "Зоология/Малярийный плазмодий.md",
-    "Систематика/Всякие там чуваки/Прокариоты.md",
-    "Общая Биология/Археи.md",
-    "Систематика/Всякие там чуваки/Царства.md",
     "Картинки/Pasted image 20260611125806.png",
     "Картинки/Pasted image 20260611124415.png",
-    "Картинки/Pasted image 20260611124053.png",
     "Систематизация знании.base",
     "Эволюции",
     "Другое",
