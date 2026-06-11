@@ -4,178 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "5d9cc201f1ab310f",
+        "id": "933b1abe09221242",
         "type": "tabs",
         "children": [
           {
-            "id": "1bcbac21d97bc959",
+            "id": "4d9fd74b948014ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ботаника/Проводящая ткань.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Проводящая ткань"
-            }
-          },
-          {
-            "id": "a20848f825a00ad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ботаника/Растительные ткани.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Растительные ткани"
-            }
-          },
-          {
-            "id": "890de9f1984f2a1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ботаника/Проводящая ткань.md",
+                "file": "Зоология/МОС Зоология.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проводящая ткань"
+              "title": "МОС Зоология"
             }
           },
           {
-            "id": "e1dfb2f1a25d6573",
+            "id": "fef2fdd1125e5d57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ботаника/Хлоренхима (ассимиляционная) ткань.md",
+                "file": "Малярийный плазмодий.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хлоренхима (ассимиляционная) ткань"
+              "title": "Малярийный плазмодий"
             }
           },
           {
-            "id": "221344f18aad7826",
+            "id": "d3cfda66940aa452",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Устьица.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Устьица"
-            }
-          },
-          {
-            "id": "46c51c284103100d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Мезофилл.md",
+                "file": "Инфузория.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мезофилл"
+              "title": "Инфузория"
             }
           },
           {
-            "id": "5c13e7ae3b70a589",
+            "id": "50b8efa525b02ebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ботаника/Образовательные ткани – Меристемы.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Образовательные ткани – Меристемы"
-            }
-          },
-          {
-            "id": "ee3cb9170c787bf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ботаника/Кора.md",
+                "file": "Эвглена.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кора"
+              "title": "Эвглена"
             }
           },
           {
-            "id": "bfa095e56d27d595",
+            "id": "257d24d10c760ea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ботаника/Механическая ткань.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Механическая ткань"
-            }
-          },
-          {
-            "id": "3d14f27460e7d6fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ботаника/Колленхима.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Колленхима"
-            }
-          },
-          {
-            "id": "2168de01c5b7e760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ботаника/Камбий – Сосудистый камбий.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Камбий – Сосудистый камбий"
-            }
-          },
-          {
-            "id": "fc2ab5f0c9fc48ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ботаника/Древесина – Ксилема.md",
+                "file": "Амеба.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Древесина – Ксилема"
+              "title": "Амеба"
+            }
+          },
+          {
+            "id": "eac2ff8a3d15097f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Систематика/Всякие там чуваки/Протисты – Простейшие.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Протисты – Простейшие"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -249,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ботаника/Проводящая ткань.md",
+                "file": "Систематика/Всякие там чуваки/Протисты – Простейшие.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Проводящая ткань"
+              "title": "Outline of Протисты – Простейшие"
             }
           },
           {
@@ -341,12 +258,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1bcbac21d97bc959",
+  "active": "eac2ff8a3d15097f",
   "lastOpenFiles": [
+    "Эволюции/Ароморфоз.md",
+    "Систематика/Всякие там чуваки/Протисты – Простейшие.md",
+    "Амеба.md",
+    "Малярийный плазмодий.md",
+    "Зоология/МОС Зоология.md",
+    "Инфузория.md",
+    "Эвглена.md",
     "Ботаника/Растительные ткани.md",
-    "Ботаника/МОС Ботаника.md",
-    "Ботаника/Проводящая ткань.md",
+    "Ботаника/Древесина – Ксилема.md",
+    "Ботаника/Камбий – Сосудистый камбий.md",
+    "Ботаника/Колленхима.md",
+    "Ботаника/Механическая ткань.md",
+    "Ботаника/Кора.md",
+    "Ботаника/Образовательные ткани – Меристемы.md",
+    "Мезофилл.md",
     "Устьица.md",
+    "Ботаника/Хлоренхима (ассимиляционная) ткань.md",
+    "Ботаника/Проводящая ткань.md",
+    "Ботаника/МОС Ботаника.md",
     "Картинки/Pasted image 20260609192115.png",
     "Картинки/Pasted image 20260609185559.png",
     "Картинки/Pasted image 20260609184121.png",
@@ -354,28 +286,14 @@
     "Ботаника/Эпидерма растения – Кожица.md",
     "Ботаника/Покровная ткань.md",
     "Ботаника/Корни.md",
-    "Ботаника/Образовательные ткани – Меристемы.md",
-    "Мезофилл.md",
-    "Ботаника/Хлоренхима (ассимиляционная) ткань.md",
     "Картинки/Эпидерма2.png",
     "Картинки/Эпидерма1.png",
     "Ботаника/Эпидермис человека.md",
     "Ботаника/Паренхима (Основные ткани растений).md",
     "Ботаника/Аэренхимная ткань.md",
-    "Ботаника/Древесина – Ксилема.md",
-    "Ботаника/Камбий – Сосудистый камбий.md",
-    "Ботаника/Колленхима.md",
-    "Ботаника/Кора.md",
-    "Ботаника/Механическая ткань.md",
     "Картинки/Стебель2.png",
     "Картинки/Стебель1.png",
     "Ботаника/Побег.md",
-    "Ботаника/Феллодерма.md",
-    "Ботаника/Феллоген – Пробковый камбий.md",
-    "Ботаника/Стебель.md",
-    "Органы растения.md",
-    "Ботаника/Феллема – Пробка – Пробковая кора растения.md",
-    "Ботаника/Флоэма – Луб.md",
     "Картинки/Pasted image 20260608175323.png",
     "Картинки/Pasted image 20260608174710.png",
     "Систематизация знании.base",
