@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Зоология/МОС Зоология.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of МОС Зоология"
+              "title": "Outline"
             }
           },
           {
@@ -163,12 +162,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Зоология/МОС Зоология.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from МОС Зоология"
+              "title": "Outgoing links"
             }
           },
           {
@@ -177,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Зоология/МОС Зоология.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for МОС Зоология"
+              "title": "Backlinks"
             }
           },
           {
@@ -240,12 +237,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4d9fd74b948014ad",
+  "active": "c9e9a6e3efba8fda",
   "lastOpenFiles": [
+    "Зоология/МОС Зоология.md",
     "Анатомия/MOC Анатомия.md",
     "Зоология/Гидроидные.md",
     "Зоология/Крылатые.md",
-    "Зоология/МОС Зоология.md",
     "Систематика/Всякие там чуваки/Типы – Отделы.md",
     "Систематика/Систематика – Таксономия.md",
     "Зоология/Членистоногие.md",
