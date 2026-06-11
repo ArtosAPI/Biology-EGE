@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Зоология/Кольчатые черви.md",
+                "file": "Зоология/Моллюски.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Кольчатые черви"
+              "title": "Outline of Моллюски"
             }
           },
           {
@@ -265,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Зоология/Кольчатые черви.md",
+                "file": "Зоология/Моллюски.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Кольчатые черви"
+              "title": "Outgoing links from Моллюски"
             }
           },
           {
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Зоология/Кольчатые черви.md",
+                "file": "Зоология/Моллюски.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Кольчатые черви"
+              "title": "Backlinks for Моллюски"
             }
           },
           {
@@ -342,12 +342,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f6f178bf72d351d",
+  "active": "fc792989e7f651fd",
   "lastOpenFiles": [
+    "Зоология/Кольчатые черви.md",
+    "Брюхоногие моллюски.md",
+    "Зоология/Моллюски.md",
+    "Двустворчатые моллюски.md",
+    "Головоногие моллюски.md",
+    "Пиявки.md",
     "Зоология/Круглые черви.md",
+    "Малощетинковые кольчатые черви.md",
+    "Многощетинковые кольчатые черви.md",
+    "Картинки/Pasted image 20260611150338.png",
     "Картинки/Pasted image 20260611150141.png",
     "Картинки/Pasted image 20260611150046.png",
-    "Зоология/Кольчатые черви.md",
     "Зоология/Плоские черви.md",
     "Картинки/Pasted image 20260611145759.png",
     "Зоология/Кишечнополостные (стрекающие).md",
@@ -364,21 +372,14 @@
     "Картинки/Pasted image 20260611142825.png",
     "Картинки/Pasted image 20260611142742.png",
     "Картинки/Pasted image 20260611142633.png",
-    "Картинки/Pasted image 20260611142403.png",
     "Зоология/МОС Зоология.md",
     "Зоология/Иглокожие.md",
     "Систематика/Всякие там чуваки/Типы – Отделы.md",
     "Зоология/Хордовые.md",
     "Зоология/Членистоногие.md",
-    "Зоология/Моллюски.md",
     "Систематика/Систематика – Таксономия.md",
     "Общая Биология/Вирусы.md",
     "Систематика/Всякие там чуваки/Отряды – Порядки.md",
-    "Микология.md",
-    "Общая Биология/Вироиды.md",
-    "Общая Биология/Вирусы 1.md",
-    "Систематика/Всякие там чуваки/Неклеточные.md",
-    "Микология/Грибы.md",
     "Микология",
     "Систематизация знании.base",
     "Эволюции",
