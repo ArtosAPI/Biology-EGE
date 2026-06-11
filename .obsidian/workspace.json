@@ -140,7 +140,7 @@
               "type": "markdown",
               "state": {
                 "file": "Зоология/Плоские черви.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Зоология/Круглые черви.md",
+                "file": "Зоология/Плоские черви.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Круглые черви"
+              "title": "Outline of Плоские черви"
             }
           },
           {
@@ -265,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Зоология/Круглые черви.md",
+                "file": "Зоология/Плоские черви.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Круглые черви"
+              "title": "Outgoing links from Плоские черви"
             }
           },
           {
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Зоология/Круглые черви.md",
+                "file": "Зоология/Плоские черви.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Круглые черви"
+              "title": "Backlinks for Плоские черви"
             }
           },
           {
@@ -342,8 +342,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d3cf820df6bbd539",
+  "active": "e8ebed95d34f2c35",
   "lastOpenFiles": [
+    "Картинки/Pasted image 20260611145759.png",
+    "Зоология/Круглые черви.md",
+    "Зоология/Кольчатые черви.md",
     "Зоология/Плоские черви.md",
     "Зоология/Кишечнополостные (стрекающие).md",
     "Сосальщики.md",
@@ -369,8 +372,6 @@
     "Зоология/Хордовые.md",
     "Зоология/Членистоногие.md",
     "Зоология/Моллюски.md",
-    "Зоология/Кольчатые черви.md",
-    "Зоология/Круглые черви.md",
     "Систематика/Систематика – Таксономия.md",
     "Общая Биология/Вирусы.md",
     "Систематика/Всякие там чуваки/Отряды – Порядки.md",
