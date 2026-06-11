@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "596d9158f7e631f8",
+            "id": "4b239e96ebe976c9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -58,19 +58,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "4b239e96ebe976c9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,12 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Зоология/МОС Зоология.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of МОС Зоология"
             }
           },
           {
@@ -158,11 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Зоология/МОС Зоология.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from МОС Зоология"
             }
           },
           {
@@ -171,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Зоология/МОС Зоология.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for МОС Зоология"
             }
           },
           {
@@ -233,25 +226,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4b239e96ebe976c9",
+  "active": "4d9fd74b948014ad",
   "lastOpenFiles": [
+    "Зоология/Плоские черви.md",
     "Зоология/МОС Зоология.md",
+    "Зоология/Моллюски.md",
+    "Зоология/Членистоногие.md",
+    "Зоология/Ракообразные.md",
+    "Зоология/Кишечнополостные (стрекающие).md",
+    "Зоология/Губки.md",
+    "Зоология/Беспозвоночные животные.md",
     "Зоология/Крылатые.md",
     "Зоология/Гидроидные.md",
     "Анатомия/MOC Анатомия.md",
     "Систематика/Всякие там чуваки/Типы – Отделы.md",
     "Систематика/Систематика – Таксономия.md",
-    "Зоология/Членистоногие.md",
     "Зоология/Насекомые.md",
     "Зоология/Паукообразные.md",
-    "Зоология/Ракообразные.md",
     "Картинки/Pasted image 20260611155941.png",
     "Картинки/Pasted image 20260611155615.png",
     "Зоология/Хордовые.md",
-    "Зоология/Беспозвоночные животные.md",
-    "Зоология/Губки.md",
-    "Зоология/Кишечнополостные (стрекающие).md",
-    "Зоология/Плоские черви.md",
     "Зоология/Круглые черви.md",
     "Зоология/Кольчатые черви.md",
     "Систематика/Подклассы.md",
@@ -266,7 +260,6 @@
     "Систематика/Всякие там чуваки/Царства.md",
     "Картинки/Pasted image 20260611153925.png",
     "Зоология/Клещи.md",
-    "Зоология/Скорпионы.md",
     "Картинки/Pasted image 20260611151807.png",
     "Картинки/Pasted image 20260611151303.png",
     "Картинки/Pasted image 20260611151010.png",
