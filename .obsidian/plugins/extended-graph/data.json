@@ -91,7 +91,7 @@
         "query": "path:Анатомия  ",
         "color": {
           "a": 1,
-          "rgb": 14701138
+          "rgb": 8716288
         }
       },
       {
@@ -112,7 +112,7 @@
         "query": "path:Зоология  ",
         "color": {
           "a": 1,
-          "rgb": 12130328
+          "rgb": 16711680
         }
       },
       {
@@ -140,7 +140,7 @@
         "query": "path:Систематика  ",
         "color": {
           "a": 1,
-          "rgb": 11621088
+          "rgb": 11048624
         }
       },
       {
@@ -163,12 +163,12 @@
     "textFadeMultiplier": -1.2,
     "nodeSizeMultiplier": 1.05703125,
     "lineSizeMultiplier": 1.26377922232824,
-    "collapse-forces": true,
-    "centerStrength": 0.518713248970312,
-    "repelStrength": 10,
+    "collapse-forces": false,
+    "centerStrength": 0.580729166666667,
+    "repelStrength": 7.34375,
     "linkStrength": 1,
-    "linkDistance": 250,
-    "scale": 0.09895430218637476,
+    "linkDistance": 271,
+    "scale": 0.1945002269061685,
     "close": false
   },
   "openInNewTab": false,
