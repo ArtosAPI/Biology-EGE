@@ -126,7 +126,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,7 +239,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c4c50bdd30b18d7e",
+  "active": "89a1f9a945efa031",
   "lastOpenFiles": [
     "Анатомия/Спинной мозг.md",
     "Анатомия/Мотонейроны — двигательные нейроны.md",
