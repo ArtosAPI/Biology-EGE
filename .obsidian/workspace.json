@@ -101,8 +101,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Легкие.md",
+                "file": "Ответы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Легкие"
+              "title": "Outline of Ответы"
             }
           },
           {
@@ -267,8 +266,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0634ff3e5bdf6ee0",
+  "active": "c4c50bdd30b18d7e",
   "lastOpenFiles": [
+    "Анатомия/Легкие.md",
     "Ответы.md",
     "Общая Биология/Процессы/Дыхание – Аэробное окисление.md",
     "Относится напрямую к ЕГЭ/1 задание/Методы биологии.md",
@@ -294,7 +294,6 @@
     "Ботаника/Эпидермис человека.md",
     "Общая Биология/Правила и принципы/Микробиология.md",
     "Относится напрямую к ЕГЭ/1 задание/Уровни организации живого.md",
-    "Общая Биология/Вирусы.md",
     "Картинки/Pasted image 20260611155941.png",
     "Картинки/Pasted image 20260611155615.png",
     "Картинки/Pasted image 20260611154708.png",
