@@ -74,8 +74,7 @@
       "key": "W"
     }
   ],
-  "global-search:open": [],
-  "omnisearch:show-modal": [
+  "global-search:open": [
     {
       "modifiers": [
         "Mod",
