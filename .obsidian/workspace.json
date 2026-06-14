@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ответы.md",
+                "file": "Общая Биология/Вещества/Хромосомы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ответы"
+              "title": "Хромосомы"
             }
           },
           {
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "легки",
+                "query": "хромосо",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ответы.md",
+                "file": "Общая Биология/Вещества/Хромосомы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ответы"
+              "title": "Outline of Хромосомы"
             }
           },
           {
@@ -268,8 +268,9 @@
   },
   "active": "c4c50bdd30b18d7e",
   "lastOpenFiles": [
-    "Анатомия/Легкие.md",
+    "Общая Биология/Вещества/Гистоны.md",
     "Ответы.md",
+    "Анатомия/Легкие.md",
     "Общая Биология/Процессы/Дыхание – Аэробное окисление.md",
     "Относится напрямую к ЕГЭ/1 задание/Методы биологии.md",
     "Зоология/Кольчатые черви.md",
@@ -293,7 +294,6 @@
     "Анатомия/Кожа.md",
     "Ботаника/Эпидермис человека.md",
     "Общая Биология/Правила и принципы/Микробиология.md",
-    "Относится напрямую к ЕГЭ/1 задание/Уровни организации живого.md",
     "Картинки/Pasted image 20260611155941.png",
     "Картинки/Pasted image 20260611155615.png",
     "Картинки/Pasted image 20260611154708.png",
