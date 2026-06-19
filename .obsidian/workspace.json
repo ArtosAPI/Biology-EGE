@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "хромосо",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
