@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "мемб",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,8 +187,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27bd46df03b256db",
+  "active": "89a1f9a945efa031",
   "lastOpenFiles": [
+    "molecular-biology-aseev-M-2.pdf",
     "Общая Биология/Органоиды/Клеточная мембрана.md",
     "Молекулярная биология/МОС Молекулярная биология.md",
     "Общая Биология/МОС Общая Биология.md",
@@ -214,7 +216,6 @@
     "Относится напрямую к ЕГЭ/1 задание/Вклад разных ученых.md",
     "Относится напрямую к ЕГЭ/1 задание/Биологические науки (биология как наука).md",
     "Анатомия/Спинной мозг.md",
-    "Анатомия/Мотонейроны — двигательные нейроны.md",
     "Картинки/Pasted image 20260611155941.png",
     "Картинки/Pasted image 20260611155615.png",
     "Картинки/Pasted image 20260611154708.png",
