@@ -1,0 +1,9 @@
+{
+  "id": "obsmat",
+  "name": "MathMacro",
+  "version": "1.0.2",
+  "minAppVersion": "1.5.0",
+  "description": "A plugin simulating the WordMat experience. Write Math/Physics/Chemistry notation comfortably like in WordMat, rather than spending more time writing LaTeX.",
+  "author": "Catmullah",
+  "isDesktopOnly": false
+}
