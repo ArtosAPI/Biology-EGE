@@ -82,5 +82,13 @@
       ],
       "key": "F"
     }
+  ],
+  "obsidian-text-format:wrapper:underline": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
   ]
 }

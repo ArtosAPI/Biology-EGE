@@ -15,5 +15,7 @@
   "text-extractor",
   "find-unlinked-files",
   "find-orphaned-images",
-  "easy-copy"
+  "easy-copy",
+  "mathify-notes",
+  "chem"
 ]
