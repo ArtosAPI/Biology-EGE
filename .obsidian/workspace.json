@@ -32,8 +32,23 @@
               "icon": "lucide-file",
               "title": "Функциональные группы"
             }
+          },
+          {
+            "id": "133bf8742edaeb60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Молекулярная биология/Ван-дер-ваальсовые связи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ван-дер-ваальсовые связи"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Биоорганика/bioorganic-chemistry-p1-antipin-M.pdf",
+                "file": "Молекулярная биология/Ван-дер-ваальсовые связи.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,14 +216,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "474dbb492f7b00ec",
+  "active": "133bf8742edaeb60",
   "lastOpenFiles": [
-    "Биоорганика/Функциональные группы.md",
-    "Молекулярная биология/МОС Молекулярная биология.md",
-    "Биоорганика/bioorganic-chemistry-p1-antipin-M.pdf",
-    "Биоорганика",
+    "Классы органических соединении.md",
     "Молекулярная биология/Ван-дер-ваальсовые связи.md",
     "Молекулярная биология/Водородные связи.md",
+    "Биоорганика/Функциональные группы.md",
+    "Биоорганика/bioorganic-chemistry-p1-antipin-M.pdf",
+    "Молекулярная биология/МОС Молекулярная биология.md",
+    "Биоорганика",
     "Общая Биология/Вещества/Белки.md",
     "Молекулярная биология/Межолекулярные связи.md",
     "Молекулярная биология/molecular-biology-aseev-M-2.pdf",
