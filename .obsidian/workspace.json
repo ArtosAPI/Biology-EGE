@@ -25,12 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Анатомия/Т-лимфоциты – Т-клетки.md",
+                "file": "Анатомия/Кровь.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Т-лимфоциты – Т-клетки"
+              "title": "Кровь"
+            }
+          },
+          {
+            "id": "2f60f0e329049cbc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
             }
           }
         ],
@@ -53,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Т-лимфоциты",
+                "query": "кровь",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анатомия/Т-лимфоциты – Т-клетки.md",
+                "file": "Анатомия/Кровь.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,6 +215,7 @@
   },
   "active": "2f4d3c912f070cca",
   "lastOpenFiles": [
+    "Анатомия/Т-лимфоциты – Т-клетки.md",
     "Биоорганика/Классы органических соединении.md",
     "Биоорганика/Untitled",
     "Биоорганика/Полифункциональные соединения/Химия природных соединений.md",
