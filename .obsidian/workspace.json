@@ -33,9 +33,19 @@
               "icon": "lucide-table",
               "title": "Систематизация знании"
             }
+          },
+          {
+            "id": "f06d398d36ea8370",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +121,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Систематизация знании.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,8 +212,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f4d3c912f070cca",
+  "active": "f06d398d36ea8370",
   "lastOpenFiles": [
+    "Систематизация знании.base",
     "Относится напрямую к ЕГЭ/1 задание/Биологические науки (биология как наука).md",
     "Лекция 1.md",
     "OpenClaw_Success.md",
