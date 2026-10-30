@@ -25,14 +25,13 @@
             "id": "2f4d3c912f070cca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Биологические науки (биология как наука).md",
-                "mode": "source",
-                "source": false
+                "file": "Систематизация знании.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Биологические науки (биология как наука)"
+              "icon": "lucide-table",
+              "title": "Систематизация знании"
             }
           }
         ],
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Относится напрямую к ЕГЭ/1 задание/Биологические науки (биология как наука).md",
+                "file": "Систематизация знании.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,8 +205,8 @@
   },
   "active": "2f4d3c912f070cca",
   "lastOpenFiles": [
-    "Лекция 1.md",
     "Относится напрямую к ЕГЭ/1 задание/Биологические науки (биология как наука).md",
+    "Лекция 1.md",
     "OpenClaw_Success.md",
     "Биоорганика/bioorganic-chemistry-p1-antipin-M.pdf",
     "Анатомия/MOC Анатомия.md",
